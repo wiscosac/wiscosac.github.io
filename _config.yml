@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "UW Madison Sports Analytics Club"
+title                    : "UW Madison Sports Analytics"
 title_separator          : "-"
 name                     : &name ""
 description              : &description "Publishing analytical, data driven insights of sports today"
