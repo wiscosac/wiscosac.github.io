@@ -10,7 +10,10 @@ main:
     url: /talks/    
 
   - title: "Calender"
-    url: /teaching/    
+    url: /teaching/
+    
+  - title: "Past Meetings"
+    url: /teaching/
     
   - title: "Guide"
     url: /markdown/
