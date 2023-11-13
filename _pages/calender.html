@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Calendar</title>
+    <link rel="stylesheet" type="text/css" href="* {
+  box-sizing: border-box;
+}
+
+body {
+  display:flex;
+  background-color:#e9f5f4;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+
+#month {
+   font: 5em serif;
+}
+
+.container {
+    margin: auto;
+  display:grid;
+  grid-template-columns: repeat(6, 4em);
+  grid-auto-rows: 4em;
+  grid-gap: 6.5px;
+  margin-top: 30px;
+}
+.date {
+  display:flex;
+  flex-direction:column;
+  border: 2.4px solid black;
+  text-align:center;
+  font-family: serif;
+  align-items: center;
+  justify-content:center;
+  font-size: 2.2em;
+}
+
+.buttons {
+    display: flex;
+    margin: 20px;
+    flex-direction: row;
+}
+button {
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    font-family: serif;
+    font-size: 2.2em;
+}
+
+.special {
+  grid-column : 1 / span 2;
+  grid-row : 1 / span 2;
+}
+
+button:hover {
+    color: antiquewhite;
+}
+
+.date:hover {
+    border:none;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+">
+</head>
+<body>
+	<header id="month">November</header>
+	<div class="container">
+    </div>
+    <div class="buttons">
+        <button type="button" id='previous'>< Previous</button>
+        <button type="button" id='next'>Next ></button>
+    </div>
+    <script src="const calendarElement = document.querySelector('.container');
+const monthElement = document.querySelector('#month');
+const nextBtn = document.querySelector('#next');
+const prevBtn = document.querySelector('#previous');
+const months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+const days = ['Sun.','Mon.','Tue.','Wed.','Thu.','Fri.','Sat.'];
+const monthDays = [31,28,31,30,31,30,31,31,30,31,30,31];
+const year=2020;
+let currentMonthNumber = 0;
+
+nextBtn.addEventListener('click',() => {
+    if(currentMonthNumber<11) {
+        currentMonthNumber+=1;
+        depopulateCalendar();
+        populateCalendar(currentMonthNumber);
+    } 
+});
+
+prevBtn.addEventListener('click', () => {
+    if(currentMonthNumber>0) {
+        currentMonthNumber-=1;
+        depopulateCalendar();
+        populateCalendar(currentMonthNumber);
+    }
+});
+
+function determineDay(date) {
+    const d = new Date(months[currentMonthNumber]+' '+date+','+year);
+    return days[d.getDay()];
+}
+
+function getDateElement(date) {
+    let ele = document.createElement('div');
+    ele.id = date;
+    ele.classList.add('date');
+    if(date==1) {
+        ele.classList.add('special');
+    }
+    ele.addEventListener("mouseover", ($event) => {
+        ele.textContent=determineDay(ele.id);
+    });
+    ele.addEventListener('mouseleave',($event)=>{
+        ele.textContent=ele.id;
+    });
+    ele.textContent = date;
+    return ele;
+}
+
+function populateCalendar(monthNumber) {
+    monthElement.textContent= months[monthNumber];
+    for(let i=1;i<=monthDays[monthNumber];i++) {
+        calendarElement.appendChild(getDateElement(i));
+    }
+}
+
+function depopulateCalendar() {
+    calendarElement.innerHTML='';
+}
+
+populateCalendar(currentMonthNumber);
+
+"></script>
+</body>
+</html>
