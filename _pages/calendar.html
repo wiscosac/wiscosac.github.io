@@ -119,43 +119,44 @@ author_profile: true
     // Add more events as needed...
   };
 
-  function generateCalendar(year, month) {
-    const firstDay = new Date(year, month, 1);
-    const lastDay = new Date(year, month + 1, 0);
+function generateCalendar(year, month) {
+  const firstDay = new Date(year, month, 1);
+  const lastDay = new Date(year, month + 1, 0);
+  const daysInMonth = lastDay.getDate();
 
-    calendarBody.innerHTML = '';
+  const calendarBody = document.querySelector('#calendar tbody');
+  calendarBody.innerHTML = '';
 
-    let date = 1;
-    for (let i = 0; i < 5; i++) {
-      const row = document.createElement('tr');
+  let date = 1;
+  for (let i = 0; i < 6; i++) {
+    const row = document.createElement('tr');
 
-      for (let j = 0; j < 7; j++) {
-        const cell = document.createElement('td');
-        if (i === 0 && j < firstDay.getDay()) {
-          // Empty cells before the first day of the month
-          cell.textContent = '';
-        } else if (date > lastDay.getDate()) {
-          // Empty cells after the last day of the month
-          cell.textContent = '';
-        } else {
-          cell.textContent = date;
-          const currentDate = `${year}-${month + 1}-${date}`;
-          if (events[currentDate]) {
-            const eventIndicator = document.createElement('div');
-            eventIndicator.classList.add('event-indicator');
-            eventIndicator.textContent = `(${events[currentDate].length})`;
-            cell.appendChild(eventIndicator);
-            cell.addEventListener('click', () => openModal(date, month, year, events[currentDate]));
-          }
-          date++;
+    for (let j = 0; j < 7; j++) {
+      const cell = document.createElement('td');
+      if (i === 0 && j < firstDay.getDay()) {
+        // Empty cells before the first day of the month
+        cell.textContent = '';
+      } else if (date <= daysInMonth) {
+        cell.textContent = date;
+
+        const currentDate = `${year}-${month + 1}-${date}`;
+        if (events[currentDate]) {
+          const eventIndicator = document.createElement('div');
+          eventIndicator.classList.add('event-indicator');
+          eventIndicator.textContent = `(${events[currentDate].length})`;
+          cell.appendChild(eventIndicator);
+          cell.addEventListener('click', () => openModal(date, month, year, events[currentDate]));
         }
 
-        row.appendChild(cell);
+        date++;
       }
-
-      calendarBody.appendChild(row);
+      row.appendChild(cell);
     }
+
+    calendarBody.appendChild(row);
   }
+}
+
 
   function openModal(day, month, year, dayEvents) {
     modal.style.display = 'block';
