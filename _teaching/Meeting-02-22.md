@@ -13,3 +13,4 @@ NCAA Mens Basketball Game Data
 
 Broke into groups to look over 2023 submissions for [Keggle March Madness tournement](https://www.kaggle.com/competitions/march-machine-learning-mania-2023/leaderboard)
 
+[Other data from keggle (Updated for 2024)](https://www.kaggle.com/datasets/nishaanamin/march-madness-data)
