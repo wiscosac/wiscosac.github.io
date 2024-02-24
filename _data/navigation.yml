@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Posts"
-    url: /year-archive/
+  #- title: "Posts"
+  #  url: /year-archive/
   
-  - title: "Tutorials"
-    url: /portfolio/
+  #- title: "Tutorials"
+  #  url: /portfolio/
     
-  - title: "Talks"
-    url: /talks/    
+  #- title: "Talks"
+  #  url: /talks/    
 
   - title: "Calendar"
     url: /calender/
@@ -15,5 +15,5 @@ main:
   - title: "Past Meetings"
     url: /teaching/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+    #url: /markdown/
