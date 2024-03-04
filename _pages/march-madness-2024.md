@@ -11,7 +11,7 @@ The tasks of this challenge are quite simple, predict the likelihood of victory 
 
 **Submitting:** A major distinction between the 2 challenges is what you need to submit. For both, you will be spending most of your effort building a model to predict the winner of a game. However, for this challenge, you will be expected to provide a likelihood estimate for every possible matchup in the tournament (Meaning many of these games won't actually ever happen). Once the tournament teams are selected, we will provide code in both R and Python to systematically create this standardized submission file, so that we can easily measure success.
 
-**You will need to submit (1) the csv file with your likelihood of winning for each possible matchup and (2) replicatable code file(s) that show the methods you used to get your predictions.** (Insert picture of example csv file)
+**You will need to submit (1) the csv file with your likelihood of winning for each possible matchup and (2) replicatable code file(s) that show the methods you used to get your predictions.** 
 
 **Scoring:**
 There will be 3 winners for our competition:

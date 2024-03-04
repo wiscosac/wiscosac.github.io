@@ -2,12 +2,12 @@
 main:
   #- title: "Posts"
   #  url: /year-archive/
-  
-  #- title: "Tutorials"
-  #  url: /portfolio/
     
   #- title: "Talks"
   #  url: /talks/    
+
+ #- title: "Member Projects"
+  #  url: /member-projects/
 
   - title: "Calendar"
     url: /calender/
@@ -17,3 +17,6 @@ main:
     
   - title: "March Madness Data Challenge"
     url: /march-madness/
+
+  -title: "NFL Data Visualization Workshop"
+    url: /nfl-data/
