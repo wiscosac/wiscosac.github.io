@@ -4,7 +4,7 @@ permalink: /nfl-data/
 author_profile: true
 ---
 
-# NFL Data Visualization Workshop
+
 
  View the following projects in R and Python on Github for a data visualization workshop.
 

@@ -3,7 +3,7 @@ title: "March Madness Data Challenge"
 permalink: /march-madness/
 author_profile: true
 ---
-# March Madness Data Challenge
+
 ## Hosted by Sports Analytics Club, UW-Madison
 The tasks of this challenge are quite simple, predict the likelihood of victory for each game in the Men's and Women's 2024 NCAA March Madness Tournament, with data-backed selection of your choices. This is a branch-off of a much larger, and long-standing challenge that is being hosted for the tenth time on Kaggle (link), and you are encouraged to participate in both challenges, however the end-of-challenge submission is slightly different.
 
