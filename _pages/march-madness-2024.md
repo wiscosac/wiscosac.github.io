@@ -15,7 +15,7 @@ The tasks of this challenge are quite simple, predict the likelihood of victory 
 
 **Scoring:**
 There will be 3 winners for our competition:
-* Winner 1: Highest Score using win likelihood estimates. For each game that is actually played, your predicted likelihood of the higher seed will be compared to the actual outcome, and you will get a score for the difference. So, for example if a 1 seeded Purdue loses a 6 seeded Wisconsin in the Elite 8, and your model predicted that Purdue had a 70% chance to win, you would receive 1-0.7=0.3 points for this matchup. These scores will be calculated and added together for every game that is actually played, regardless of if you expected the teams to even make it to the game that they played in.
+* Winner 1: Highest Score using Brier Score. This is the mean squared differece between your preicted likelihood and the actual outcome of the game. **Ex.** if a 1 seeded Purdue loses to a 6 seeded Wisconsin in the Elite 8, and your model predicted that Purdue had a 70% chance to win, you would receive (1-0.7)^2=0.3^2 points for this matchup. These scores will be calculated for each game that is played and aceraged together, regardless of if you expected the teams to even make it to the game that they played in.
 
 * Winner 2: Most games picked correctly (likelihood > 0.5)
 
