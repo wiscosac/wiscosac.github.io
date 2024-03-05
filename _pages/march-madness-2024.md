@@ -24,3 +24,5 @@ There will be 3 winners in our competition:
 That's all for now, so get started on building a model for predicting the winner of a game between 2 teams.
 Then, come back here on Selection Sunday (March 17th) once the tournaments are set. From there, you can run your model for each possible matchup, with code that will be made available here (not yet available).
 Once done, fill out this (not yet available) Google Form to submit your files. From there, keep up with how your model is doing by checking back here after each round!
+
+Please reach out to llwelsh@wisc.edu with any questions!
