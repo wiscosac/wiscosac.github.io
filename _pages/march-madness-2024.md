@@ -34,4 +34,7 @@ Please reach out to llwelsh@wisc.edu with any questions!
 ## Machine Learning Workshop Download Links
 
 * <a href="https://wiscosac.github.io/files/modelcode.R">R Workshop</a>
+    * Data for the R workshop can be found [here](https://www.kaggle.com/datasets/nishaanamin/march-madness-data).
 * <a href="https://wiscosac.github.io/files/ML_Mania_Workshop.ipynb">Python Workshop</a>
+    * Data for the Python workshop can be found [here](https://www.kaggle.com/competitions/march-machine-learning-mania-2024/data).
+    
