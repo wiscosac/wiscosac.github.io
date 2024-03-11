@@ -33,5 +33,5 @@ Please reach out to llwelsh@wisc.edu with any questions!
 
 ## Machine Learning Workshop Download Links
 
-* <a href="wiscosac.github.io/files/modelcode.R" download>R Workshop</a>
-* <a href="wiscosac.github.io/files/ML_Mania_Workshop.ipynb" download>Python Workshop</a>
+* <a href="https://wiscosac.github.io/files/modelcode.R">R Workshop</a>
+* <a href="https://wiscosac.github.io/files/ML_Mania_Workshop.ipynb">Python Workshop</a>
