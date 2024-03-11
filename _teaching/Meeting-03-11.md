@@ -16,4 +16,4 @@ Workshop by Luke and Shekhar in R and Python on how to build a model predicting 
 * <a href="wiscosac.github.io/files/modelcode.R" download>R Workshop</a>
 * <a href="wiscosac.github.io/files/ML_Mania_Workshop.ipynb" download>Python Workshop</a>
 
-If you missed this meeting you can also attend [dotData's workshop on Wednesday](http://dotdatascience.org/2024/03/3-13-2024-sports-prediction-workshop-with-prof-bret-larget/).
+If you missed this meeting you can also attend <a href="http://dotdatascience.org/2024/03/3-13-2024-sports-prediction-workshop-with-prof-bret-larget/" target="_blank">dotData's workshop on Wednesday</a>.
