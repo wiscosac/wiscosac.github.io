@@ -8,7 +8,7 @@ author_profile: true
 The tasks of this challenge are quite simple, predict the likelihood of victory for each game in the Men's and Women's 2024 NCAA March Madness Tournament, with a data-backed selection of your choices. This is a branch-off of a much larger, and long-standing challenge that is being hosted for the tenth time on Kaggle ([link](https://www.kaggle.com/competitions/march-machine-learning-mania-2024/overview)). You are encouraged to participate in both challenges, however, the end-of-challenge submission is slightly different.
 
 **Workshop:** There are two workshops taking place in the week leading up to Selection Sunday. You are welcome to attend either, or both!
-- Sports Analytics Club will be hosting a workshop for getting started with a prediction model for any game of 2 opponents. This will take place on Monday, March 11 at 5:30pm in Engineering Hall, room 2255. Links to the files for this workshop will be posted here soon!
+- Sports Analytics Club will be hosting a workshop for getting started with a prediction model for any game of 2 opponents. This will take place on Monday, March 11 at 5:30pm in Engineering Hall, room 2255. Links to the files for this workshop are posted [below](#machine-learning-workshop-download-links).
 - dotData Club is also hosting a similar workshop on Wednesday, March 13 at 6pm in Computer Sciences, room 1240. This workshop will be led by Professor Bret Larget.
 
 **Data:** Please refer to Kaggle's Data tab ([link](https://www.kaggle.com/competitions/march-machine-learning-mania-2024/data)) to access the provided data and the accompanying data dictionary. You are welcome to, but not expected to, collect any additional data that you would like.
@@ -30,3 +30,8 @@ Then, come back here on Selection Sunday (March 17th) once the tournaments are s
 Once done, fill out this (not yet available) Google Form to submit your files. From there, keep up with how your model is doing by checking back here after each round!
 
 Please reach out to llwelsh@wisc.edu with any questions!
+
+## Machine Learning Workshop Download Links
+
+* <a href="wiscosac.github.io/files/modelcode.R" download>R Workshop</a>
+* <a href="wiscosac.github.io/files/ML_Mania_Workshop.ipynb" download>Python Workshop</a>
