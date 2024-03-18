@@ -15,18 +15,17 @@ The tasks of this challenge are quite simple, predict the likelihood of victory 
 
 **Submitting:** A major distinction between the 2 challenges is what you need to submit. For both, you will be spending most of your effort building a model to predict the winner of a game. However, for this challenge, you will be expected to provide a likelihood estimate for every possible matchup in the tournament (Meaning many of these games won't ever happen). Once the tournament teams are selected, we will provide code here (not yet available) in both R and Python to systematically create this standardized submission file, so that we can easily measure success. This CSV file will consist of 3 columns and 1 row for each possible matchup (68 C 2 = 2278). The first column will consist of the better seed, the second will be the worse seed, and the last column will be your model's predicted likelihood of the better seed winning (0-1).
 
-*Here is a sample of the dataframe that will be used to evaluate your model. This is made from last years tournement and you must use your model to add a new column to this dataframe, with values 0 to 1, that represents the likelihood that T1 would win against the given T2.*
+*Here is the dataframe that will be used to evaluate your model. You must use your model to add a new column to this dataframe, with values 0 to 1, that represents the likelihood that T1 would win against the given T2.*
 
-|T1_Spelling|T1_ID|T1_Seed|T2_Spelling|T2_ID|T2_Seed|
-| --- | --- | --- | --- | --- | --- |
-alabama|1104|1|purdue|1345|1
-alabama|1104|1|kansas|1242|1
-alabama|1104|1|houston|1222|1
-alabama|1104|1|texas|1400|2
-alabama|1104|1|ucla|1417|2
-alabama|1104|1|marquette|1266|2
+| |T1_Spelling|T1_ID|T1_Seed|T2_Spelling|T2_ID|T2_Seed|
+|--- | --- | --- | --- | --- | --- | --- |
+0|south carolina|3376|1|usc|3425|1
+1|south carolina|3376|1|texas|3400|1
+2|south carolina|3376|1|iowa|3234|1
+3|south carolina|3376|1|ohio state|3326|2
+4|south carolina|3376|1|notre dame|3323|2
 
-<a href="https://wiscosac.github.io/files/2023_Potential_Matchups.csv">Download the whole dataframe here</a>
+<a href="https://wiscosac.github.io/files/2024_Potential_Matchups.csv">Download the whole dataframe here</a>
 
 **You will need to submit (1) the CSV file with your likelihood of winning for each possible matchup and (2) replicable code file(s) that show the methods you used to get your predictions.** 
 
