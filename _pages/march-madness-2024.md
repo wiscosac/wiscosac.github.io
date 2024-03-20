@@ -26,6 +26,8 @@ The tasks of this challenge are quite simple, predict the likelihood of victory 
 4|south carolina|3376|1|notre dame|3323|2
 
 <a href="https://wiscosac.github.io/files/2024_Potential_Matchups.csv">Download the whole dataframe here</a>
+[Submission form](https://forms.gle/iHJ7xNB9RS6omVGc6)
+[Python Submission Guide](https://github.com/wiscosac/wiscosac.github.io/blob/master/files/python_submission_ex.ipynb)
 
 **You will need to submit (1) the CSV file with your likelihood of winning for each possible matchup and (2) replicable code file(s) that show the methods you used to get your predictions.** 
 
