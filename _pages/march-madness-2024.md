@@ -5,6 +5,9 @@ author_profile: true
 ---
 
 ## Hosted by Sports Analytics Club, UW-Madison
+
+[**View Leaderboard**](#leaderboard)
+
 The tasks of this challenge are quite simple, predict the likelihood of victory for each game in the Men's and Women's 2024 NCAA March Madness Tournament, with a data-backed selection of your choices. This is a branch-off of a much larger, and long-standing challenge that is being hosted for the tenth time on Kaggle ([link](https://www.kaggle.com/competitions/march-machine-learning-mania-2024/overview)). You are encouraged to participate in both challenges, however, the end-of-challenge submission is slightly different.
 
 **Workshop:** There are two workshops taking place in the week leading up to Selection Sunday. You are welcome to attend either, or both!
@@ -54,6 +57,6 @@ Please reach out to llwelsh@wisc.edu with any questions!
     * Data for the Python workshop can be found [here](https://www.kaggle.com/competitions/march-machine-learning-mania-2024/data).
     
 
-## Standings
+## Leaderboard
 
 <iframe width="100%" height="500px" src="https://docs.google.com/spreadsheets/d/1Q2f371ulX-dQiYylXB5pb6boc1aUJglycX-VVWV3rCs/edit?usp=sharing?widget=true&amp;headers=false?rm=minimal&amp;?single=true&amp;"></iframe>
