@@ -29,6 +29,7 @@ The tasks of this challenge are quite simple, predict the likelihood of victory 
 [Submission form](https://forms.gle/iHJ7xNB9RS6omVGc6) <br>
 [Python Submission Guide](https://github.com/wiscosac/wiscosac.github.io/blob/master/files/python_submission_ex.ipynb)
 
+
 **You will need to submit (1) the CSV file with your likelihood of winning for each possible matchup and (2) replicable code file(s) that show the methods you used to get your predictions.** 
 
 **Scoring:**
@@ -52,3 +53,7 @@ Please reach out to llwelsh@wisc.edu with any questions!
 * <a href="https://wiscosac.github.io/files/ML_Mania_Workshop.ipynb">Python Workshop</a>
     * Data for the Python workshop can be found [here](https://www.kaggle.com/competitions/march-machine-learning-mania-2024/data).
     
+
+## Standings
+
+<iframe width="100%" height="500px" src="https://docs.google.com/spreadsheets/d/1Q2f371ulX-dQiYylXB5pb6boc1aUJglycX-VVWV3rCs/edit?usp=sharing?widget=true&amp;headers=false?rm=minimal&amp;?single=true&amp;"></iframe>
