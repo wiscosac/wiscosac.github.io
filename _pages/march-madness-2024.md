@@ -44,8 +44,8 @@ There will be 3 winners in our competition:
 * Winner 3: Most creative, or unique approach to building your model.
 
 That's all for now, so get started on building a model for predicting the winner of a game between 2 teams.
-Then, come back here on Selection Sunday (March 17th) once the tournaments are set. From there, you can run your model for each possible matchup, with code that will be made available here (not yet available).
-Once done, fill out this (not yet available) Google Form to submit your files. From there, keep up with how your model is doing by checking back here after each round!
+Then, come back here on Selection Sunday (March 17th) once the tournaments are set. From there, you can run your model for each possible matchup (<a href="https://wiscosac.github.io/files/2024_Potential_Matchups.csv">here</a>), with code that will be made available [here](https://github.com/wiscosac/wiscosac.github.io/blob/master/files/python_submission_ex.ipynb).
+Once done, fill out [this](https://forms.gle/iHJ7xNB9RS6omVGc6) Google Form to submit your files. From there, keep up with how your model is doing by checking back here after each round!
 
 Please reach out to llwelsh@wisc.edu with any questions!
 
