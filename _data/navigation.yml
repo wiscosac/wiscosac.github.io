@@ -9,8 +9,8 @@ main:
  #- title: "Member Projects"
   #  url: /member-projects/
 
-  - title: "Calendar"
-    url: /calender/
+ # - title: "Calendar"
+  #  url: /calender/
     
   - title: "Past Meetings"
     url: /teaching/
