@@ -14,6 +14,9 @@ main:
     
   - title: "Past Meetings"
     url: /teaching/
+
+  - title: "Our Team"
+    url: /team/
     
   - title: "March Madness Data Challenge"
     url: /march-madness/
