@@ -12,14 +12,14 @@ main:
  # - title: "Calendar"
   #  url: /calender/
     
-  - title: "Past Meetings"
-    url: /teaching/
+  #- title: "Past Meetings"
+   # url: /teaching/
 
-  - title: "Leadership Team"
-    url: /team/
+  #- title: "Leadership Team"
+   # url: /team/
     
-  - title: "March Madness Data Challenge"
-    url: /march-madness/
+  #- title: "March Madness Data Challenge"
+   # url: /march-madness/
 
-  - title: "NFL Data Visualization Workshop"
-    url: /nfl-data/
+  #- title: "NFL Data Visualization Workshop"
+   # url: /nfl-data/
