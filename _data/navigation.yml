@@ -2,6 +2,8 @@
 main:
   #- title: "Posts"
   #  url: /year-archive/
+  - title: "New Website"
+    url: https://wiscosac.wordpress.com/
     
   #- title: "Talks"
   #  url: /talks/    
