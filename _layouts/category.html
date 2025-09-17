@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<section class="listing">
+  <h1>{{ page.title }}</h1>
+  {% assign coll = page.collection | default: page.category %}
+  {% assign items = site[coll] | sort: 'date' | reverse %}
+  <ul class="item-list">
+    {% for item in items %}
+      <li>
+        <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+        {% if item.date %}<span class="meta">— {{ item.date | date: "%b %d, %Y" }}</span>{% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+
+  {% if paginator %}
+    <nav class="pagination">
+      {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path | relative_url }}">Newer</a>
+      {% endif %}
+      {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path | relative_url }}">Older</a>
+      {% endif %}
+    </nav>
+  {% endif %}
+</section>
