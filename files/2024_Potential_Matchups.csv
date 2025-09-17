@@ -1,0 +1,4557 @@
+,T1_Spelling,T1_ID,T1_Seed,T2_Spelling,T2_ID,T2_Seed
+0,south carolina,3376,1,usc,3425,1
+1,south carolina,3376,1,texas,3400,1
+2,south carolina,3376,1,iowa,3234,1
+3,south carolina,3376,1,ohio state,3326,2
+4,south carolina,3376,1,notre dame,3323,2
+5,south carolina,3376,1,ucla,3417,2
+6,south carolina,3376,1,stanford,3390,2
+7,south carolina,3376,1,lsu,3261,3
+8,south carolina,3376,1,uconn,3163,3
+9,south carolina,3376,1,nc state,3301,3
+10,south carolina,3376,1,oregon state,3333,3
+11,south carolina,3376,1,virginia tech,3439,4
+12,south carolina,3376,1,kansas state,3243,4
+13,south carolina,3376,1,indiana,3231,4
+14,south carolina,3376,1,gonzaga,3211,4
+15,south carolina,3376,1,baylor,3124,5
+16,south carolina,3376,1,colorado,3160,5
+17,south carolina,3376,1,utah,3428,5
+18,south carolina,3376,1,oklahoma,3328,5
+19,south carolina,3376,1,tennessee,3397,6
+20,south carolina,3376,1,nebraska,3304,6
+21,south carolina,3376,1,syracuse,3393,6
+22,south carolina,3376,1,louisville,3257,6
+23,south carolina,3376,1,duke,3181,7
+24,south carolina,3376,1,ole miss,3279,7
+25,south carolina,3376,1,creighton,3166,7
+26,south carolina,3376,1,iowa state,3235,7
+27,south carolina,3376,1,kansas,3242,8
+28,south carolina,3376,1,alabama,3104,8
+29,south carolina,3376,1,north carolina,3314,8
+30,south carolina,3376,1,west virginia,3452,8
+31,south carolina,3376,1,michigan,3276,9
+32,south carolina,3376,1,florida state,3199,9
+33,south carolina,3376,1,michigan state,3277,9
+34,south carolina,3376,1,princeton,3343,9
+35,south carolina,3376,1,richmond,3350,10
+36,south carolina,3376,1,marquette,3266,10
+37,south carolina,3376,1,unlv,3424,10
+38,south carolina,3376,1,maryland,3268,10
+39,south carolina,3376,1,middle tennessee,3292,11
+40,south carolina,3376,1,texas a&m,3401,11
+41,south carolina,3376,1,green bay,3453,11
+42,south carolina,3376,1,auburn,3120,11
+43,south carolina,3376,1,arizona,3112,11
+44,south carolina,3376,1,florida gulf coast,3195,12
+45,south carolina,3376,1,south dakota state,3355,12
+46,south carolina,3376,1,columbia,3162,12
+47,south carolina,3376,1,vanderbilt,3435,12
+48,south carolina,3376,1,drake,3179,12
+49,south carolina,3376,1,portland,3339,13
+50,south carolina,3376,1,fairfield,3193,13
+51,south carolina,3376,1,marshall,3267,13
+52,south carolina,3376,1,uc irvine,3414,13
+53,south carolina,3376,1,chattanooga,3151,14
+54,south carolina,3376,1,jackson state,3238,14
+55,south carolina,3376,1,rice,3349,14
+56,south carolina,3376,1,eastern washington,3186,14
+57,south carolina,3376,1,maine,3263,15
+58,south carolina,3376,1,california baptist,3465,15
+59,south carolina,3376,1,kent state,3245,15
+60,south carolina,3376,1,norfolk state,3313,15
+61,south carolina,3376,1,sacred heart,3357,16
+62,south carolina,3376,1,holy cross,3221,16
+63,south carolina,3376,1,presbyterian,3342,16
+64,south carolina,3376,1,drexel,3180,16
+65,south carolina,3376,1,ut martin,3404,16
+66,south carolina,3376,1,a&m-corpus christi,3394,16
+67,usc,3425,1,texas,3400,1
+68,usc,3425,1,iowa,3234,1
+69,usc,3425,1,ohio state,3326,2
+70,usc,3425,1,notre dame,3323,2
+71,usc,3425,1,ucla,3417,2
+72,usc,3425,1,stanford,3390,2
+73,usc,3425,1,lsu,3261,3
+74,usc,3425,1,uconn,3163,3
+75,usc,3425,1,nc state,3301,3
+76,usc,3425,1,oregon state,3333,3
+77,usc,3425,1,virginia tech,3439,4
+78,usc,3425,1,kansas state,3243,4
+79,usc,3425,1,indiana,3231,4
+80,usc,3425,1,gonzaga,3211,4
+81,usc,3425,1,baylor,3124,5
+82,usc,3425,1,colorado,3160,5
+83,usc,3425,1,utah,3428,5
+84,usc,3425,1,oklahoma,3328,5
+85,usc,3425,1,tennessee,3397,6
+86,usc,3425,1,nebraska,3304,6
+87,usc,3425,1,syracuse,3393,6
+88,usc,3425,1,louisville,3257,6
+89,usc,3425,1,duke,3181,7
+90,usc,3425,1,ole miss,3279,7
+91,usc,3425,1,creighton,3166,7
+92,usc,3425,1,iowa state,3235,7
+93,usc,3425,1,kansas,3242,8
+94,usc,3425,1,alabama,3104,8
+95,usc,3425,1,north carolina,3314,8
+96,usc,3425,1,west virginia,3452,8
+97,usc,3425,1,michigan,3276,9
+98,usc,3425,1,florida state,3199,9
+99,usc,3425,1,michigan state,3277,9
+100,usc,3425,1,princeton,3343,9
+101,usc,3425,1,richmond,3350,10
+102,usc,3425,1,marquette,3266,10
+103,usc,3425,1,unlv,3424,10
+104,usc,3425,1,maryland,3268,10
+105,usc,3425,1,middle tennessee,3292,11
+106,usc,3425,1,texas a&m,3401,11
+107,usc,3425,1,green bay,3453,11
+108,usc,3425,1,auburn,3120,11
+109,usc,3425,1,arizona,3112,11
+110,usc,3425,1,florida gulf coast,3195,12
+111,usc,3425,1,south dakota state,3355,12
+112,usc,3425,1,columbia,3162,12
+113,usc,3425,1,vanderbilt,3435,12
+114,usc,3425,1,drake,3179,12
+115,usc,3425,1,portland,3339,13
+116,usc,3425,1,fairfield,3193,13
+117,usc,3425,1,marshall,3267,13
+118,usc,3425,1,uc irvine,3414,13
+119,usc,3425,1,chattanooga,3151,14
+120,usc,3425,1,jackson state,3238,14
+121,usc,3425,1,rice,3349,14
+122,usc,3425,1,eastern washington,3186,14
+123,usc,3425,1,maine,3263,15
+124,usc,3425,1,california baptist,3465,15
+125,usc,3425,1,kent state,3245,15
+126,usc,3425,1,norfolk state,3313,15
+127,usc,3425,1,sacred heart,3357,16
+128,usc,3425,1,holy cross,3221,16
+129,usc,3425,1,presbyterian,3342,16
+130,usc,3425,1,drexel,3180,16
+131,usc,3425,1,ut martin,3404,16
+132,usc,3425,1,a&m-corpus christi,3394,16
+133,texas,3400,1,iowa,3234,1
+134,texas,3400,1,ohio state,3326,2
+135,texas,3400,1,notre dame,3323,2
+136,texas,3400,1,ucla,3417,2
+137,texas,3400,1,stanford,3390,2
+138,texas,3400,1,lsu,3261,3
+139,texas,3400,1,uconn,3163,3
+140,texas,3400,1,nc state,3301,3
+141,texas,3400,1,oregon state,3333,3
+142,texas,3400,1,virginia tech,3439,4
+143,texas,3400,1,kansas state,3243,4
+144,texas,3400,1,indiana,3231,4
+145,texas,3400,1,gonzaga,3211,4
+146,texas,3400,1,baylor,3124,5
+147,texas,3400,1,colorado,3160,5
+148,texas,3400,1,utah,3428,5
+149,texas,3400,1,oklahoma,3328,5
+150,texas,3400,1,tennessee,3397,6
+151,texas,3400,1,nebraska,3304,6
+152,texas,3400,1,syracuse,3393,6
+153,texas,3400,1,louisville,3257,6
+154,texas,3400,1,duke,3181,7
+155,texas,3400,1,ole miss,3279,7
+156,texas,3400,1,creighton,3166,7
+157,texas,3400,1,iowa state,3235,7
+158,texas,3400,1,kansas,3242,8
+159,texas,3400,1,alabama,3104,8
+160,texas,3400,1,north carolina,3314,8
+161,texas,3400,1,west virginia,3452,8
+162,texas,3400,1,michigan,3276,9
+163,texas,3400,1,florida state,3199,9
+164,texas,3400,1,michigan state,3277,9
+165,texas,3400,1,princeton,3343,9
+166,texas,3400,1,richmond,3350,10
+167,texas,3400,1,marquette,3266,10
+168,texas,3400,1,unlv,3424,10
+169,texas,3400,1,maryland,3268,10
+170,texas,3400,1,middle tennessee,3292,11
+171,texas,3400,1,texas a&m,3401,11
+172,texas,3400,1,green bay,3453,11
+173,texas,3400,1,auburn,3120,11
+174,texas,3400,1,arizona,3112,11
+175,texas,3400,1,florida gulf coast,3195,12
+176,texas,3400,1,south dakota state,3355,12
+177,texas,3400,1,columbia,3162,12
+178,texas,3400,1,vanderbilt,3435,12
+179,texas,3400,1,drake,3179,12
+180,texas,3400,1,portland,3339,13
+181,texas,3400,1,fairfield,3193,13
+182,texas,3400,1,marshall,3267,13
+183,texas,3400,1,uc irvine,3414,13
+184,texas,3400,1,chattanooga,3151,14
+185,texas,3400,1,jackson state,3238,14
+186,texas,3400,1,rice,3349,14
+187,texas,3400,1,eastern washington,3186,14
+188,texas,3400,1,maine,3263,15
+189,texas,3400,1,california baptist,3465,15
+190,texas,3400,1,kent state,3245,15
+191,texas,3400,1,norfolk state,3313,15
+192,texas,3400,1,sacred heart,3357,16
+193,texas,3400,1,holy cross,3221,16
+194,texas,3400,1,presbyterian,3342,16
+195,texas,3400,1,drexel,3180,16
+196,texas,3400,1,ut martin,3404,16
+197,texas,3400,1,a&m-corpus christi,3394,16
+198,iowa,3234,1,ohio state,3326,2
+199,iowa,3234,1,notre dame,3323,2
+200,iowa,3234,1,ucla,3417,2
+201,iowa,3234,1,stanford,3390,2
+202,iowa,3234,1,lsu,3261,3
+203,iowa,3234,1,uconn,3163,3
+204,iowa,3234,1,nc state,3301,3
+205,iowa,3234,1,oregon state,3333,3
+206,iowa,3234,1,virginia tech,3439,4
+207,iowa,3234,1,kansas state,3243,4
+208,iowa,3234,1,indiana,3231,4
+209,iowa,3234,1,gonzaga,3211,4
+210,iowa,3234,1,baylor,3124,5
+211,iowa,3234,1,colorado,3160,5
+212,iowa,3234,1,utah,3428,5
+213,iowa,3234,1,oklahoma,3328,5
+214,iowa,3234,1,tennessee,3397,6
+215,iowa,3234,1,nebraska,3304,6
+216,iowa,3234,1,syracuse,3393,6
+217,iowa,3234,1,louisville,3257,6
+218,iowa,3234,1,duke,3181,7
+219,iowa,3234,1,ole miss,3279,7
+220,iowa,3234,1,creighton,3166,7
+221,iowa,3234,1,iowa state,3235,7
+222,iowa,3234,1,kansas,3242,8
+223,iowa,3234,1,alabama,3104,8
+224,iowa,3234,1,north carolina,3314,8
+225,iowa,3234,1,west virginia,3452,8
+226,iowa,3234,1,michigan,3276,9
+227,iowa,3234,1,florida state,3199,9
+228,iowa,3234,1,michigan state,3277,9
+229,iowa,3234,1,princeton,3343,9
+230,iowa,3234,1,richmond,3350,10
+231,iowa,3234,1,marquette,3266,10
+232,iowa,3234,1,unlv,3424,10
+233,iowa,3234,1,maryland,3268,10
+234,iowa,3234,1,middle tennessee,3292,11
+235,iowa,3234,1,texas a&m,3401,11
+236,iowa,3234,1,green bay,3453,11
+237,iowa,3234,1,auburn,3120,11
+238,iowa,3234,1,arizona,3112,11
+239,iowa,3234,1,florida gulf coast,3195,12
+240,iowa,3234,1,south dakota state,3355,12
+241,iowa,3234,1,columbia,3162,12
+242,iowa,3234,1,vanderbilt,3435,12
+243,iowa,3234,1,drake,3179,12
+244,iowa,3234,1,portland,3339,13
+245,iowa,3234,1,fairfield,3193,13
+246,iowa,3234,1,marshall,3267,13
+247,iowa,3234,1,uc irvine,3414,13
+248,iowa,3234,1,chattanooga,3151,14
+249,iowa,3234,1,jackson state,3238,14
+250,iowa,3234,1,rice,3349,14
+251,iowa,3234,1,eastern washington,3186,14
+252,iowa,3234,1,maine,3263,15
+253,iowa,3234,1,california baptist,3465,15
+254,iowa,3234,1,kent state,3245,15
+255,iowa,3234,1,norfolk state,3313,15
+256,iowa,3234,1,sacred heart,3357,16
+257,iowa,3234,1,holy cross,3221,16
+258,iowa,3234,1,presbyterian,3342,16
+259,iowa,3234,1,drexel,3180,16
+260,iowa,3234,1,ut martin,3404,16
+261,iowa,3234,1,a&m-corpus christi,3394,16
+262,ohio state,3326,2,notre dame,3323,2
+263,ohio state,3326,2,ucla,3417,2
+264,ohio state,3326,2,stanford,3390,2
+265,ohio state,3326,2,lsu,3261,3
+266,ohio state,3326,2,uconn,3163,3
+267,ohio state,3326,2,nc state,3301,3
+268,ohio state,3326,2,oregon state,3333,3
+269,ohio state,3326,2,virginia tech,3439,4
+270,ohio state,3326,2,kansas state,3243,4
+271,ohio state,3326,2,indiana,3231,4
+272,ohio state,3326,2,gonzaga,3211,4
+273,ohio state,3326,2,baylor,3124,5
+274,ohio state,3326,2,colorado,3160,5
+275,ohio state,3326,2,utah,3428,5
+276,ohio state,3326,2,oklahoma,3328,5
+277,ohio state,3326,2,tennessee,3397,6
+278,ohio state,3326,2,nebraska,3304,6
+279,ohio state,3326,2,syracuse,3393,6
+280,ohio state,3326,2,louisville,3257,6
+281,ohio state,3326,2,duke,3181,7
+282,ohio state,3326,2,ole miss,3279,7
+283,ohio state,3326,2,creighton,3166,7
+284,ohio state,3326,2,iowa state,3235,7
+285,ohio state,3326,2,kansas,3242,8
+286,ohio state,3326,2,alabama,3104,8
+287,ohio state,3326,2,north carolina,3314,8
+288,ohio state,3326,2,west virginia,3452,8
+289,ohio state,3326,2,michigan,3276,9
+290,ohio state,3326,2,florida state,3199,9
+291,ohio state,3326,2,michigan state,3277,9
+292,ohio state,3326,2,princeton,3343,9
+293,ohio state,3326,2,richmond,3350,10
+294,ohio state,3326,2,marquette,3266,10
+295,ohio state,3326,2,unlv,3424,10
+296,ohio state,3326,2,maryland,3268,10
+297,ohio state,3326,2,middle tennessee,3292,11
+298,ohio state,3326,2,texas a&m,3401,11
+299,ohio state,3326,2,green bay,3453,11
+300,ohio state,3326,2,auburn,3120,11
+301,ohio state,3326,2,arizona,3112,11
+302,ohio state,3326,2,florida gulf coast,3195,12
+303,ohio state,3326,2,south dakota state,3355,12
+304,ohio state,3326,2,columbia,3162,12
+305,ohio state,3326,2,vanderbilt,3435,12
+306,ohio state,3326,2,drake,3179,12
+307,ohio state,3326,2,portland,3339,13
+308,ohio state,3326,2,fairfield,3193,13
+309,ohio state,3326,2,marshall,3267,13
+310,ohio state,3326,2,uc irvine,3414,13
+311,ohio state,3326,2,chattanooga,3151,14
+312,ohio state,3326,2,jackson state,3238,14
+313,ohio state,3326,2,rice,3349,14
+314,ohio state,3326,2,eastern washington,3186,14
+315,ohio state,3326,2,maine,3263,15
+316,ohio state,3326,2,california baptist,3465,15
+317,ohio state,3326,2,kent state,3245,15
+318,ohio state,3326,2,norfolk state,3313,15
+319,ohio state,3326,2,sacred heart,3357,16
+320,ohio state,3326,2,holy cross,3221,16
+321,ohio state,3326,2,presbyterian,3342,16
+322,ohio state,3326,2,drexel,3180,16
+323,ohio state,3326,2,ut martin,3404,16
+324,ohio state,3326,2,a&m-corpus christi,3394,16
+325,notre dame,3323,2,ucla,3417,2
+326,notre dame,3323,2,stanford,3390,2
+327,notre dame,3323,2,lsu,3261,3
+328,notre dame,3323,2,uconn,3163,3
+329,notre dame,3323,2,nc state,3301,3
+330,notre dame,3323,2,oregon state,3333,3
+331,notre dame,3323,2,virginia tech,3439,4
+332,notre dame,3323,2,kansas state,3243,4
+333,notre dame,3323,2,indiana,3231,4
+334,notre dame,3323,2,gonzaga,3211,4
+335,notre dame,3323,2,baylor,3124,5
+336,notre dame,3323,2,colorado,3160,5
+337,notre dame,3323,2,utah,3428,5
+338,notre dame,3323,2,oklahoma,3328,5
+339,notre dame,3323,2,tennessee,3397,6
+340,notre dame,3323,2,nebraska,3304,6
+341,notre dame,3323,2,syracuse,3393,6
+342,notre dame,3323,2,louisville,3257,6
+343,notre dame,3323,2,duke,3181,7
+344,notre dame,3323,2,ole miss,3279,7
+345,notre dame,3323,2,creighton,3166,7
+346,notre dame,3323,2,iowa state,3235,7
+347,notre dame,3323,2,kansas,3242,8
+348,notre dame,3323,2,alabama,3104,8
+349,notre dame,3323,2,north carolina,3314,8
+350,notre dame,3323,2,west virginia,3452,8
+351,notre dame,3323,2,michigan,3276,9
+352,notre dame,3323,2,florida state,3199,9
+353,notre dame,3323,2,michigan state,3277,9
+354,notre dame,3323,2,princeton,3343,9
+355,notre dame,3323,2,richmond,3350,10
+356,notre dame,3323,2,marquette,3266,10
+357,notre dame,3323,2,unlv,3424,10
+358,notre dame,3323,2,maryland,3268,10
+359,notre dame,3323,2,middle tennessee,3292,11
+360,notre dame,3323,2,texas a&m,3401,11
+361,notre dame,3323,2,green bay,3453,11
+362,notre dame,3323,2,auburn,3120,11
+363,notre dame,3323,2,arizona,3112,11
+364,notre dame,3323,2,florida gulf coast,3195,12
+365,notre dame,3323,2,south dakota state,3355,12
+366,notre dame,3323,2,columbia,3162,12
+367,notre dame,3323,2,vanderbilt,3435,12
+368,notre dame,3323,2,drake,3179,12
+369,notre dame,3323,2,portland,3339,13
+370,notre dame,3323,2,fairfield,3193,13
+371,notre dame,3323,2,marshall,3267,13
+372,notre dame,3323,2,uc irvine,3414,13
+373,notre dame,3323,2,chattanooga,3151,14
+374,notre dame,3323,2,jackson state,3238,14
+375,notre dame,3323,2,rice,3349,14
+376,notre dame,3323,2,eastern washington,3186,14
+377,notre dame,3323,2,maine,3263,15
+378,notre dame,3323,2,california baptist,3465,15
+379,notre dame,3323,2,kent state,3245,15
+380,notre dame,3323,2,norfolk state,3313,15
+381,notre dame,3323,2,sacred heart,3357,16
+382,notre dame,3323,2,holy cross,3221,16
+383,notre dame,3323,2,presbyterian,3342,16
+384,notre dame,3323,2,drexel,3180,16
+385,notre dame,3323,2,ut martin,3404,16
+386,notre dame,3323,2,a&m-corpus christi,3394,16
+387,ucla,3417,2,stanford,3390,2
+388,ucla,3417,2,lsu,3261,3
+389,ucla,3417,2,uconn,3163,3
+390,ucla,3417,2,nc state,3301,3
+391,ucla,3417,2,oregon state,3333,3
+392,ucla,3417,2,virginia tech,3439,4
+393,ucla,3417,2,kansas state,3243,4
+394,ucla,3417,2,indiana,3231,4
+395,ucla,3417,2,gonzaga,3211,4
+396,ucla,3417,2,baylor,3124,5
+397,ucla,3417,2,colorado,3160,5
+398,ucla,3417,2,utah,3428,5
+399,ucla,3417,2,oklahoma,3328,5
+400,ucla,3417,2,tennessee,3397,6
+401,ucla,3417,2,nebraska,3304,6
+402,ucla,3417,2,syracuse,3393,6
+403,ucla,3417,2,louisville,3257,6
+404,ucla,3417,2,duke,3181,7
+405,ucla,3417,2,ole miss,3279,7
+406,ucla,3417,2,creighton,3166,7
+407,ucla,3417,2,iowa state,3235,7
+408,ucla,3417,2,kansas,3242,8
+409,ucla,3417,2,alabama,3104,8
+410,ucla,3417,2,north carolina,3314,8
+411,ucla,3417,2,west virginia,3452,8
+412,ucla,3417,2,michigan,3276,9
+413,ucla,3417,2,florida state,3199,9
+414,ucla,3417,2,michigan state,3277,9
+415,ucla,3417,2,princeton,3343,9
+416,ucla,3417,2,richmond,3350,10
+417,ucla,3417,2,marquette,3266,10
+418,ucla,3417,2,unlv,3424,10
+419,ucla,3417,2,maryland,3268,10
+420,ucla,3417,2,middle tennessee,3292,11
+421,ucla,3417,2,texas a&m,3401,11
+422,ucla,3417,2,green bay,3453,11
+423,ucla,3417,2,auburn,3120,11
+424,ucla,3417,2,arizona,3112,11
+425,ucla,3417,2,florida gulf coast,3195,12
+426,ucla,3417,2,south dakota state,3355,12
+427,ucla,3417,2,columbia,3162,12
+428,ucla,3417,2,vanderbilt,3435,12
+429,ucla,3417,2,drake,3179,12
+430,ucla,3417,2,portland,3339,13
+431,ucla,3417,2,fairfield,3193,13
+432,ucla,3417,2,marshall,3267,13
+433,ucla,3417,2,uc irvine,3414,13
+434,ucla,3417,2,chattanooga,3151,14
+435,ucla,3417,2,jackson state,3238,14
+436,ucla,3417,2,rice,3349,14
+437,ucla,3417,2,eastern washington,3186,14
+438,ucla,3417,2,maine,3263,15
+439,ucla,3417,2,california baptist,3465,15
+440,ucla,3417,2,kent state,3245,15
+441,ucla,3417,2,norfolk state,3313,15
+442,ucla,3417,2,sacred heart,3357,16
+443,ucla,3417,2,holy cross,3221,16
+444,ucla,3417,2,presbyterian,3342,16
+445,ucla,3417,2,drexel,3180,16
+446,ucla,3417,2,ut martin,3404,16
+447,ucla,3417,2,a&m-corpus christi,3394,16
+448,stanford,3390,2,lsu,3261,3
+449,stanford,3390,2,uconn,3163,3
+450,stanford,3390,2,nc state,3301,3
+451,stanford,3390,2,oregon state,3333,3
+452,stanford,3390,2,virginia tech,3439,4
+453,stanford,3390,2,kansas state,3243,4
+454,stanford,3390,2,indiana,3231,4
+455,stanford,3390,2,gonzaga,3211,4
+456,stanford,3390,2,baylor,3124,5
+457,stanford,3390,2,colorado,3160,5
+458,stanford,3390,2,utah,3428,5
+459,stanford,3390,2,oklahoma,3328,5
+460,stanford,3390,2,tennessee,3397,6
+461,stanford,3390,2,nebraska,3304,6
+462,stanford,3390,2,syracuse,3393,6
+463,stanford,3390,2,louisville,3257,6
+464,stanford,3390,2,duke,3181,7
+465,stanford,3390,2,ole miss,3279,7
+466,stanford,3390,2,creighton,3166,7
+467,stanford,3390,2,iowa state,3235,7
+468,stanford,3390,2,kansas,3242,8
+469,stanford,3390,2,alabama,3104,8
+470,stanford,3390,2,north carolina,3314,8
+471,stanford,3390,2,west virginia,3452,8
+472,stanford,3390,2,michigan,3276,9
+473,stanford,3390,2,florida state,3199,9
+474,stanford,3390,2,michigan state,3277,9
+475,stanford,3390,2,princeton,3343,9
+476,stanford,3390,2,richmond,3350,10
+477,stanford,3390,2,marquette,3266,10
+478,stanford,3390,2,unlv,3424,10
+479,stanford,3390,2,maryland,3268,10
+480,stanford,3390,2,middle tennessee,3292,11
+481,stanford,3390,2,texas a&m,3401,11
+482,stanford,3390,2,green bay,3453,11
+483,stanford,3390,2,auburn,3120,11
+484,stanford,3390,2,arizona,3112,11
+485,stanford,3390,2,florida gulf coast,3195,12
+486,stanford,3390,2,south dakota state,3355,12
+487,stanford,3390,2,columbia,3162,12
+488,stanford,3390,2,vanderbilt,3435,12
+489,stanford,3390,2,drake,3179,12
+490,stanford,3390,2,portland,3339,13
+491,stanford,3390,2,fairfield,3193,13
+492,stanford,3390,2,marshall,3267,13
+493,stanford,3390,2,uc irvine,3414,13
+494,stanford,3390,2,chattanooga,3151,14
+495,stanford,3390,2,jackson state,3238,14
+496,stanford,3390,2,rice,3349,14
+497,stanford,3390,2,eastern washington,3186,14
+498,stanford,3390,2,maine,3263,15
+499,stanford,3390,2,california baptist,3465,15
+500,stanford,3390,2,kent state,3245,15
+501,stanford,3390,2,norfolk state,3313,15
+502,stanford,3390,2,sacred heart,3357,16
+503,stanford,3390,2,holy cross,3221,16
+504,stanford,3390,2,presbyterian,3342,16
+505,stanford,3390,2,drexel,3180,16
+506,stanford,3390,2,ut martin,3404,16
+507,stanford,3390,2,a&m-corpus christi,3394,16
+508,lsu,3261,3,uconn,3163,3
+509,lsu,3261,3,nc state,3301,3
+510,lsu,3261,3,oregon state,3333,3
+511,lsu,3261,3,virginia tech,3439,4
+512,lsu,3261,3,kansas state,3243,4
+513,lsu,3261,3,indiana,3231,4
+514,lsu,3261,3,gonzaga,3211,4
+515,lsu,3261,3,baylor,3124,5
+516,lsu,3261,3,colorado,3160,5
+517,lsu,3261,3,utah,3428,5
+518,lsu,3261,3,oklahoma,3328,5
+519,lsu,3261,3,tennessee,3397,6
+520,lsu,3261,3,nebraska,3304,6
+521,lsu,3261,3,syracuse,3393,6
+522,lsu,3261,3,louisville,3257,6
+523,lsu,3261,3,duke,3181,7
+524,lsu,3261,3,ole miss,3279,7
+525,lsu,3261,3,creighton,3166,7
+526,lsu,3261,3,iowa state,3235,7
+527,lsu,3261,3,kansas,3242,8
+528,lsu,3261,3,alabama,3104,8
+529,lsu,3261,3,north carolina,3314,8
+530,lsu,3261,3,west virginia,3452,8
+531,lsu,3261,3,michigan,3276,9
+532,lsu,3261,3,florida state,3199,9
+533,lsu,3261,3,michigan state,3277,9
+534,lsu,3261,3,princeton,3343,9
+535,lsu,3261,3,richmond,3350,10
+536,lsu,3261,3,marquette,3266,10
+537,lsu,3261,3,unlv,3424,10
+538,lsu,3261,3,maryland,3268,10
+539,lsu,3261,3,middle tennessee,3292,11
+540,lsu,3261,3,texas a&m,3401,11
+541,lsu,3261,3,green bay,3453,11
+542,lsu,3261,3,auburn,3120,11
+543,lsu,3261,3,arizona,3112,11
+544,lsu,3261,3,florida gulf coast,3195,12
+545,lsu,3261,3,south dakota state,3355,12
+546,lsu,3261,3,columbia,3162,12
+547,lsu,3261,3,vanderbilt,3435,12
+548,lsu,3261,3,drake,3179,12
+549,lsu,3261,3,portland,3339,13
+550,lsu,3261,3,fairfield,3193,13
+551,lsu,3261,3,marshall,3267,13
+552,lsu,3261,3,uc irvine,3414,13
+553,lsu,3261,3,chattanooga,3151,14
+554,lsu,3261,3,jackson state,3238,14
+555,lsu,3261,3,rice,3349,14
+556,lsu,3261,3,eastern washington,3186,14
+557,lsu,3261,3,maine,3263,15
+558,lsu,3261,3,california baptist,3465,15
+559,lsu,3261,3,kent state,3245,15
+560,lsu,3261,3,norfolk state,3313,15
+561,lsu,3261,3,sacred heart,3357,16
+562,lsu,3261,3,holy cross,3221,16
+563,lsu,3261,3,presbyterian,3342,16
+564,lsu,3261,3,drexel,3180,16
+565,lsu,3261,3,ut martin,3404,16
+566,lsu,3261,3,a&m-corpus christi,3394,16
+567,uconn,3163,3,nc state,3301,3
+568,uconn,3163,3,oregon state,3333,3
+569,uconn,3163,3,virginia tech,3439,4
+570,uconn,3163,3,kansas state,3243,4
+571,uconn,3163,3,indiana,3231,4
+572,uconn,3163,3,gonzaga,3211,4
+573,uconn,3163,3,baylor,3124,5
+574,uconn,3163,3,colorado,3160,5
+575,uconn,3163,3,utah,3428,5
+576,uconn,3163,3,oklahoma,3328,5
+577,uconn,3163,3,tennessee,3397,6
+578,uconn,3163,3,nebraska,3304,6
+579,uconn,3163,3,syracuse,3393,6
+580,uconn,3163,3,louisville,3257,6
+581,uconn,3163,3,duke,3181,7
+582,uconn,3163,3,ole miss,3279,7
+583,uconn,3163,3,creighton,3166,7
+584,uconn,3163,3,iowa state,3235,7
+585,uconn,3163,3,kansas,3242,8
+586,uconn,3163,3,alabama,3104,8
+587,uconn,3163,3,north carolina,3314,8
+588,uconn,3163,3,west virginia,3452,8
+589,uconn,3163,3,michigan,3276,9
+590,uconn,3163,3,florida state,3199,9
+591,uconn,3163,3,michigan state,3277,9
+592,uconn,3163,3,princeton,3343,9
+593,uconn,3163,3,richmond,3350,10
+594,uconn,3163,3,marquette,3266,10
+595,uconn,3163,3,unlv,3424,10
+596,uconn,3163,3,maryland,3268,10
+597,uconn,3163,3,middle tennessee,3292,11
+598,uconn,3163,3,texas a&m,3401,11
+599,uconn,3163,3,green bay,3453,11
+600,uconn,3163,3,auburn,3120,11
+601,uconn,3163,3,arizona,3112,11
+602,uconn,3163,3,florida gulf coast,3195,12
+603,uconn,3163,3,south dakota state,3355,12
+604,uconn,3163,3,columbia,3162,12
+605,uconn,3163,3,vanderbilt,3435,12
+606,uconn,3163,3,drake,3179,12
+607,uconn,3163,3,portland,3339,13
+608,uconn,3163,3,fairfield,3193,13
+609,uconn,3163,3,marshall,3267,13
+610,uconn,3163,3,uc irvine,3414,13
+611,uconn,3163,3,chattanooga,3151,14
+612,uconn,3163,3,jackson state,3238,14
+613,uconn,3163,3,rice,3349,14
+614,uconn,3163,3,eastern washington,3186,14
+615,uconn,3163,3,maine,3263,15
+616,uconn,3163,3,california baptist,3465,15
+617,uconn,3163,3,kent state,3245,15
+618,uconn,3163,3,norfolk state,3313,15
+619,uconn,3163,3,sacred heart,3357,16
+620,uconn,3163,3,holy cross,3221,16
+621,uconn,3163,3,presbyterian,3342,16
+622,uconn,3163,3,drexel,3180,16
+623,uconn,3163,3,ut martin,3404,16
+624,uconn,3163,3,a&m-corpus christi,3394,16
+625,nc state,3301,3,oregon state,3333,3
+626,nc state,3301,3,virginia tech,3439,4
+627,nc state,3301,3,kansas state,3243,4
+628,nc state,3301,3,indiana,3231,4
+629,nc state,3301,3,gonzaga,3211,4
+630,nc state,3301,3,baylor,3124,5
+631,nc state,3301,3,colorado,3160,5
+632,nc state,3301,3,utah,3428,5
+633,nc state,3301,3,oklahoma,3328,5
+634,nc state,3301,3,tennessee,3397,6
+635,nc state,3301,3,nebraska,3304,6
+636,nc state,3301,3,syracuse,3393,6
+637,nc state,3301,3,louisville,3257,6
+638,nc state,3301,3,duke,3181,7
+639,nc state,3301,3,ole miss,3279,7
+640,nc state,3301,3,creighton,3166,7
+641,nc state,3301,3,iowa state,3235,7
+642,nc state,3301,3,kansas,3242,8
+643,nc state,3301,3,alabama,3104,8
+644,nc state,3301,3,north carolina,3314,8
+645,nc state,3301,3,west virginia,3452,8
+646,nc state,3301,3,michigan,3276,9
+647,nc state,3301,3,florida state,3199,9
+648,nc state,3301,3,michigan state,3277,9
+649,nc state,3301,3,princeton,3343,9
+650,nc state,3301,3,richmond,3350,10
+651,nc state,3301,3,marquette,3266,10
+652,nc state,3301,3,unlv,3424,10
+653,nc state,3301,3,maryland,3268,10
+654,nc state,3301,3,middle tennessee,3292,11
+655,nc state,3301,3,texas a&m,3401,11
+656,nc state,3301,3,green bay,3453,11
+657,nc state,3301,3,auburn,3120,11
+658,nc state,3301,3,arizona,3112,11
+659,nc state,3301,3,florida gulf coast,3195,12
+660,nc state,3301,3,south dakota state,3355,12
+661,nc state,3301,3,columbia,3162,12
+662,nc state,3301,3,vanderbilt,3435,12
+663,nc state,3301,3,drake,3179,12
+664,nc state,3301,3,portland,3339,13
+665,nc state,3301,3,fairfield,3193,13
+666,nc state,3301,3,marshall,3267,13
+667,nc state,3301,3,uc irvine,3414,13
+668,nc state,3301,3,chattanooga,3151,14
+669,nc state,3301,3,jackson state,3238,14
+670,nc state,3301,3,rice,3349,14
+671,nc state,3301,3,eastern washington,3186,14
+672,nc state,3301,3,maine,3263,15
+673,nc state,3301,3,california baptist,3465,15
+674,nc state,3301,3,kent state,3245,15
+675,nc state,3301,3,norfolk state,3313,15
+676,nc state,3301,3,sacred heart,3357,16
+677,nc state,3301,3,holy cross,3221,16
+678,nc state,3301,3,presbyterian,3342,16
+679,nc state,3301,3,drexel,3180,16
+680,nc state,3301,3,ut martin,3404,16
+681,nc state,3301,3,a&m-corpus christi,3394,16
+682,oregon state,3333,3,virginia tech,3439,4
+683,oregon state,3333,3,kansas state,3243,4
+684,oregon state,3333,3,indiana,3231,4
+685,oregon state,3333,3,gonzaga,3211,4
+686,oregon state,3333,3,baylor,3124,5
+687,oregon state,3333,3,colorado,3160,5
+688,oregon state,3333,3,utah,3428,5
+689,oregon state,3333,3,oklahoma,3328,5
+690,oregon state,3333,3,tennessee,3397,6
+691,oregon state,3333,3,nebraska,3304,6
+692,oregon state,3333,3,syracuse,3393,6
+693,oregon state,3333,3,louisville,3257,6
+694,oregon state,3333,3,duke,3181,7
+695,oregon state,3333,3,ole miss,3279,7
+696,oregon state,3333,3,creighton,3166,7
+697,oregon state,3333,3,iowa state,3235,7
+698,oregon state,3333,3,kansas,3242,8
+699,oregon state,3333,3,alabama,3104,8
+700,oregon state,3333,3,north carolina,3314,8
+701,oregon state,3333,3,west virginia,3452,8
+702,oregon state,3333,3,michigan,3276,9
+703,oregon state,3333,3,florida state,3199,9
+704,oregon state,3333,3,michigan state,3277,9
+705,oregon state,3333,3,princeton,3343,9
+706,oregon state,3333,3,richmond,3350,10
+707,oregon state,3333,3,marquette,3266,10
+708,oregon state,3333,3,unlv,3424,10
+709,oregon state,3333,3,maryland,3268,10
+710,oregon state,3333,3,middle tennessee,3292,11
+711,oregon state,3333,3,texas a&m,3401,11
+712,oregon state,3333,3,green bay,3453,11
+713,oregon state,3333,3,auburn,3120,11
+714,oregon state,3333,3,arizona,3112,11
+715,oregon state,3333,3,florida gulf coast,3195,12
+716,oregon state,3333,3,south dakota state,3355,12
+717,oregon state,3333,3,columbia,3162,12
+718,oregon state,3333,3,vanderbilt,3435,12
+719,oregon state,3333,3,drake,3179,12
+720,oregon state,3333,3,portland,3339,13
+721,oregon state,3333,3,fairfield,3193,13
+722,oregon state,3333,3,marshall,3267,13
+723,oregon state,3333,3,uc irvine,3414,13
+724,oregon state,3333,3,chattanooga,3151,14
+725,oregon state,3333,3,jackson state,3238,14
+726,oregon state,3333,3,rice,3349,14
+727,oregon state,3333,3,eastern washington,3186,14
+728,oregon state,3333,3,maine,3263,15
+729,oregon state,3333,3,california baptist,3465,15
+730,oregon state,3333,3,kent state,3245,15
+731,oregon state,3333,3,norfolk state,3313,15
+732,oregon state,3333,3,sacred heart,3357,16
+733,oregon state,3333,3,holy cross,3221,16
+734,oregon state,3333,3,presbyterian,3342,16
+735,oregon state,3333,3,drexel,3180,16
+736,oregon state,3333,3,ut martin,3404,16
+737,oregon state,3333,3,a&m-corpus christi,3394,16
+738,virginia tech,3439,4,kansas state,3243,4
+739,virginia tech,3439,4,indiana,3231,4
+740,virginia tech,3439,4,gonzaga,3211,4
+741,virginia tech,3439,4,baylor,3124,5
+742,virginia tech,3439,4,colorado,3160,5
+743,virginia tech,3439,4,utah,3428,5
+744,virginia tech,3439,4,oklahoma,3328,5
+745,virginia tech,3439,4,tennessee,3397,6
+746,virginia tech,3439,4,nebraska,3304,6
+747,virginia tech,3439,4,syracuse,3393,6
+748,virginia tech,3439,4,louisville,3257,6
+749,virginia tech,3439,4,duke,3181,7
+750,virginia tech,3439,4,ole miss,3279,7
+751,virginia tech,3439,4,creighton,3166,7
+752,virginia tech,3439,4,iowa state,3235,7
+753,virginia tech,3439,4,kansas,3242,8
+754,virginia tech,3439,4,alabama,3104,8
+755,virginia tech,3439,4,north carolina,3314,8
+756,virginia tech,3439,4,west virginia,3452,8
+757,virginia tech,3439,4,michigan,3276,9
+758,virginia tech,3439,4,florida state,3199,9
+759,virginia tech,3439,4,michigan state,3277,9
+760,virginia tech,3439,4,princeton,3343,9
+761,virginia tech,3439,4,richmond,3350,10
+762,virginia tech,3439,4,marquette,3266,10
+763,virginia tech,3439,4,unlv,3424,10
+764,virginia tech,3439,4,maryland,3268,10
+765,virginia tech,3439,4,middle tennessee,3292,11
+766,virginia tech,3439,4,texas a&m,3401,11
+767,virginia tech,3439,4,green bay,3453,11
+768,virginia tech,3439,4,auburn,3120,11
+769,virginia tech,3439,4,arizona,3112,11
+770,virginia tech,3439,4,florida gulf coast,3195,12
+771,virginia tech,3439,4,south dakota state,3355,12
+772,virginia tech,3439,4,columbia,3162,12
+773,virginia tech,3439,4,vanderbilt,3435,12
+774,virginia tech,3439,4,drake,3179,12
+775,virginia tech,3439,4,portland,3339,13
+776,virginia tech,3439,4,fairfield,3193,13
+777,virginia tech,3439,4,marshall,3267,13
+778,virginia tech,3439,4,uc irvine,3414,13
+779,virginia tech,3439,4,chattanooga,3151,14
+780,virginia tech,3439,4,jackson state,3238,14
+781,virginia tech,3439,4,rice,3349,14
+782,virginia tech,3439,4,eastern washington,3186,14
+783,virginia tech,3439,4,maine,3263,15
+784,virginia tech,3439,4,california baptist,3465,15
+785,virginia tech,3439,4,kent state,3245,15
+786,virginia tech,3439,4,norfolk state,3313,15
+787,virginia tech,3439,4,sacred heart,3357,16
+788,virginia tech,3439,4,holy cross,3221,16
+789,virginia tech,3439,4,presbyterian,3342,16
+790,virginia tech,3439,4,drexel,3180,16
+791,virginia tech,3439,4,ut martin,3404,16
+792,virginia tech,3439,4,a&m-corpus christi,3394,16
+793,kansas state,3243,4,indiana,3231,4
+794,kansas state,3243,4,gonzaga,3211,4
+795,kansas state,3243,4,baylor,3124,5
+796,kansas state,3243,4,colorado,3160,5
+797,kansas state,3243,4,utah,3428,5
+798,kansas state,3243,4,oklahoma,3328,5
+799,kansas state,3243,4,tennessee,3397,6
+800,kansas state,3243,4,nebraska,3304,6
+801,kansas state,3243,4,syracuse,3393,6
+802,kansas state,3243,4,louisville,3257,6
+803,kansas state,3243,4,duke,3181,7
+804,kansas state,3243,4,ole miss,3279,7
+805,kansas state,3243,4,creighton,3166,7
+806,kansas state,3243,4,iowa state,3235,7
+807,kansas state,3243,4,kansas,3242,8
+808,kansas state,3243,4,alabama,3104,8
+809,kansas state,3243,4,north carolina,3314,8
+810,kansas state,3243,4,west virginia,3452,8
+811,kansas state,3243,4,michigan,3276,9
+812,kansas state,3243,4,florida state,3199,9
+813,kansas state,3243,4,michigan state,3277,9
+814,kansas state,3243,4,princeton,3343,9
+815,kansas state,3243,4,richmond,3350,10
+816,kansas state,3243,4,marquette,3266,10
+817,kansas state,3243,4,unlv,3424,10
+818,kansas state,3243,4,maryland,3268,10
+819,kansas state,3243,4,middle tennessee,3292,11
+820,kansas state,3243,4,texas a&m,3401,11
+821,kansas state,3243,4,green bay,3453,11
+822,kansas state,3243,4,auburn,3120,11
+823,kansas state,3243,4,arizona,3112,11
+824,kansas state,3243,4,florida gulf coast,3195,12
+825,kansas state,3243,4,south dakota state,3355,12
+826,kansas state,3243,4,columbia,3162,12
+827,kansas state,3243,4,vanderbilt,3435,12
+828,kansas state,3243,4,drake,3179,12
+829,kansas state,3243,4,portland,3339,13
+830,kansas state,3243,4,fairfield,3193,13
+831,kansas state,3243,4,marshall,3267,13
+832,kansas state,3243,4,uc irvine,3414,13
+833,kansas state,3243,4,chattanooga,3151,14
+834,kansas state,3243,4,jackson state,3238,14
+835,kansas state,3243,4,rice,3349,14
+836,kansas state,3243,4,eastern washington,3186,14
+837,kansas state,3243,4,maine,3263,15
+838,kansas state,3243,4,california baptist,3465,15
+839,kansas state,3243,4,kent state,3245,15
+840,kansas state,3243,4,norfolk state,3313,15
+841,kansas state,3243,4,sacred heart,3357,16
+842,kansas state,3243,4,holy cross,3221,16
+843,kansas state,3243,4,presbyterian,3342,16
+844,kansas state,3243,4,drexel,3180,16
+845,kansas state,3243,4,ut martin,3404,16
+846,kansas state,3243,4,a&m-corpus christi,3394,16
+847,indiana,3231,4,gonzaga,3211,4
+848,indiana,3231,4,baylor,3124,5
+849,indiana,3231,4,colorado,3160,5
+850,indiana,3231,4,utah,3428,5
+851,indiana,3231,4,oklahoma,3328,5
+852,indiana,3231,4,tennessee,3397,6
+853,indiana,3231,4,nebraska,3304,6
+854,indiana,3231,4,syracuse,3393,6
+855,indiana,3231,4,louisville,3257,6
+856,indiana,3231,4,duke,3181,7
+857,indiana,3231,4,ole miss,3279,7
+858,indiana,3231,4,creighton,3166,7
+859,indiana,3231,4,iowa state,3235,7
+860,indiana,3231,4,kansas,3242,8
+861,indiana,3231,4,alabama,3104,8
+862,indiana,3231,4,north carolina,3314,8
+863,indiana,3231,4,west virginia,3452,8
+864,indiana,3231,4,michigan,3276,9
+865,indiana,3231,4,florida state,3199,9
+866,indiana,3231,4,michigan state,3277,9
+867,indiana,3231,4,princeton,3343,9
+868,indiana,3231,4,richmond,3350,10
+869,indiana,3231,4,marquette,3266,10
+870,indiana,3231,4,unlv,3424,10
+871,indiana,3231,4,maryland,3268,10
+872,indiana,3231,4,middle tennessee,3292,11
+873,indiana,3231,4,texas a&m,3401,11
+874,indiana,3231,4,green bay,3453,11
+875,indiana,3231,4,auburn,3120,11
+876,indiana,3231,4,arizona,3112,11
+877,indiana,3231,4,florida gulf coast,3195,12
+878,indiana,3231,4,south dakota state,3355,12
+879,indiana,3231,4,columbia,3162,12
+880,indiana,3231,4,vanderbilt,3435,12
+881,indiana,3231,4,drake,3179,12
+882,indiana,3231,4,portland,3339,13
+883,indiana,3231,4,fairfield,3193,13
+884,indiana,3231,4,marshall,3267,13
+885,indiana,3231,4,uc irvine,3414,13
+886,indiana,3231,4,chattanooga,3151,14
+887,indiana,3231,4,jackson state,3238,14
+888,indiana,3231,4,rice,3349,14
+889,indiana,3231,4,eastern washington,3186,14
+890,indiana,3231,4,maine,3263,15
+891,indiana,3231,4,california baptist,3465,15
+892,indiana,3231,4,kent state,3245,15
+893,indiana,3231,4,norfolk state,3313,15
+894,indiana,3231,4,sacred heart,3357,16
+895,indiana,3231,4,holy cross,3221,16
+896,indiana,3231,4,presbyterian,3342,16
+897,indiana,3231,4,drexel,3180,16
+898,indiana,3231,4,ut martin,3404,16
+899,indiana,3231,4,a&m-corpus christi,3394,16
+900,gonzaga,3211,4,baylor,3124,5
+901,gonzaga,3211,4,colorado,3160,5
+902,gonzaga,3211,4,utah,3428,5
+903,gonzaga,3211,4,oklahoma,3328,5
+904,gonzaga,3211,4,tennessee,3397,6
+905,gonzaga,3211,4,nebraska,3304,6
+906,gonzaga,3211,4,syracuse,3393,6
+907,gonzaga,3211,4,louisville,3257,6
+908,gonzaga,3211,4,duke,3181,7
+909,gonzaga,3211,4,ole miss,3279,7
+910,gonzaga,3211,4,creighton,3166,7
+911,gonzaga,3211,4,iowa state,3235,7
+912,gonzaga,3211,4,kansas,3242,8
+913,gonzaga,3211,4,alabama,3104,8
+914,gonzaga,3211,4,north carolina,3314,8
+915,gonzaga,3211,4,west virginia,3452,8
+916,gonzaga,3211,4,michigan,3276,9
+917,gonzaga,3211,4,florida state,3199,9
+918,gonzaga,3211,4,michigan state,3277,9
+919,gonzaga,3211,4,princeton,3343,9
+920,gonzaga,3211,4,richmond,3350,10
+921,gonzaga,3211,4,marquette,3266,10
+922,gonzaga,3211,4,unlv,3424,10
+923,gonzaga,3211,4,maryland,3268,10
+924,gonzaga,3211,4,middle tennessee,3292,11
+925,gonzaga,3211,4,texas a&m,3401,11
+926,gonzaga,3211,4,green bay,3453,11
+927,gonzaga,3211,4,auburn,3120,11
+928,gonzaga,3211,4,arizona,3112,11
+929,gonzaga,3211,4,florida gulf coast,3195,12
+930,gonzaga,3211,4,south dakota state,3355,12
+931,gonzaga,3211,4,columbia,3162,12
+932,gonzaga,3211,4,vanderbilt,3435,12
+933,gonzaga,3211,4,drake,3179,12
+934,gonzaga,3211,4,portland,3339,13
+935,gonzaga,3211,4,fairfield,3193,13
+936,gonzaga,3211,4,marshall,3267,13
+937,gonzaga,3211,4,uc irvine,3414,13
+938,gonzaga,3211,4,chattanooga,3151,14
+939,gonzaga,3211,4,jackson state,3238,14
+940,gonzaga,3211,4,rice,3349,14
+941,gonzaga,3211,4,eastern washington,3186,14
+942,gonzaga,3211,4,maine,3263,15
+943,gonzaga,3211,4,california baptist,3465,15
+944,gonzaga,3211,4,kent state,3245,15
+945,gonzaga,3211,4,norfolk state,3313,15
+946,gonzaga,3211,4,sacred heart,3357,16
+947,gonzaga,3211,4,holy cross,3221,16
+948,gonzaga,3211,4,presbyterian,3342,16
+949,gonzaga,3211,4,drexel,3180,16
+950,gonzaga,3211,4,ut martin,3404,16
+951,gonzaga,3211,4,a&m-corpus christi,3394,16
+952,baylor,3124,5,colorado,3160,5
+953,baylor,3124,5,utah,3428,5
+954,baylor,3124,5,oklahoma,3328,5
+955,baylor,3124,5,tennessee,3397,6
+956,baylor,3124,5,nebraska,3304,6
+957,baylor,3124,5,syracuse,3393,6
+958,baylor,3124,5,louisville,3257,6
+959,baylor,3124,5,duke,3181,7
+960,baylor,3124,5,ole miss,3279,7
+961,baylor,3124,5,creighton,3166,7
+962,baylor,3124,5,iowa state,3235,7
+963,baylor,3124,5,kansas,3242,8
+964,baylor,3124,5,alabama,3104,8
+965,baylor,3124,5,north carolina,3314,8
+966,baylor,3124,5,west virginia,3452,8
+967,baylor,3124,5,michigan,3276,9
+968,baylor,3124,5,florida state,3199,9
+969,baylor,3124,5,michigan state,3277,9
+970,baylor,3124,5,princeton,3343,9
+971,baylor,3124,5,richmond,3350,10
+972,baylor,3124,5,marquette,3266,10
+973,baylor,3124,5,unlv,3424,10
+974,baylor,3124,5,maryland,3268,10
+975,baylor,3124,5,middle tennessee,3292,11
+976,baylor,3124,5,texas a&m,3401,11
+977,baylor,3124,5,green bay,3453,11
+978,baylor,3124,5,auburn,3120,11
+979,baylor,3124,5,arizona,3112,11
+980,baylor,3124,5,florida gulf coast,3195,12
+981,baylor,3124,5,south dakota state,3355,12
+982,baylor,3124,5,columbia,3162,12
+983,baylor,3124,5,vanderbilt,3435,12
+984,baylor,3124,5,drake,3179,12
+985,baylor,3124,5,portland,3339,13
+986,baylor,3124,5,fairfield,3193,13
+987,baylor,3124,5,marshall,3267,13
+988,baylor,3124,5,uc irvine,3414,13
+989,baylor,3124,5,chattanooga,3151,14
+990,baylor,3124,5,jackson state,3238,14
+991,baylor,3124,5,rice,3349,14
+992,baylor,3124,5,eastern washington,3186,14
+993,baylor,3124,5,maine,3263,15
+994,baylor,3124,5,california baptist,3465,15
+995,baylor,3124,5,kent state,3245,15
+996,baylor,3124,5,norfolk state,3313,15
+997,baylor,3124,5,sacred heart,3357,16
+998,baylor,3124,5,holy cross,3221,16
+999,baylor,3124,5,presbyterian,3342,16
+1000,baylor,3124,5,drexel,3180,16
+1001,baylor,3124,5,ut martin,3404,16
+1002,baylor,3124,5,a&m-corpus christi,3394,16
+1003,colorado,3160,5,utah,3428,5
+1004,colorado,3160,5,oklahoma,3328,5
+1005,colorado,3160,5,tennessee,3397,6
+1006,colorado,3160,5,nebraska,3304,6
+1007,colorado,3160,5,syracuse,3393,6
+1008,colorado,3160,5,louisville,3257,6
+1009,colorado,3160,5,duke,3181,7
+1010,colorado,3160,5,ole miss,3279,7
+1011,colorado,3160,5,creighton,3166,7
+1012,colorado,3160,5,iowa state,3235,7
+1013,colorado,3160,5,kansas,3242,8
+1014,colorado,3160,5,alabama,3104,8
+1015,colorado,3160,5,north carolina,3314,8
+1016,colorado,3160,5,west virginia,3452,8
+1017,colorado,3160,5,michigan,3276,9
+1018,colorado,3160,5,florida state,3199,9
+1019,colorado,3160,5,michigan state,3277,9
+1020,colorado,3160,5,princeton,3343,9
+1021,colorado,3160,5,richmond,3350,10
+1022,colorado,3160,5,marquette,3266,10
+1023,colorado,3160,5,unlv,3424,10
+1024,colorado,3160,5,maryland,3268,10
+1025,colorado,3160,5,middle tennessee,3292,11
+1026,colorado,3160,5,texas a&m,3401,11
+1027,colorado,3160,5,green bay,3453,11
+1028,colorado,3160,5,auburn,3120,11
+1029,colorado,3160,5,arizona,3112,11
+1030,colorado,3160,5,florida gulf coast,3195,12
+1031,colorado,3160,5,south dakota state,3355,12
+1032,colorado,3160,5,columbia,3162,12
+1033,colorado,3160,5,vanderbilt,3435,12
+1034,colorado,3160,5,drake,3179,12
+1035,colorado,3160,5,portland,3339,13
+1036,colorado,3160,5,fairfield,3193,13
+1037,colorado,3160,5,marshall,3267,13
+1038,colorado,3160,5,uc irvine,3414,13
+1039,colorado,3160,5,chattanooga,3151,14
+1040,colorado,3160,5,jackson state,3238,14
+1041,colorado,3160,5,rice,3349,14
+1042,colorado,3160,5,eastern washington,3186,14
+1043,colorado,3160,5,maine,3263,15
+1044,colorado,3160,5,california baptist,3465,15
+1045,colorado,3160,5,kent state,3245,15
+1046,colorado,3160,5,norfolk state,3313,15
+1047,colorado,3160,5,sacred heart,3357,16
+1048,colorado,3160,5,holy cross,3221,16
+1049,colorado,3160,5,presbyterian,3342,16
+1050,colorado,3160,5,drexel,3180,16
+1051,colorado,3160,5,ut martin,3404,16
+1052,colorado,3160,5,a&m-corpus christi,3394,16
+1053,utah,3428,5,oklahoma,3328,5
+1054,utah,3428,5,tennessee,3397,6
+1055,utah,3428,5,nebraska,3304,6
+1056,utah,3428,5,syracuse,3393,6
+1057,utah,3428,5,louisville,3257,6
+1058,utah,3428,5,duke,3181,7
+1059,utah,3428,5,ole miss,3279,7
+1060,utah,3428,5,creighton,3166,7
+1061,utah,3428,5,iowa state,3235,7
+1062,utah,3428,5,kansas,3242,8
+1063,utah,3428,5,alabama,3104,8
+1064,utah,3428,5,north carolina,3314,8
+1065,utah,3428,5,west virginia,3452,8
+1066,utah,3428,5,michigan,3276,9
+1067,utah,3428,5,florida state,3199,9
+1068,utah,3428,5,michigan state,3277,9
+1069,utah,3428,5,princeton,3343,9
+1070,utah,3428,5,richmond,3350,10
+1071,utah,3428,5,marquette,3266,10
+1072,utah,3428,5,unlv,3424,10
+1073,utah,3428,5,maryland,3268,10
+1074,utah,3428,5,middle tennessee,3292,11
+1075,utah,3428,5,texas a&m,3401,11
+1076,utah,3428,5,green bay,3453,11
+1077,utah,3428,5,auburn,3120,11
+1078,utah,3428,5,arizona,3112,11
+1079,utah,3428,5,florida gulf coast,3195,12
+1080,utah,3428,5,south dakota state,3355,12
+1081,utah,3428,5,columbia,3162,12
+1082,utah,3428,5,vanderbilt,3435,12
+1083,utah,3428,5,drake,3179,12
+1084,utah,3428,5,portland,3339,13
+1085,utah,3428,5,fairfield,3193,13
+1086,utah,3428,5,marshall,3267,13
+1087,utah,3428,5,uc irvine,3414,13
+1088,utah,3428,5,chattanooga,3151,14
+1089,utah,3428,5,jackson state,3238,14
+1090,utah,3428,5,rice,3349,14
+1091,utah,3428,5,eastern washington,3186,14
+1092,utah,3428,5,maine,3263,15
+1093,utah,3428,5,california baptist,3465,15
+1094,utah,3428,5,kent state,3245,15
+1095,utah,3428,5,norfolk state,3313,15
+1096,utah,3428,5,sacred heart,3357,16
+1097,utah,3428,5,holy cross,3221,16
+1098,utah,3428,5,presbyterian,3342,16
+1099,utah,3428,5,drexel,3180,16
+1100,utah,3428,5,ut martin,3404,16
+1101,utah,3428,5,a&m-corpus christi,3394,16
+1102,oklahoma,3328,5,tennessee,3397,6
+1103,oklahoma,3328,5,nebraska,3304,6
+1104,oklahoma,3328,5,syracuse,3393,6
+1105,oklahoma,3328,5,louisville,3257,6
+1106,oklahoma,3328,5,duke,3181,7
+1107,oklahoma,3328,5,ole miss,3279,7
+1108,oklahoma,3328,5,creighton,3166,7
+1109,oklahoma,3328,5,iowa state,3235,7
+1110,oklahoma,3328,5,kansas,3242,8
+1111,oklahoma,3328,5,alabama,3104,8
+1112,oklahoma,3328,5,north carolina,3314,8
+1113,oklahoma,3328,5,west virginia,3452,8
+1114,oklahoma,3328,5,michigan,3276,9
+1115,oklahoma,3328,5,florida state,3199,9
+1116,oklahoma,3328,5,michigan state,3277,9
+1117,oklahoma,3328,5,princeton,3343,9
+1118,oklahoma,3328,5,richmond,3350,10
+1119,oklahoma,3328,5,marquette,3266,10
+1120,oklahoma,3328,5,unlv,3424,10
+1121,oklahoma,3328,5,maryland,3268,10
+1122,oklahoma,3328,5,middle tennessee,3292,11
+1123,oklahoma,3328,5,texas a&m,3401,11
+1124,oklahoma,3328,5,green bay,3453,11
+1125,oklahoma,3328,5,auburn,3120,11
+1126,oklahoma,3328,5,arizona,3112,11
+1127,oklahoma,3328,5,florida gulf coast,3195,12
+1128,oklahoma,3328,5,south dakota state,3355,12
+1129,oklahoma,3328,5,columbia,3162,12
+1130,oklahoma,3328,5,vanderbilt,3435,12
+1131,oklahoma,3328,5,drake,3179,12
+1132,oklahoma,3328,5,portland,3339,13
+1133,oklahoma,3328,5,fairfield,3193,13
+1134,oklahoma,3328,5,marshall,3267,13
+1135,oklahoma,3328,5,uc irvine,3414,13
+1136,oklahoma,3328,5,chattanooga,3151,14
+1137,oklahoma,3328,5,jackson state,3238,14
+1138,oklahoma,3328,5,rice,3349,14
+1139,oklahoma,3328,5,eastern washington,3186,14
+1140,oklahoma,3328,5,maine,3263,15
+1141,oklahoma,3328,5,california baptist,3465,15
+1142,oklahoma,3328,5,kent state,3245,15
+1143,oklahoma,3328,5,norfolk state,3313,15
+1144,oklahoma,3328,5,sacred heart,3357,16
+1145,oklahoma,3328,5,holy cross,3221,16
+1146,oklahoma,3328,5,presbyterian,3342,16
+1147,oklahoma,3328,5,drexel,3180,16
+1148,oklahoma,3328,5,ut martin,3404,16
+1149,oklahoma,3328,5,a&m-corpus christi,3394,16
+1150,tennessee,3397,6,nebraska,3304,6
+1151,tennessee,3397,6,syracuse,3393,6
+1152,tennessee,3397,6,louisville,3257,6
+1153,tennessee,3397,6,duke,3181,7
+1154,tennessee,3397,6,ole miss,3279,7
+1155,tennessee,3397,6,creighton,3166,7
+1156,tennessee,3397,6,iowa state,3235,7
+1157,tennessee,3397,6,kansas,3242,8
+1158,tennessee,3397,6,alabama,3104,8
+1159,tennessee,3397,6,north carolina,3314,8
+1160,tennessee,3397,6,west virginia,3452,8
+1161,tennessee,3397,6,michigan,3276,9
+1162,tennessee,3397,6,florida state,3199,9
+1163,tennessee,3397,6,michigan state,3277,9
+1164,tennessee,3397,6,princeton,3343,9
+1165,tennessee,3397,6,richmond,3350,10
+1166,tennessee,3397,6,marquette,3266,10
+1167,tennessee,3397,6,unlv,3424,10
+1168,tennessee,3397,6,maryland,3268,10
+1169,tennessee,3397,6,middle tennessee,3292,11
+1170,tennessee,3397,6,texas a&m,3401,11
+1171,tennessee,3397,6,green bay,3453,11
+1172,tennessee,3397,6,auburn,3120,11
+1173,tennessee,3397,6,arizona,3112,11
+1174,tennessee,3397,6,florida gulf coast,3195,12
+1175,tennessee,3397,6,south dakota state,3355,12
+1176,tennessee,3397,6,columbia,3162,12
+1177,tennessee,3397,6,vanderbilt,3435,12
+1178,tennessee,3397,6,drake,3179,12
+1179,tennessee,3397,6,portland,3339,13
+1180,tennessee,3397,6,fairfield,3193,13
+1181,tennessee,3397,6,marshall,3267,13
+1182,tennessee,3397,6,uc irvine,3414,13
+1183,tennessee,3397,6,chattanooga,3151,14
+1184,tennessee,3397,6,jackson state,3238,14
+1185,tennessee,3397,6,rice,3349,14
+1186,tennessee,3397,6,eastern washington,3186,14
+1187,tennessee,3397,6,maine,3263,15
+1188,tennessee,3397,6,california baptist,3465,15
+1189,tennessee,3397,6,kent state,3245,15
+1190,tennessee,3397,6,norfolk state,3313,15
+1191,tennessee,3397,6,sacred heart,3357,16
+1192,tennessee,3397,6,holy cross,3221,16
+1193,tennessee,3397,6,presbyterian,3342,16
+1194,tennessee,3397,6,drexel,3180,16
+1195,tennessee,3397,6,ut martin,3404,16
+1196,tennessee,3397,6,a&m-corpus christi,3394,16
+1197,nebraska,3304,6,syracuse,3393,6
+1198,nebraska,3304,6,louisville,3257,6
+1199,nebraska,3304,6,duke,3181,7
+1200,nebraska,3304,6,ole miss,3279,7
+1201,nebraska,3304,6,creighton,3166,7
+1202,nebraska,3304,6,iowa state,3235,7
+1203,nebraska,3304,6,kansas,3242,8
+1204,nebraska,3304,6,alabama,3104,8
+1205,nebraska,3304,6,north carolina,3314,8
+1206,nebraska,3304,6,west virginia,3452,8
+1207,nebraska,3304,6,michigan,3276,9
+1208,nebraska,3304,6,florida state,3199,9
+1209,nebraska,3304,6,michigan state,3277,9
+1210,nebraska,3304,6,princeton,3343,9
+1211,nebraska,3304,6,richmond,3350,10
+1212,nebraska,3304,6,marquette,3266,10
+1213,nebraska,3304,6,unlv,3424,10
+1214,nebraska,3304,6,maryland,3268,10
+1215,nebraska,3304,6,middle tennessee,3292,11
+1216,nebraska,3304,6,texas a&m,3401,11
+1217,nebraska,3304,6,green bay,3453,11
+1218,nebraska,3304,6,auburn,3120,11
+1219,nebraska,3304,6,arizona,3112,11
+1220,nebraska,3304,6,florida gulf coast,3195,12
+1221,nebraska,3304,6,south dakota state,3355,12
+1222,nebraska,3304,6,columbia,3162,12
+1223,nebraska,3304,6,vanderbilt,3435,12
+1224,nebraska,3304,6,drake,3179,12
+1225,nebraska,3304,6,portland,3339,13
+1226,nebraska,3304,6,fairfield,3193,13
+1227,nebraska,3304,6,marshall,3267,13
+1228,nebraska,3304,6,uc irvine,3414,13
+1229,nebraska,3304,6,chattanooga,3151,14
+1230,nebraska,3304,6,jackson state,3238,14
+1231,nebraska,3304,6,rice,3349,14
+1232,nebraska,3304,6,eastern washington,3186,14
+1233,nebraska,3304,6,maine,3263,15
+1234,nebraska,3304,6,california baptist,3465,15
+1235,nebraska,3304,6,kent state,3245,15
+1236,nebraska,3304,6,norfolk state,3313,15
+1237,nebraska,3304,6,sacred heart,3357,16
+1238,nebraska,3304,6,holy cross,3221,16
+1239,nebraska,3304,6,presbyterian,3342,16
+1240,nebraska,3304,6,drexel,3180,16
+1241,nebraska,3304,6,ut martin,3404,16
+1242,nebraska,3304,6,a&m-corpus christi,3394,16
+1243,syracuse,3393,6,louisville,3257,6
+1244,syracuse,3393,6,duke,3181,7
+1245,syracuse,3393,6,ole miss,3279,7
+1246,syracuse,3393,6,creighton,3166,7
+1247,syracuse,3393,6,iowa state,3235,7
+1248,syracuse,3393,6,kansas,3242,8
+1249,syracuse,3393,6,alabama,3104,8
+1250,syracuse,3393,6,north carolina,3314,8
+1251,syracuse,3393,6,west virginia,3452,8
+1252,syracuse,3393,6,michigan,3276,9
+1253,syracuse,3393,6,florida state,3199,9
+1254,syracuse,3393,6,michigan state,3277,9
+1255,syracuse,3393,6,princeton,3343,9
+1256,syracuse,3393,6,richmond,3350,10
+1257,syracuse,3393,6,marquette,3266,10
+1258,syracuse,3393,6,unlv,3424,10
+1259,syracuse,3393,6,maryland,3268,10
+1260,syracuse,3393,6,middle tennessee,3292,11
+1261,syracuse,3393,6,texas a&m,3401,11
+1262,syracuse,3393,6,green bay,3453,11
+1263,syracuse,3393,6,auburn,3120,11
+1264,syracuse,3393,6,arizona,3112,11
+1265,syracuse,3393,6,florida gulf coast,3195,12
+1266,syracuse,3393,6,south dakota state,3355,12
+1267,syracuse,3393,6,columbia,3162,12
+1268,syracuse,3393,6,vanderbilt,3435,12
+1269,syracuse,3393,6,drake,3179,12
+1270,syracuse,3393,6,portland,3339,13
+1271,syracuse,3393,6,fairfield,3193,13
+1272,syracuse,3393,6,marshall,3267,13
+1273,syracuse,3393,6,uc irvine,3414,13
+1274,syracuse,3393,6,chattanooga,3151,14
+1275,syracuse,3393,6,jackson state,3238,14
+1276,syracuse,3393,6,rice,3349,14
+1277,syracuse,3393,6,eastern washington,3186,14
+1278,syracuse,3393,6,maine,3263,15
+1279,syracuse,3393,6,california baptist,3465,15
+1280,syracuse,3393,6,kent state,3245,15
+1281,syracuse,3393,6,norfolk state,3313,15
+1282,syracuse,3393,6,sacred heart,3357,16
+1283,syracuse,3393,6,holy cross,3221,16
+1284,syracuse,3393,6,presbyterian,3342,16
+1285,syracuse,3393,6,drexel,3180,16
+1286,syracuse,3393,6,ut martin,3404,16
+1287,syracuse,3393,6,a&m-corpus christi,3394,16
+1288,louisville,3257,6,duke,3181,7
+1289,louisville,3257,6,ole miss,3279,7
+1290,louisville,3257,6,creighton,3166,7
+1291,louisville,3257,6,iowa state,3235,7
+1292,louisville,3257,6,kansas,3242,8
+1293,louisville,3257,6,alabama,3104,8
+1294,louisville,3257,6,north carolina,3314,8
+1295,louisville,3257,6,west virginia,3452,8
+1296,louisville,3257,6,michigan,3276,9
+1297,louisville,3257,6,florida state,3199,9
+1298,louisville,3257,6,michigan state,3277,9
+1299,louisville,3257,6,princeton,3343,9
+1300,louisville,3257,6,richmond,3350,10
+1301,louisville,3257,6,marquette,3266,10
+1302,louisville,3257,6,unlv,3424,10
+1303,louisville,3257,6,maryland,3268,10
+1304,louisville,3257,6,middle tennessee,3292,11
+1305,louisville,3257,6,texas a&m,3401,11
+1306,louisville,3257,6,green bay,3453,11
+1307,louisville,3257,6,auburn,3120,11
+1308,louisville,3257,6,arizona,3112,11
+1309,louisville,3257,6,florida gulf coast,3195,12
+1310,louisville,3257,6,south dakota state,3355,12
+1311,louisville,3257,6,columbia,3162,12
+1312,louisville,3257,6,vanderbilt,3435,12
+1313,louisville,3257,6,drake,3179,12
+1314,louisville,3257,6,portland,3339,13
+1315,louisville,3257,6,fairfield,3193,13
+1316,louisville,3257,6,marshall,3267,13
+1317,louisville,3257,6,uc irvine,3414,13
+1318,louisville,3257,6,chattanooga,3151,14
+1319,louisville,3257,6,jackson state,3238,14
+1320,louisville,3257,6,rice,3349,14
+1321,louisville,3257,6,eastern washington,3186,14
+1322,louisville,3257,6,maine,3263,15
+1323,louisville,3257,6,california baptist,3465,15
+1324,louisville,3257,6,kent state,3245,15
+1325,louisville,3257,6,norfolk state,3313,15
+1326,louisville,3257,6,sacred heart,3357,16
+1327,louisville,3257,6,holy cross,3221,16
+1328,louisville,3257,6,presbyterian,3342,16
+1329,louisville,3257,6,drexel,3180,16
+1330,louisville,3257,6,ut martin,3404,16
+1331,louisville,3257,6,a&m-corpus christi,3394,16
+1332,duke,3181,7,ole miss,3279,7
+1333,duke,3181,7,creighton,3166,7
+1334,duke,3181,7,iowa state,3235,7
+1335,duke,3181,7,kansas,3242,8
+1336,duke,3181,7,alabama,3104,8
+1337,duke,3181,7,north carolina,3314,8
+1338,duke,3181,7,west virginia,3452,8
+1339,duke,3181,7,michigan,3276,9
+1340,duke,3181,7,florida state,3199,9
+1341,duke,3181,7,michigan state,3277,9
+1342,duke,3181,7,princeton,3343,9
+1343,duke,3181,7,richmond,3350,10
+1344,duke,3181,7,marquette,3266,10
+1345,duke,3181,7,unlv,3424,10
+1346,duke,3181,7,maryland,3268,10
+1347,duke,3181,7,middle tennessee,3292,11
+1348,duke,3181,7,texas a&m,3401,11
+1349,duke,3181,7,green bay,3453,11
+1350,duke,3181,7,auburn,3120,11
+1351,duke,3181,7,arizona,3112,11
+1352,duke,3181,7,florida gulf coast,3195,12
+1353,duke,3181,7,south dakota state,3355,12
+1354,duke,3181,7,columbia,3162,12
+1355,duke,3181,7,vanderbilt,3435,12
+1356,duke,3181,7,drake,3179,12
+1357,duke,3181,7,portland,3339,13
+1358,duke,3181,7,fairfield,3193,13
+1359,duke,3181,7,marshall,3267,13
+1360,duke,3181,7,uc irvine,3414,13
+1361,duke,3181,7,chattanooga,3151,14
+1362,duke,3181,7,jackson state,3238,14
+1363,duke,3181,7,rice,3349,14
+1364,duke,3181,7,eastern washington,3186,14
+1365,duke,3181,7,maine,3263,15
+1366,duke,3181,7,california baptist,3465,15
+1367,duke,3181,7,kent state,3245,15
+1368,duke,3181,7,norfolk state,3313,15
+1369,duke,3181,7,sacred heart,3357,16
+1370,duke,3181,7,holy cross,3221,16
+1371,duke,3181,7,presbyterian,3342,16
+1372,duke,3181,7,drexel,3180,16
+1373,duke,3181,7,ut martin,3404,16
+1374,duke,3181,7,a&m-corpus christi,3394,16
+1375,ole miss,3279,7,creighton,3166,7
+1376,ole miss,3279,7,iowa state,3235,7
+1377,ole miss,3279,7,kansas,3242,8
+1378,ole miss,3279,7,alabama,3104,8
+1379,ole miss,3279,7,north carolina,3314,8
+1380,ole miss,3279,7,west virginia,3452,8
+1381,ole miss,3279,7,michigan,3276,9
+1382,ole miss,3279,7,florida state,3199,9
+1383,ole miss,3279,7,michigan state,3277,9
+1384,ole miss,3279,7,princeton,3343,9
+1385,ole miss,3279,7,richmond,3350,10
+1386,ole miss,3279,7,marquette,3266,10
+1387,ole miss,3279,7,unlv,3424,10
+1388,ole miss,3279,7,maryland,3268,10
+1389,ole miss,3279,7,middle tennessee,3292,11
+1390,ole miss,3279,7,texas a&m,3401,11
+1391,ole miss,3279,7,green bay,3453,11
+1392,ole miss,3279,7,auburn,3120,11
+1393,ole miss,3279,7,arizona,3112,11
+1394,ole miss,3279,7,florida gulf coast,3195,12
+1395,ole miss,3279,7,south dakota state,3355,12
+1396,ole miss,3279,7,columbia,3162,12
+1397,ole miss,3279,7,vanderbilt,3435,12
+1398,ole miss,3279,7,drake,3179,12
+1399,ole miss,3279,7,portland,3339,13
+1400,ole miss,3279,7,fairfield,3193,13
+1401,ole miss,3279,7,marshall,3267,13
+1402,ole miss,3279,7,uc irvine,3414,13
+1403,ole miss,3279,7,chattanooga,3151,14
+1404,ole miss,3279,7,jackson state,3238,14
+1405,ole miss,3279,7,rice,3349,14
+1406,ole miss,3279,7,eastern washington,3186,14
+1407,ole miss,3279,7,maine,3263,15
+1408,ole miss,3279,7,california baptist,3465,15
+1409,ole miss,3279,7,kent state,3245,15
+1410,ole miss,3279,7,norfolk state,3313,15
+1411,ole miss,3279,7,sacred heart,3357,16
+1412,ole miss,3279,7,holy cross,3221,16
+1413,ole miss,3279,7,presbyterian,3342,16
+1414,ole miss,3279,7,drexel,3180,16
+1415,ole miss,3279,7,ut martin,3404,16
+1416,ole miss,3279,7,a&m-corpus christi,3394,16
+1417,creighton,3166,7,iowa state,3235,7
+1418,creighton,3166,7,kansas,3242,8
+1419,creighton,3166,7,alabama,3104,8
+1420,creighton,3166,7,north carolina,3314,8
+1421,creighton,3166,7,west virginia,3452,8
+1422,creighton,3166,7,michigan,3276,9
+1423,creighton,3166,7,florida state,3199,9
+1424,creighton,3166,7,michigan state,3277,9
+1425,creighton,3166,7,princeton,3343,9
+1426,creighton,3166,7,richmond,3350,10
+1427,creighton,3166,7,marquette,3266,10
+1428,creighton,3166,7,unlv,3424,10
+1429,creighton,3166,7,maryland,3268,10
+1430,creighton,3166,7,middle tennessee,3292,11
+1431,creighton,3166,7,texas a&m,3401,11
+1432,creighton,3166,7,green bay,3453,11
+1433,creighton,3166,7,auburn,3120,11
+1434,creighton,3166,7,arizona,3112,11
+1435,creighton,3166,7,florida gulf coast,3195,12
+1436,creighton,3166,7,south dakota state,3355,12
+1437,creighton,3166,7,columbia,3162,12
+1438,creighton,3166,7,vanderbilt,3435,12
+1439,creighton,3166,7,drake,3179,12
+1440,creighton,3166,7,portland,3339,13
+1441,creighton,3166,7,fairfield,3193,13
+1442,creighton,3166,7,marshall,3267,13
+1443,creighton,3166,7,uc irvine,3414,13
+1444,creighton,3166,7,chattanooga,3151,14
+1445,creighton,3166,7,jackson state,3238,14
+1446,creighton,3166,7,rice,3349,14
+1447,creighton,3166,7,eastern washington,3186,14
+1448,creighton,3166,7,maine,3263,15
+1449,creighton,3166,7,california baptist,3465,15
+1450,creighton,3166,7,kent state,3245,15
+1451,creighton,3166,7,norfolk state,3313,15
+1452,creighton,3166,7,sacred heart,3357,16
+1453,creighton,3166,7,holy cross,3221,16
+1454,creighton,3166,7,presbyterian,3342,16
+1455,creighton,3166,7,drexel,3180,16
+1456,creighton,3166,7,ut martin,3404,16
+1457,creighton,3166,7,a&m-corpus christi,3394,16
+1458,iowa state,3235,7,kansas,3242,8
+1459,iowa state,3235,7,alabama,3104,8
+1460,iowa state,3235,7,north carolina,3314,8
+1461,iowa state,3235,7,west virginia,3452,8
+1462,iowa state,3235,7,michigan,3276,9
+1463,iowa state,3235,7,florida state,3199,9
+1464,iowa state,3235,7,michigan state,3277,9
+1465,iowa state,3235,7,princeton,3343,9
+1466,iowa state,3235,7,richmond,3350,10
+1467,iowa state,3235,7,marquette,3266,10
+1468,iowa state,3235,7,unlv,3424,10
+1469,iowa state,3235,7,maryland,3268,10
+1470,iowa state,3235,7,middle tennessee,3292,11
+1471,iowa state,3235,7,texas a&m,3401,11
+1472,iowa state,3235,7,green bay,3453,11
+1473,iowa state,3235,7,auburn,3120,11
+1474,iowa state,3235,7,arizona,3112,11
+1475,iowa state,3235,7,florida gulf coast,3195,12
+1476,iowa state,3235,7,south dakota state,3355,12
+1477,iowa state,3235,7,columbia,3162,12
+1478,iowa state,3235,7,vanderbilt,3435,12
+1479,iowa state,3235,7,drake,3179,12
+1480,iowa state,3235,7,portland,3339,13
+1481,iowa state,3235,7,fairfield,3193,13
+1482,iowa state,3235,7,marshall,3267,13
+1483,iowa state,3235,7,uc irvine,3414,13
+1484,iowa state,3235,7,chattanooga,3151,14
+1485,iowa state,3235,7,jackson state,3238,14
+1486,iowa state,3235,7,rice,3349,14
+1487,iowa state,3235,7,eastern washington,3186,14
+1488,iowa state,3235,7,maine,3263,15
+1489,iowa state,3235,7,california baptist,3465,15
+1490,iowa state,3235,7,kent state,3245,15
+1491,iowa state,3235,7,norfolk state,3313,15
+1492,iowa state,3235,7,sacred heart,3357,16
+1493,iowa state,3235,7,holy cross,3221,16
+1494,iowa state,3235,7,presbyterian,3342,16
+1495,iowa state,3235,7,drexel,3180,16
+1496,iowa state,3235,7,ut martin,3404,16
+1497,iowa state,3235,7,a&m-corpus christi,3394,16
+1498,kansas,3242,8,alabama,3104,8
+1499,kansas,3242,8,north carolina,3314,8
+1500,kansas,3242,8,west virginia,3452,8
+1501,kansas,3242,8,michigan,3276,9
+1502,kansas,3242,8,florida state,3199,9
+1503,kansas,3242,8,michigan state,3277,9
+1504,kansas,3242,8,princeton,3343,9
+1505,kansas,3242,8,richmond,3350,10
+1506,kansas,3242,8,marquette,3266,10
+1507,kansas,3242,8,unlv,3424,10
+1508,kansas,3242,8,maryland,3268,10
+1509,kansas,3242,8,middle tennessee,3292,11
+1510,kansas,3242,8,texas a&m,3401,11
+1511,kansas,3242,8,green bay,3453,11
+1512,kansas,3242,8,auburn,3120,11
+1513,kansas,3242,8,arizona,3112,11
+1514,kansas,3242,8,florida gulf coast,3195,12
+1515,kansas,3242,8,south dakota state,3355,12
+1516,kansas,3242,8,columbia,3162,12
+1517,kansas,3242,8,vanderbilt,3435,12
+1518,kansas,3242,8,drake,3179,12
+1519,kansas,3242,8,portland,3339,13
+1520,kansas,3242,8,fairfield,3193,13
+1521,kansas,3242,8,marshall,3267,13
+1522,kansas,3242,8,uc irvine,3414,13
+1523,kansas,3242,8,chattanooga,3151,14
+1524,kansas,3242,8,jackson state,3238,14
+1525,kansas,3242,8,rice,3349,14
+1526,kansas,3242,8,eastern washington,3186,14
+1527,kansas,3242,8,maine,3263,15
+1528,kansas,3242,8,california baptist,3465,15
+1529,kansas,3242,8,kent state,3245,15
+1530,kansas,3242,8,norfolk state,3313,15
+1531,kansas,3242,8,sacred heart,3357,16
+1532,kansas,3242,8,holy cross,3221,16
+1533,kansas,3242,8,presbyterian,3342,16
+1534,kansas,3242,8,drexel,3180,16
+1535,kansas,3242,8,ut martin,3404,16
+1536,kansas,3242,8,a&m-corpus christi,3394,16
+1537,alabama,3104,8,north carolina,3314,8
+1538,alabama,3104,8,west virginia,3452,8
+1539,alabama,3104,8,michigan,3276,9
+1540,alabama,3104,8,florida state,3199,9
+1541,alabama,3104,8,michigan state,3277,9
+1542,alabama,3104,8,princeton,3343,9
+1543,alabama,3104,8,richmond,3350,10
+1544,alabama,3104,8,marquette,3266,10
+1545,alabama,3104,8,unlv,3424,10
+1546,alabama,3104,8,maryland,3268,10
+1547,alabama,3104,8,middle tennessee,3292,11
+1548,alabama,3104,8,texas a&m,3401,11
+1549,alabama,3104,8,green bay,3453,11
+1550,alabama,3104,8,auburn,3120,11
+1551,alabama,3104,8,arizona,3112,11
+1552,alabama,3104,8,florida gulf coast,3195,12
+1553,alabama,3104,8,south dakota state,3355,12
+1554,alabama,3104,8,columbia,3162,12
+1555,alabama,3104,8,vanderbilt,3435,12
+1556,alabama,3104,8,drake,3179,12
+1557,alabama,3104,8,portland,3339,13
+1558,alabama,3104,8,fairfield,3193,13
+1559,alabama,3104,8,marshall,3267,13
+1560,alabama,3104,8,uc irvine,3414,13
+1561,alabama,3104,8,chattanooga,3151,14
+1562,alabama,3104,8,jackson state,3238,14
+1563,alabama,3104,8,rice,3349,14
+1564,alabama,3104,8,eastern washington,3186,14
+1565,alabama,3104,8,maine,3263,15
+1566,alabama,3104,8,california baptist,3465,15
+1567,alabama,3104,8,kent state,3245,15
+1568,alabama,3104,8,norfolk state,3313,15
+1569,alabama,3104,8,sacred heart,3357,16
+1570,alabama,3104,8,holy cross,3221,16
+1571,alabama,3104,8,presbyterian,3342,16
+1572,alabama,3104,8,drexel,3180,16
+1573,alabama,3104,8,ut martin,3404,16
+1574,alabama,3104,8,a&m-corpus christi,3394,16
+1575,north carolina,3314,8,west virginia,3452,8
+1576,north carolina,3314,8,michigan,3276,9
+1577,north carolina,3314,8,florida state,3199,9
+1578,north carolina,3314,8,michigan state,3277,9
+1579,north carolina,3314,8,princeton,3343,9
+1580,north carolina,3314,8,richmond,3350,10
+1581,north carolina,3314,8,marquette,3266,10
+1582,north carolina,3314,8,unlv,3424,10
+1583,north carolina,3314,8,maryland,3268,10
+1584,north carolina,3314,8,middle tennessee,3292,11
+1585,north carolina,3314,8,texas a&m,3401,11
+1586,north carolina,3314,8,green bay,3453,11
+1587,north carolina,3314,8,auburn,3120,11
+1588,north carolina,3314,8,arizona,3112,11
+1589,north carolina,3314,8,florida gulf coast,3195,12
+1590,north carolina,3314,8,south dakota state,3355,12
+1591,north carolina,3314,8,columbia,3162,12
+1592,north carolina,3314,8,vanderbilt,3435,12
+1593,north carolina,3314,8,drake,3179,12
+1594,north carolina,3314,8,portland,3339,13
+1595,north carolina,3314,8,fairfield,3193,13
+1596,north carolina,3314,8,marshall,3267,13
+1597,north carolina,3314,8,uc irvine,3414,13
+1598,north carolina,3314,8,chattanooga,3151,14
+1599,north carolina,3314,8,jackson state,3238,14
+1600,north carolina,3314,8,rice,3349,14
+1601,north carolina,3314,8,eastern washington,3186,14
+1602,north carolina,3314,8,maine,3263,15
+1603,north carolina,3314,8,california baptist,3465,15
+1604,north carolina,3314,8,kent state,3245,15
+1605,north carolina,3314,8,norfolk state,3313,15
+1606,north carolina,3314,8,sacred heart,3357,16
+1607,north carolina,3314,8,holy cross,3221,16
+1608,north carolina,3314,8,presbyterian,3342,16
+1609,north carolina,3314,8,drexel,3180,16
+1610,north carolina,3314,8,ut martin,3404,16
+1611,north carolina,3314,8,a&m-corpus christi,3394,16
+1612,west virginia,3452,8,michigan,3276,9
+1613,west virginia,3452,8,florida state,3199,9
+1614,west virginia,3452,8,michigan state,3277,9
+1615,west virginia,3452,8,princeton,3343,9
+1616,west virginia,3452,8,richmond,3350,10
+1617,west virginia,3452,8,marquette,3266,10
+1618,west virginia,3452,8,unlv,3424,10
+1619,west virginia,3452,8,maryland,3268,10
+1620,west virginia,3452,8,middle tennessee,3292,11
+1621,west virginia,3452,8,texas a&m,3401,11
+1622,west virginia,3452,8,green bay,3453,11
+1623,west virginia,3452,8,auburn,3120,11
+1624,west virginia,3452,8,arizona,3112,11
+1625,west virginia,3452,8,florida gulf coast,3195,12
+1626,west virginia,3452,8,south dakota state,3355,12
+1627,west virginia,3452,8,columbia,3162,12
+1628,west virginia,3452,8,vanderbilt,3435,12
+1629,west virginia,3452,8,drake,3179,12
+1630,west virginia,3452,8,portland,3339,13
+1631,west virginia,3452,8,fairfield,3193,13
+1632,west virginia,3452,8,marshall,3267,13
+1633,west virginia,3452,8,uc irvine,3414,13
+1634,west virginia,3452,8,chattanooga,3151,14
+1635,west virginia,3452,8,jackson state,3238,14
+1636,west virginia,3452,8,rice,3349,14
+1637,west virginia,3452,8,eastern washington,3186,14
+1638,west virginia,3452,8,maine,3263,15
+1639,west virginia,3452,8,california baptist,3465,15
+1640,west virginia,3452,8,kent state,3245,15
+1641,west virginia,3452,8,norfolk state,3313,15
+1642,west virginia,3452,8,sacred heart,3357,16
+1643,west virginia,3452,8,holy cross,3221,16
+1644,west virginia,3452,8,presbyterian,3342,16
+1645,west virginia,3452,8,drexel,3180,16
+1646,west virginia,3452,8,ut martin,3404,16
+1647,west virginia,3452,8,a&m-corpus christi,3394,16
+1648,michigan,3276,9,florida state,3199,9
+1649,michigan,3276,9,michigan state,3277,9
+1650,michigan,3276,9,princeton,3343,9
+1651,michigan,3276,9,richmond,3350,10
+1652,michigan,3276,9,marquette,3266,10
+1653,michigan,3276,9,unlv,3424,10
+1654,michigan,3276,9,maryland,3268,10
+1655,michigan,3276,9,middle tennessee,3292,11
+1656,michigan,3276,9,texas a&m,3401,11
+1657,michigan,3276,9,green bay,3453,11
+1658,michigan,3276,9,auburn,3120,11
+1659,michigan,3276,9,arizona,3112,11
+1660,michigan,3276,9,florida gulf coast,3195,12
+1661,michigan,3276,9,south dakota state,3355,12
+1662,michigan,3276,9,columbia,3162,12
+1663,michigan,3276,9,vanderbilt,3435,12
+1664,michigan,3276,9,drake,3179,12
+1665,michigan,3276,9,portland,3339,13
+1666,michigan,3276,9,fairfield,3193,13
+1667,michigan,3276,9,marshall,3267,13
+1668,michigan,3276,9,uc irvine,3414,13
+1669,michigan,3276,9,chattanooga,3151,14
+1670,michigan,3276,9,jackson state,3238,14
+1671,michigan,3276,9,rice,3349,14
+1672,michigan,3276,9,eastern washington,3186,14
+1673,michigan,3276,9,maine,3263,15
+1674,michigan,3276,9,california baptist,3465,15
+1675,michigan,3276,9,kent state,3245,15
+1676,michigan,3276,9,norfolk state,3313,15
+1677,michigan,3276,9,sacred heart,3357,16
+1678,michigan,3276,9,holy cross,3221,16
+1679,michigan,3276,9,presbyterian,3342,16
+1680,michigan,3276,9,drexel,3180,16
+1681,michigan,3276,9,ut martin,3404,16
+1682,michigan,3276,9,a&m-corpus christi,3394,16
+1683,florida state,3199,9,michigan state,3277,9
+1684,florida state,3199,9,princeton,3343,9
+1685,florida state,3199,9,richmond,3350,10
+1686,florida state,3199,9,marquette,3266,10
+1687,florida state,3199,9,unlv,3424,10
+1688,florida state,3199,9,maryland,3268,10
+1689,florida state,3199,9,middle tennessee,3292,11
+1690,florida state,3199,9,texas a&m,3401,11
+1691,florida state,3199,9,green bay,3453,11
+1692,florida state,3199,9,auburn,3120,11
+1693,florida state,3199,9,arizona,3112,11
+1694,florida state,3199,9,florida gulf coast,3195,12
+1695,florida state,3199,9,south dakota state,3355,12
+1696,florida state,3199,9,columbia,3162,12
+1697,florida state,3199,9,vanderbilt,3435,12
+1698,florida state,3199,9,drake,3179,12
+1699,florida state,3199,9,portland,3339,13
+1700,florida state,3199,9,fairfield,3193,13
+1701,florida state,3199,9,marshall,3267,13
+1702,florida state,3199,9,uc irvine,3414,13
+1703,florida state,3199,9,chattanooga,3151,14
+1704,florida state,3199,9,jackson state,3238,14
+1705,florida state,3199,9,rice,3349,14
+1706,florida state,3199,9,eastern washington,3186,14
+1707,florida state,3199,9,maine,3263,15
+1708,florida state,3199,9,california baptist,3465,15
+1709,florida state,3199,9,kent state,3245,15
+1710,florida state,3199,9,norfolk state,3313,15
+1711,florida state,3199,9,sacred heart,3357,16
+1712,florida state,3199,9,holy cross,3221,16
+1713,florida state,3199,9,presbyterian,3342,16
+1714,florida state,3199,9,drexel,3180,16
+1715,florida state,3199,9,ut martin,3404,16
+1716,florida state,3199,9,a&m-corpus christi,3394,16
+1717,michigan state,3277,9,princeton,3343,9
+1718,michigan state,3277,9,richmond,3350,10
+1719,michigan state,3277,9,marquette,3266,10
+1720,michigan state,3277,9,unlv,3424,10
+1721,michigan state,3277,9,maryland,3268,10
+1722,michigan state,3277,9,middle tennessee,3292,11
+1723,michigan state,3277,9,texas a&m,3401,11
+1724,michigan state,3277,9,green bay,3453,11
+1725,michigan state,3277,9,auburn,3120,11
+1726,michigan state,3277,9,arizona,3112,11
+1727,michigan state,3277,9,florida gulf coast,3195,12
+1728,michigan state,3277,9,south dakota state,3355,12
+1729,michigan state,3277,9,columbia,3162,12
+1730,michigan state,3277,9,vanderbilt,3435,12
+1731,michigan state,3277,9,drake,3179,12
+1732,michigan state,3277,9,portland,3339,13
+1733,michigan state,3277,9,fairfield,3193,13
+1734,michigan state,3277,9,marshall,3267,13
+1735,michigan state,3277,9,uc irvine,3414,13
+1736,michigan state,3277,9,chattanooga,3151,14
+1737,michigan state,3277,9,jackson state,3238,14
+1738,michigan state,3277,9,rice,3349,14
+1739,michigan state,3277,9,eastern washington,3186,14
+1740,michigan state,3277,9,maine,3263,15
+1741,michigan state,3277,9,california baptist,3465,15
+1742,michigan state,3277,9,kent state,3245,15
+1743,michigan state,3277,9,norfolk state,3313,15
+1744,michigan state,3277,9,sacred heart,3357,16
+1745,michigan state,3277,9,holy cross,3221,16
+1746,michigan state,3277,9,presbyterian,3342,16
+1747,michigan state,3277,9,drexel,3180,16
+1748,michigan state,3277,9,ut martin,3404,16
+1749,michigan state,3277,9,a&m-corpus christi,3394,16
+1750,princeton,3343,9,richmond,3350,10
+1751,princeton,3343,9,marquette,3266,10
+1752,princeton,3343,9,unlv,3424,10
+1753,princeton,3343,9,maryland,3268,10
+1754,princeton,3343,9,middle tennessee,3292,11
+1755,princeton,3343,9,texas a&m,3401,11
+1756,princeton,3343,9,green bay,3453,11
+1757,princeton,3343,9,auburn,3120,11
+1758,princeton,3343,9,arizona,3112,11
+1759,princeton,3343,9,florida gulf coast,3195,12
+1760,princeton,3343,9,south dakota state,3355,12
+1761,princeton,3343,9,columbia,3162,12
+1762,princeton,3343,9,vanderbilt,3435,12
+1763,princeton,3343,9,drake,3179,12
+1764,princeton,3343,9,portland,3339,13
+1765,princeton,3343,9,fairfield,3193,13
+1766,princeton,3343,9,marshall,3267,13
+1767,princeton,3343,9,uc irvine,3414,13
+1768,princeton,3343,9,chattanooga,3151,14
+1769,princeton,3343,9,jackson state,3238,14
+1770,princeton,3343,9,rice,3349,14
+1771,princeton,3343,9,eastern washington,3186,14
+1772,princeton,3343,9,maine,3263,15
+1773,princeton,3343,9,california baptist,3465,15
+1774,princeton,3343,9,kent state,3245,15
+1775,princeton,3343,9,norfolk state,3313,15
+1776,princeton,3343,9,sacred heart,3357,16
+1777,princeton,3343,9,holy cross,3221,16
+1778,princeton,3343,9,presbyterian,3342,16
+1779,princeton,3343,9,drexel,3180,16
+1780,princeton,3343,9,ut martin,3404,16
+1781,princeton,3343,9,a&m-corpus christi,3394,16
+1782,richmond,3350,10,marquette,3266,10
+1783,richmond,3350,10,unlv,3424,10
+1784,richmond,3350,10,maryland,3268,10
+1785,richmond,3350,10,middle tennessee,3292,11
+1786,richmond,3350,10,texas a&m,3401,11
+1787,richmond,3350,10,green bay,3453,11
+1788,richmond,3350,10,auburn,3120,11
+1789,richmond,3350,10,arizona,3112,11
+1790,richmond,3350,10,florida gulf coast,3195,12
+1791,richmond,3350,10,south dakota state,3355,12
+1792,richmond,3350,10,columbia,3162,12
+1793,richmond,3350,10,vanderbilt,3435,12
+1794,richmond,3350,10,drake,3179,12
+1795,richmond,3350,10,portland,3339,13
+1796,richmond,3350,10,fairfield,3193,13
+1797,richmond,3350,10,marshall,3267,13
+1798,richmond,3350,10,uc irvine,3414,13
+1799,richmond,3350,10,chattanooga,3151,14
+1800,richmond,3350,10,jackson state,3238,14
+1801,richmond,3350,10,rice,3349,14
+1802,richmond,3350,10,eastern washington,3186,14
+1803,richmond,3350,10,maine,3263,15
+1804,richmond,3350,10,california baptist,3465,15
+1805,richmond,3350,10,kent state,3245,15
+1806,richmond,3350,10,norfolk state,3313,15
+1807,richmond,3350,10,sacred heart,3357,16
+1808,richmond,3350,10,holy cross,3221,16
+1809,richmond,3350,10,presbyterian,3342,16
+1810,richmond,3350,10,drexel,3180,16
+1811,richmond,3350,10,ut martin,3404,16
+1812,richmond,3350,10,a&m-corpus christi,3394,16
+1813,marquette,3266,10,unlv,3424,10
+1814,marquette,3266,10,maryland,3268,10
+1815,marquette,3266,10,middle tennessee,3292,11
+1816,marquette,3266,10,texas a&m,3401,11
+1817,marquette,3266,10,green bay,3453,11
+1818,marquette,3266,10,auburn,3120,11
+1819,marquette,3266,10,arizona,3112,11
+1820,marquette,3266,10,florida gulf coast,3195,12
+1821,marquette,3266,10,south dakota state,3355,12
+1822,marquette,3266,10,columbia,3162,12
+1823,marquette,3266,10,vanderbilt,3435,12
+1824,marquette,3266,10,drake,3179,12
+1825,marquette,3266,10,portland,3339,13
+1826,marquette,3266,10,fairfield,3193,13
+1827,marquette,3266,10,marshall,3267,13
+1828,marquette,3266,10,uc irvine,3414,13
+1829,marquette,3266,10,chattanooga,3151,14
+1830,marquette,3266,10,jackson state,3238,14
+1831,marquette,3266,10,rice,3349,14
+1832,marquette,3266,10,eastern washington,3186,14
+1833,marquette,3266,10,maine,3263,15
+1834,marquette,3266,10,california baptist,3465,15
+1835,marquette,3266,10,kent state,3245,15
+1836,marquette,3266,10,norfolk state,3313,15
+1837,marquette,3266,10,sacred heart,3357,16
+1838,marquette,3266,10,holy cross,3221,16
+1839,marquette,3266,10,presbyterian,3342,16
+1840,marquette,3266,10,drexel,3180,16
+1841,marquette,3266,10,ut martin,3404,16
+1842,marquette,3266,10,a&m-corpus christi,3394,16
+1843,unlv,3424,10,maryland,3268,10
+1844,unlv,3424,10,middle tennessee,3292,11
+1845,unlv,3424,10,texas a&m,3401,11
+1846,unlv,3424,10,green bay,3453,11
+1847,unlv,3424,10,auburn,3120,11
+1848,unlv,3424,10,arizona,3112,11
+1849,unlv,3424,10,florida gulf coast,3195,12
+1850,unlv,3424,10,south dakota state,3355,12
+1851,unlv,3424,10,columbia,3162,12
+1852,unlv,3424,10,vanderbilt,3435,12
+1853,unlv,3424,10,drake,3179,12
+1854,unlv,3424,10,portland,3339,13
+1855,unlv,3424,10,fairfield,3193,13
+1856,unlv,3424,10,marshall,3267,13
+1857,unlv,3424,10,uc irvine,3414,13
+1858,unlv,3424,10,chattanooga,3151,14
+1859,unlv,3424,10,jackson state,3238,14
+1860,unlv,3424,10,rice,3349,14
+1861,unlv,3424,10,eastern washington,3186,14
+1862,unlv,3424,10,maine,3263,15
+1863,unlv,3424,10,california baptist,3465,15
+1864,unlv,3424,10,kent state,3245,15
+1865,unlv,3424,10,norfolk state,3313,15
+1866,unlv,3424,10,sacred heart,3357,16
+1867,unlv,3424,10,holy cross,3221,16
+1868,unlv,3424,10,presbyterian,3342,16
+1869,unlv,3424,10,drexel,3180,16
+1870,unlv,3424,10,ut martin,3404,16
+1871,unlv,3424,10,a&m-corpus christi,3394,16
+1872,maryland,3268,10,middle tennessee,3292,11
+1873,maryland,3268,10,texas a&m,3401,11
+1874,maryland,3268,10,green bay,3453,11
+1875,maryland,3268,10,auburn,3120,11
+1876,maryland,3268,10,arizona,3112,11
+1877,maryland,3268,10,florida gulf coast,3195,12
+1878,maryland,3268,10,south dakota state,3355,12
+1879,maryland,3268,10,columbia,3162,12
+1880,maryland,3268,10,vanderbilt,3435,12
+1881,maryland,3268,10,drake,3179,12
+1882,maryland,3268,10,portland,3339,13
+1883,maryland,3268,10,fairfield,3193,13
+1884,maryland,3268,10,marshall,3267,13
+1885,maryland,3268,10,uc irvine,3414,13
+1886,maryland,3268,10,chattanooga,3151,14
+1887,maryland,3268,10,jackson state,3238,14
+1888,maryland,3268,10,rice,3349,14
+1889,maryland,3268,10,eastern washington,3186,14
+1890,maryland,3268,10,maine,3263,15
+1891,maryland,3268,10,california baptist,3465,15
+1892,maryland,3268,10,kent state,3245,15
+1893,maryland,3268,10,norfolk state,3313,15
+1894,maryland,3268,10,sacred heart,3357,16
+1895,maryland,3268,10,holy cross,3221,16
+1896,maryland,3268,10,presbyterian,3342,16
+1897,maryland,3268,10,drexel,3180,16
+1898,maryland,3268,10,ut martin,3404,16
+1899,maryland,3268,10,a&m-corpus christi,3394,16
+1900,middle tennessee,3292,11,texas a&m,3401,11
+1901,middle tennessee,3292,11,green bay,3453,11
+1902,middle tennessee,3292,11,auburn,3120,11
+1903,middle tennessee,3292,11,arizona,3112,11
+1904,middle tennessee,3292,11,florida gulf coast,3195,12
+1905,middle tennessee,3292,11,south dakota state,3355,12
+1906,middle tennessee,3292,11,columbia,3162,12
+1907,middle tennessee,3292,11,vanderbilt,3435,12
+1908,middle tennessee,3292,11,drake,3179,12
+1909,middle tennessee,3292,11,portland,3339,13
+1910,middle tennessee,3292,11,fairfield,3193,13
+1911,middle tennessee,3292,11,marshall,3267,13
+1912,middle tennessee,3292,11,uc irvine,3414,13
+1913,middle tennessee,3292,11,chattanooga,3151,14
+1914,middle tennessee,3292,11,jackson state,3238,14
+1915,middle tennessee,3292,11,rice,3349,14
+1916,middle tennessee,3292,11,eastern washington,3186,14
+1917,middle tennessee,3292,11,maine,3263,15
+1918,middle tennessee,3292,11,california baptist,3465,15
+1919,middle tennessee,3292,11,kent state,3245,15
+1920,middle tennessee,3292,11,norfolk state,3313,15
+1921,middle tennessee,3292,11,sacred heart,3357,16
+1922,middle tennessee,3292,11,holy cross,3221,16
+1923,middle tennessee,3292,11,presbyterian,3342,16
+1924,middle tennessee,3292,11,drexel,3180,16
+1925,middle tennessee,3292,11,ut martin,3404,16
+1926,middle tennessee,3292,11,a&m-corpus christi,3394,16
+1927,texas a&m,3401,11,green bay,3453,11
+1928,texas a&m,3401,11,auburn,3120,11
+1929,texas a&m,3401,11,arizona,3112,11
+1930,texas a&m,3401,11,florida gulf coast,3195,12
+1931,texas a&m,3401,11,south dakota state,3355,12
+1932,texas a&m,3401,11,columbia,3162,12
+1933,texas a&m,3401,11,vanderbilt,3435,12
+1934,texas a&m,3401,11,drake,3179,12
+1935,texas a&m,3401,11,portland,3339,13
+1936,texas a&m,3401,11,fairfield,3193,13
+1937,texas a&m,3401,11,marshall,3267,13
+1938,texas a&m,3401,11,uc irvine,3414,13
+1939,texas a&m,3401,11,chattanooga,3151,14
+1940,texas a&m,3401,11,jackson state,3238,14
+1941,texas a&m,3401,11,rice,3349,14
+1942,texas a&m,3401,11,eastern washington,3186,14
+1943,texas a&m,3401,11,maine,3263,15
+1944,texas a&m,3401,11,california baptist,3465,15
+1945,texas a&m,3401,11,kent state,3245,15
+1946,texas a&m,3401,11,norfolk state,3313,15
+1947,texas a&m,3401,11,sacred heart,3357,16
+1948,texas a&m,3401,11,holy cross,3221,16
+1949,texas a&m,3401,11,presbyterian,3342,16
+1950,texas a&m,3401,11,drexel,3180,16
+1951,texas a&m,3401,11,ut martin,3404,16
+1952,texas a&m,3401,11,a&m-corpus christi,3394,16
+1953,green bay,3453,11,auburn,3120,11
+1954,green bay,3453,11,arizona,3112,11
+1955,green bay,3453,11,florida gulf coast,3195,12
+1956,green bay,3453,11,south dakota state,3355,12
+1957,green bay,3453,11,columbia,3162,12
+1958,green bay,3453,11,vanderbilt,3435,12
+1959,green bay,3453,11,drake,3179,12
+1960,green bay,3453,11,portland,3339,13
+1961,green bay,3453,11,fairfield,3193,13
+1962,green bay,3453,11,marshall,3267,13
+1963,green bay,3453,11,uc irvine,3414,13
+1964,green bay,3453,11,chattanooga,3151,14
+1965,green bay,3453,11,jackson state,3238,14
+1966,green bay,3453,11,rice,3349,14
+1967,green bay,3453,11,eastern washington,3186,14
+1968,green bay,3453,11,maine,3263,15
+1969,green bay,3453,11,california baptist,3465,15
+1970,green bay,3453,11,kent state,3245,15
+1971,green bay,3453,11,norfolk state,3313,15
+1972,green bay,3453,11,sacred heart,3357,16
+1973,green bay,3453,11,holy cross,3221,16
+1974,green bay,3453,11,presbyterian,3342,16
+1975,green bay,3453,11,drexel,3180,16
+1976,green bay,3453,11,ut martin,3404,16
+1977,green bay,3453,11,a&m-corpus christi,3394,16
+1978,auburn,3120,11,arizona,3112,11
+1979,auburn,3120,11,florida gulf coast,3195,12
+1980,auburn,3120,11,south dakota state,3355,12
+1981,auburn,3120,11,columbia,3162,12
+1982,auburn,3120,11,vanderbilt,3435,12
+1983,auburn,3120,11,drake,3179,12
+1984,auburn,3120,11,portland,3339,13
+1985,auburn,3120,11,fairfield,3193,13
+1986,auburn,3120,11,marshall,3267,13
+1987,auburn,3120,11,uc irvine,3414,13
+1988,auburn,3120,11,chattanooga,3151,14
+1989,auburn,3120,11,jackson state,3238,14
+1990,auburn,3120,11,rice,3349,14
+1991,auburn,3120,11,eastern washington,3186,14
+1992,auburn,3120,11,maine,3263,15
+1993,auburn,3120,11,california baptist,3465,15
+1994,auburn,3120,11,kent state,3245,15
+1995,auburn,3120,11,norfolk state,3313,15
+1996,auburn,3120,11,sacred heart,3357,16
+1997,auburn,3120,11,holy cross,3221,16
+1998,auburn,3120,11,presbyterian,3342,16
+1999,auburn,3120,11,drexel,3180,16
+2000,auburn,3120,11,ut martin,3404,16
+2001,auburn,3120,11,a&m-corpus christi,3394,16
+2002,arizona,3112,11,florida gulf coast,3195,12
+2003,arizona,3112,11,south dakota state,3355,12
+2004,arizona,3112,11,columbia,3162,12
+2005,arizona,3112,11,vanderbilt,3435,12
+2006,arizona,3112,11,drake,3179,12
+2007,arizona,3112,11,portland,3339,13
+2008,arizona,3112,11,fairfield,3193,13
+2009,arizona,3112,11,marshall,3267,13
+2010,arizona,3112,11,uc irvine,3414,13
+2011,arizona,3112,11,chattanooga,3151,14
+2012,arizona,3112,11,jackson state,3238,14
+2013,arizona,3112,11,rice,3349,14
+2014,arizona,3112,11,eastern washington,3186,14
+2015,arizona,3112,11,maine,3263,15
+2016,arizona,3112,11,california baptist,3465,15
+2017,arizona,3112,11,kent state,3245,15
+2018,arizona,3112,11,norfolk state,3313,15
+2019,arizona,3112,11,sacred heart,3357,16
+2020,arizona,3112,11,holy cross,3221,16
+2021,arizona,3112,11,presbyterian,3342,16
+2022,arizona,3112,11,drexel,3180,16
+2023,arizona,3112,11,ut martin,3404,16
+2024,arizona,3112,11,a&m-corpus christi,3394,16
+2025,florida gulf coast,3195,12,south dakota state,3355,12
+2026,florida gulf coast,3195,12,columbia,3162,12
+2027,florida gulf coast,3195,12,vanderbilt,3435,12
+2028,florida gulf coast,3195,12,drake,3179,12
+2029,florida gulf coast,3195,12,portland,3339,13
+2030,florida gulf coast,3195,12,fairfield,3193,13
+2031,florida gulf coast,3195,12,marshall,3267,13
+2032,florida gulf coast,3195,12,uc irvine,3414,13
+2033,florida gulf coast,3195,12,chattanooga,3151,14
+2034,florida gulf coast,3195,12,jackson state,3238,14
+2035,florida gulf coast,3195,12,rice,3349,14
+2036,florida gulf coast,3195,12,eastern washington,3186,14
+2037,florida gulf coast,3195,12,maine,3263,15
+2038,florida gulf coast,3195,12,california baptist,3465,15
+2039,florida gulf coast,3195,12,kent state,3245,15
+2040,florida gulf coast,3195,12,norfolk state,3313,15
+2041,florida gulf coast,3195,12,sacred heart,3357,16
+2042,florida gulf coast,3195,12,holy cross,3221,16
+2043,florida gulf coast,3195,12,presbyterian,3342,16
+2044,florida gulf coast,3195,12,drexel,3180,16
+2045,florida gulf coast,3195,12,ut martin,3404,16
+2046,florida gulf coast,3195,12,a&m-corpus christi,3394,16
+2047,south dakota state,3355,12,columbia,3162,12
+2048,south dakota state,3355,12,vanderbilt,3435,12
+2049,south dakota state,3355,12,drake,3179,12
+2050,south dakota state,3355,12,portland,3339,13
+2051,south dakota state,3355,12,fairfield,3193,13
+2052,south dakota state,3355,12,marshall,3267,13
+2053,south dakota state,3355,12,uc irvine,3414,13
+2054,south dakota state,3355,12,chattanooga,3151,14
+2055,south dakota state,3355,12,jackson state,3238,14
+2056,south dakota state,3355,12,rice,3349,14
+2057,south dakota state,3355,12,eastern washington,3186,14
+2058,south dakota state,3355,12,maine,3263,15
+2059,south dakota state,3355,12,california baptist,3465,15
+2060,south dakota state,3355,12,kent state,3245,15
+2061,south dakota state,3355,12,norfolk state,3313,15
+2062,south dakota state,3355,12,sacred heart,3357,16
+2063,south dakota state,3355,12,holy cross,3221,16
+2064,south dakota state,3355,12,presbyterian,3342,16
+2065,south dakota state,3355,12,drexel,3180,16
+2066,south dakota state,3355,12,ut martin,3404,16
+2067,south dakota state,3355,12,a&m-corpus christi,3394,16
+2068,columbia,3162,12,vanderbilt,3435,12
+2069,columbia,3162,12,drake,3179,12
+2070,columbia,3162,12,portland,3339,13
+2071,columbia,3162,12,fairfield,3193,13
+2072,columbia,3162,12,marshall,3267,13
+2073,columbia,3162,12,uc irvine,3414,13
+2074,columbia,3162,12,chattanooga,3151,14
+2075,columbia,3162,12,jackson state,3238,14
+2076,columbia,3162,12,rice,3349,14
+2077,columbia,3162,12,eastern washington,3186,14
+2078,columbia,3162,12,maine,3263,15
+2079,columbia,3162,12,california baptist,3465,15
+2080,columbia,3162,12,kent state,3245,15
+2081,columbia,3162,12,norfolk state,3313,15
+2082,columbia,3162,12,sacred heart,3357,16
+2083,columbia,3162,12,holy cross,3221,16
+2084,columbia,3162,12,presbyterian,3342,16
+2085,columbia,3162,12,drexel,3180,16
+2086,columbia,3162,12,ut martin,3404,16
+2087,columbia,3162,12,a&m-corpus christi,3394,16
+2088,vanderbilt,3435,12,drake,3179,12
+2089,vanderbilt,3435,12,portland,3339,13
+2090,vanderbilt,3435,12,fairfield,3193,13
+2091,vanderbilt,3435,12,marshall,3267,13
+2092,vanderbilt,3435,12,uc irvine,3414,13
+2093,vanderbilt,3435,12,chattanooga,3151,14
+2094,vanderbilt,3435,12,jackson state,3238,14
+2095,vanderbilt,3435,12,rice,3349,14
+2096,vanderbilt,3435,12,eastern washington,3186,14
+2097,vanderbilt,3435,12,maine,3263,15
+2098,vanderbilt,3435,12,california baptist,3465,15
+2099,vanderbilt,3435,12,kent state,3245,15
+2100,vanderbilt,3435,12,norfolk state,3313,15
+2101,vanderbilt,3435,12,sacred heart,3357,16
+2102,vanderbilt,3435,12,holy cross,3221,16
+2103,vanderbilt,3435,12,presbyterian,3342,16
+2104,vanderbilt,3435,12,drexel,3180,16
+2105,vanderbilt,3435,12,ut martin,3404,16
+2106,vanderbilt,3435,12,a&m-corpus christi,3394,16
+2107,drake,3179,12,portland,3339,13
+2108,drake,3179,12,fairfield,3193,13
+2109,drake,3179,12,marshall,3267,13
+2110,drake,3179,12,uc irvine,3414,13
+2111,drake,3179,12,chattanooga,3151,14
+2112,drake,3179,12,jackson state,3238,14
+2113,drake,3179,12,rice,3349,14
+2114,drake,3179,12,eastern washington,3186,14
+2115,drake,3179,12,maine,3263,15
+2116,drake,3179,12,california baptist,3465,15
+2117,drake,3179,12,kent state,3245,15
+2118,drake,3179,12,norfolk state,3313,15
+2119,drake,3179,12,sacred heart,3357,16
+2120,drake,3179,12,holy cross,3221,16
+2121,drake,3179,12,presbyterian,3342,16
+2122,drake,3179,12,drexel,3180,16
+2123,drake,3179,12,ut martin,3404,16
+2124,drake,3179,12,a&m-corpus christi,3394,16
+2125,portland,3339,13,fairfield,3193,13
+2126,portland,3339,13,marshall,3267,13
+2127,portland,3339,13,uc irvine,3414,13
+2128,portland,3339,13,chattanooga,3151,14
+2129,portland,3339,13,jackson state,3238,14
+2130,portland,3339,13,rice,3349,14
+2131,portland,3339,13,eastern washington,3186,14
+2132,portland,3339,13,maine,3263,15
+2133,portland,3339,13,california baptist,3465,15
+2134,portland,3339,13,kent state,3245,15
+2135,portland,3339,13,norfolk state,3313,15
+2136,portland,3339,13,sacred heart,3357,16
+2137,portland,3339,13,holy cross,3221,16
+2138,portland,3339,13,presbyterian,3342,16
+2139,portland,3339,13,drexel,3180,16
+2140,portland,3339,13,ut martin,3404,16
+2141,portland,3339,13,a&m-corpus christi,3394,16
+2142,fairfield,3193,13,marshall,3267,13
+2143,fairfield,3193,13,uc irvine,3414,13
+2144,fairfield,3193,13,chattanooga,3151,14
+2145,fairfield,3193,13,jackson state,3238,14
+2146,fairfield,3193,13,rice,3349,14
+2147,fairfield,3193,13,eastern washington,3186,14
+2148,fairfield,3193,13,maine,3263,15
+2149,fairfield,3193,13,california baptist,3465,15
+2150,fairfield,3193,13,kent state,3245,15
+2151,fairfield,3193,13,norfolk state,3313,15
+2152,fairfield,3193,13,sacred heart,3357,16
+2153,fairfield,3193,13,holy cross,3221,16
+2154,fairfield,3193,13,presbyterian,3342,16
+2155,fairfield,3193,13,drexel,3180,16
+2156,fairfield,3193,13,ut martin,3404,16
+2157,fairfield,3193,13,a&m-corpus christi,3394,16
+2158,marshall,3267,13,uc irvine,3414,13
+2159,marshall,3267,13,chattanooga,3151,14
+2160,marshall,3267,13,jackson state,3238,14
+2161,marshall,3267,13,rice,3349,14
+2162,marshall,3267,13,eastern washington,3186,14
+2163,marshall,3267,13,maine,3263,15
+2164,marshall,3267,13,california baptist,3465,15
+2165,marshall,3267,13,kent state,3245,15
+2166,marshall,3267,13,norfolk state,3313,15
+2167,marshall,3267,13,sacred heart,3357,16
+2168,marshall,3267,13,holy cross,3221,16
+2169,marshall,3267,13,presbyterian,3342,16
+2170,marshall,3267,13,drexel,3180,16
+2171,marshall,3267,13,ut martin,3404,16
+2172,marshall,3267,13,a&m-corpus christi,3394,16
+2173,uc irvine,3414,13,chattanooga,3151,14
+2174,uc irvine,3414,13,jackson state,3238,14
+2175,uc irvine,3414,13,rice,3349,14
+2176,uc irvine,3414,13,eastern washington,3186,14
+2177,uc irvine,3414,13,maine,3263,15
+2178,uc irvine,3414,13,california baptist,3465,15
+2179,uc irvine,3414,13,kent state,3245,15
+2180,uc irvine,3414,13,norfolk state,3313,15
+2181,uc irvine,3414,13,sacred heart,3357,16
+2182,uc irvine,3414,13,holy cross,3221,16
+2183,uc irvine,3414,13,presbyterian,3342,16
+2184,uc irvine,3414,13,drexel,3180,16
+2185,uc irvine,3414,13,ut martin,3404,16
+2186,uc irvine,3414,13,a&m-corpus christi,3394,16
+2187,chattanooga,3151,14,jackson state,3238,14
+2188,chattanooga,3151,14,rice,3349,14
+2189,chattanooga,3151,14,eastern washington,3186,14
+2190,chattanooga,3151,14,maine,3263,15
+2191,chattanooga,3151,14,california baptist,3465,15
+2192,chattanooga,3151,14,kent state,3245,15
+2193,chattanooga,3151,14,norfolk state,3313,15
+2194,chattanooga,3151,14,sacred heart,3357,16
+2195,chattanooga,3151,14,holy cross,3221,16
+2196,chattanooga,3151,14,presbyterian,3342,16
+2197,chattanooga,3151,14,drexel,3180,16
+2198,chattanooga,3151,14,ut martin,3404,16
+2199,chattanooga,3151,14,a&m-corpus christi,3394,16
+2200,jackson state,3238,14,rice,3349,14
+2201,jackson state,3238,14,eastern washington,3186,14
+2202,jackson state,3238,14,maine,3263,15
+2203,jackson state,3238,14,california baptist,3465,15
+2204,jackson state,3238,14,kent state,3245,15
+2205,jackson state,3238,14,norfolk state,3313,15
+2206,jackson state,3238,14,sacred heart,3357,16
+2207,jackson state,3238,14,holy cross,3221,16
+2208,jackson state,3238,14,presbyterian,3342,16
+2209,jackson state,3238,14,drexel,3180,16
+2210,jackson state,3238,14,ut martin,3404,16
+2211,jackson state,3238,14,a&m-corpus christi,3394,16
+2212,rice,3349,14,eastern washington,3186,14
+2213,rice,3349,14,maine,3263,15
+2214,rice,3349,14,california baptist,3465,15
+2215,rice,3349,14,kent state,3245,15
+2216,rice,3349,14,norfolk state,3313,15
+2217,rice,3349,14,sacred heart,3357,16
+2218,rice,3349,14,holy cross,3221,16
+2219,rice,3349,14,presbyterian,3342,16
+2220,rice,3349,14,drexel,3180,16
+2221,rice,3349,14,ut martin,3404,16
+2222,rice,3349,14,a&m-corpus christi,3394,16
+2223,eastern washington,3186,14,maine,3263,15
+2224,eastern washington,3186,14,california baptist,3465,15
+2225,eastern washington,3186,14,kent state,3245,15
+2226,eastern washington,3186,14,norfolk state,3313,15
+2227,eastern washington,3186,14,sacred heart,3357,16
+2228,eastern washington,3186,14,holy cross,3221,16
+2229,eastern washington,3186,14,presbyterian,3342,16
+2230,eastern washington,3186,14,drexel,3180,16
+2231,eastern washington,3186,14,ut martin,3404,16
+2232,eastern washington,3186,14,a&m-corpus christi,3394,16
+2233,maine,3263,15,california baptist,3465,15
+2234,maine,3263,15,kent state,3245,15
+2235,maine,3263,15,norfolk state,3313,15
+2236,maine,3263,15,sacred heart,3357,16
+2237,maine,3263,15,holy cross,3221,16
+2238,maine,3263,15,presbyterian,3342,16
+2239,maine,3263,15,drexel,3180,16
+2240,maine,3263,15,ut martin,3404,16
+2241,maine,3263,15,a&m-corpus christi,3394,16
+2242,california baptist,3465,15,kent state,3245,15
+2243,california baptist,3465,15,norfolk state,3313,15
+2244,california baptist,3465,15,sacred heart,3357,16
+2245,california baptist,3465,15,holy cross,3221,16
+2246,california baptist,3465,15,presbyterian,3342,16
+2247,california baptist,3465,15,drexel,3180,16
+2248,california baptist,3465,15,ut martin,3404,16
+2249,california baptist,3465,15,a&m-corpus christi,3394,16
+2250,kent state,3245,15,norfolk state,3313,15
+2251,kent state,3245,15,sacred heart,3357,16
+2252,kent state,3245,15,holy cross,3221,16
+2253,kent state,3245,15,presbyterian,3342,16
+2254,kent state,3245,15,drexel,3180,16
+2255,kent state,3245,15,ut martin,3404,16
+2256,kent state,3245,15,a&m-corpus christi,3394,16
+2257,norfolk state,3313,15,sacred heart,3357,16
+2258,norfolk state,3313,15,holy cross,3221,16
+2259,norfolk state,3313,15,presbyterian,3342,16
+2260,norfolk state,3313,15,drexel,3180,16
+2261,norfolk state,3313,15,ut martin,3404,16
+2262,norfolk state,3313,15,a&m-corpus christi,3394,16
+2263,sacred heart,3357,16,holy cross,3221,16
+2264,sacred heart,3357,16,presbyterian,3342,16
+2265,sacred heart,3357,16,drexel,3180,16
+2266,sacred heart,3357,16,ut martin,3404,16
+2267,sacred heart,3357,16,a&m-corpus christi,3394,16
+2268,holy cross,3221,16,presbyterian,3342,16
+2269,holy cross,3221,16,drexel,3180,16
+2270,holy cross,3221,16,ut martin,3404,16
+2271,holy cross,3221,16,a&m-corpus christi,3394,16
+2272,presbyterian,3342,16,drexel,3180,16
+2273,presbyterian,3342,16,ut martin,3404,16
+2274,presbyterian,3342,16,a&m-corpus christi,3394,16
+2275,drexel,3180,16,ut martin,3404,16
+2276,drexel,3180,16,a&m-corpus christi,3394,16
+2277,ut martin,3404,16,a&m-corpus christi,3394,16
+0,uconn,1163,1,north carolina,1314,1
+1,uconn,1163,1,houston,1222,1
+2,uconn,1163,1,purdue,1345,1
+3,uconn,1163,1,arizona,1112,2
+4,uconn,1163,1,iowa state,1235,2
+5,uconn,1163,1,tennessee,1397,2
+6,uconn,1163,1,marquette,1266,2
+7,uconn,1163,1,creighton,1166,3
+8,uconn,1163,1,baylor,1124,3
+9,uconn,1163,1,illinois,1228,3
+10,uconn,1163,1,kentucky,1246,3
+11,uconn,1163,1,alabama,1104,4
+12,uconn,1163,1,kansas,1242,4
+13,uconn,1163,1,auburn,1120,4
+14,uconn,1163,1,duke,1181,4
+15,uconn,1163,1,saint mary's,1388,5
+16,uconn,1163,1,gonzaga,1211,5
+17,uconn,1163,1,wisconsin,1458,5
+18,uconn,1163,1,san diego state,1361,5
+19,uconn,1163,1,texas tech,1403,6
+20,uconn,1163,1,clemson,1155,6
+21,uconn,1163,1,byu,1140,6
+22,uconn,1163,1,south carolina,1376,6
+23,uconn,1163,1,texas,1400,7
+24,uconn,1163,1,florida,1196,7
+25,uconn,1163,1,washington state,1450,7
+26,uconn,1163,1,dayton,1173,7
+27,uconn,1163,1,florida atlantic,1194,8
+28,uconn,1163,1,utah state,1429,8
+29,uconn,1163,1,mississippi state,1280,8
+30,uconn,1163,1,nebraska,1304,8
+31,uconn,1163,1,texas a&m,1401,9
+32,uconn,1163,1,northwestern,1321,9
+33,uconn,1163,1,michigan state,1277,9
+34,uconn,1163,1,tcu,1395,9
+35,uconn,1163,1,virginia,1438,10
+36,uconn,1163,1,colorado,1160,10
+37,uconn,1163,1,boise state,1129,10
+38,uconn,1163,1,drake,1179,10
+39,uconn,1163,1,nevada,1305,10
+40,uconn,1163,1,colorado state,1161,10
+41,uconn,1163,1,new mexico,1307,11
+42,uconn,1163,1,oregon,1332,11
+43,uconn,1163,1,north carolina state,1301,11
+44,uconn,1163,1,duquesne,1182,11
+45,uconn,1163,1,mcneese,1270,12
+46,uconn,1163,1,james madison,1241,12
+47,uconn,1163,1,uab,1412,12
+48,uconn,1163,1,grand canyon,1213,12
+49,uconn,1163,1,samford,1359,13
+50,uconn,1163,1,vermont,1436,13
+51,uconn,1163,1,yale,1463,13
+52,uconn,1163,1,charleston,1158,13
+53,uconn,1163,1,oakland,1324,14
+54,uconn,1163,1,akron,1103,14
+55,uconn,1163,1,morehead state,1287,14
+56,uconn,1163,1,colgate,1159,14
+57,uconn,1163,1,long beach state,1253,15
+58,uconn,1163,1,south dakota state,1355,15
+59,uconn,1163,1,saint peter's,1389,15
+60,uconn,1163,1,western kentucky,1443,15
+61,uconn,1163,1,grambling state,1212,16
+62,uconn,1163,1,stetson,1391,16
+63,uconn,1163,1,howard,1224,16
+64,uconn,1163,1,longwood,1255,16
+65,uconn,1163,1,montana state,1286,16
+66,uconn,1163,1,wagner,1447,16
+67,north carolina,1314,1,houston,1222,1
+68,north carolina,1314,1,purdue,1345,1
+69,north carolina,1314,1,arizona,1112,2
+70,north carolina,1314,1,iowa state,1235,2
+71,north carolina,1314,1,tennessee,1397,2
+72,north carolina,1314,1,marquette,1266,2
+73,north carolina,1314,1,creighton,1166,3
+74,north carolina,1314,1,baylor,1124,3
+75,north carolina,1314,1,illinois,1228,3
+76,north carolina,1314,1,kentucky,1246,3
+77,north carolina,1314,1,alabama,1104,4
+78,north carolina,1314,1,kansas,1242,4
+79,north carolina,1314,1,auburn,1120,4
+80,north carolina,1314,1,duke,1181,4
+81,north carolina,1314,1,saint mary's,1388,5
+82,north carolina,1314,1,gonzaga,1211,5
+83,north carolina,1314,1,wisconsin,1458,5
+84,north carolina,1314,1,san diego state,1361,5
+85,north carolina,1314,1,texas tech,1403,6
+86,north carolina,1314,1,clemson,1155,6
+87,north carolina,1314,1,byu,1140,6
+88,north carolina,1314,1,south carolina,1376,6
+89,north carolina,1314,1,texas,1400,7
+90,north carolina,1314,1,florida,1196,7
+91,north carolina,1314,1,washington state,1450,7
+92,north carolina,1314,1,dayton,1173,7
+93,north carolina,1314,1,florida atlantic,1194,8
+94,north carolina,1314,1,utah state,1429,8
+95,north carolina,1314,1,mississippi state,1280,8
+96,north carolina,1314,1,nebraska,1304,8
+97,north carolina,1314,1,texas a&m,1401,9
+98,north carolina,1314,1,northwestern,1321,9
+99,north carolina,1314,1,michigan state,1277,9
+100,north carolina,1314,1,tcu,1395,9
+101,north carolina,1314,1,virginia,1438,10
+102,north carolina,1314,1,colorado,1160,10
+103,north carolina,1314,1,boise state,1129,10
+104,north carolina,1314,1,drake,1179,10
+105,north carolina,1314,1,nevada,1305,10
+106,north carolina,1314,1,colorado state,1161,10
+107,north carolina,1314,1,new mexico,1307,11
+108,north carolina,1314,1,oregon,1332,11
+109,north carolina,1314,1,north carolina state,1301,11
+110,north carolina,1314,1,duquesne,1182,11
+111,north carolina,1314,1,mcneese,1270,12
+112,north carolina,1314,1,james madison,1241,12
+113,north carolina,1314,1,uab,1412,12
+114,north carolina,1314,1,grand canyon,1213,12
+115,north carolina,1314,1,samford,1359,13
+116,north carolina,1314,1,vermont,1436,13
+117,north carolina,1314,1,yale,1463,13
+118,north carolina,1314,1,charleston,1158,13
+119,north carolina,1314,1,oakland,1324,14
+120,north carolina,1314,1,akron,1103,14
+121,north carolina,1314,1,morehead state,1287,14
+122,north carolina,1314,1,colgate,1159,14
+123,north carolina,1314,1,long beach state,1253,15
+124,north carolina,1314,1,south dakota state,1355,15
+125,north carolina,1314,1,saint peter's,1389,15
+126,north carolina,1314,1,western kentucky,1443,15
+127,north carolina,1314,1,grambling state,1212,16
+128,north carolina,1314,1,stetson,1391,16
+129,north carolina,1314,1,howard,1224,16
+130,north carolina,1314,1,longwood,1255,16
+131,north carolina,1314,1,montana state,1286,16
+132,north carolina,1314,1,wagner,1447,16
+133,houston,1222,1,purdue,1345,1
+134,houston,1222,1,arizona,1112,2
+135,houston,1222,1,iowa state,1235,2
+136,houston,1222,1,tennessee,1397,2
+137,houston,1222,1,marquette,1266,2
+138,houston,1222,1,creighton,1166,3
+139,houston,1222,1,baylor,1124,3
+140,houston,1222,1,illinois,1228,3
+141,houston,1222,1,kentucky,1246,3
+142,houston,1222,1,alabama,1104,4
+143,houston,1222,1,kansas,1242,4
+144,houston,1222,1,auburn,1120,4
+145,houston,1222,1,duke,1181,4
+146,houston,1222,1,saint mary's,1388,5
+147,houston,1222,1,gonzaga,1211,5
+148,houston,1222,1,wisconsin,1458,5
+149,houston,1222,1,san diego state,1361,5
+150,houston,1222,1,texas tech,1403,6
+151,houston,1222,1,clemson,1155,6
+152,houston,1222,1,byu,1140,6
+153,houston,1222,1,south carolina,1376,6
+154,houston,1222,1,texas,1400,7
+155,houston,1222,1,florida,1196,7
+156,houston,1222,1,washington state,1450,7
+157,houston,1222,1,dayton,1173,7
+158,houston,1222,1,florida atlantic,1194,8
+159,houston,1222,1,utah state,1429,8
+160,houston,1222,1,mississippi state,1280,8
+161,houston,1222,1,nebraska,1304,8
+162,houston,1222,1,texas a&m,1401,9
+163,houston,1222,1,northwestern,1321,9
+164,houston,1222,1,michigan state,1277,9
+165,houston,1222,1,tcu,1395,9
+166,houston,1222,1,virginia,1438,10
+167,houston,1222,1,colorado,1160,10
+168,houston,1222,1,boise state,1129,10
+169,houston,1222,1,drake,1179,10
+170,houston,1222,1,nevada,1305,10
+171,houston,1222,1,colorado state,1161,10
+172,houston,1222,1,new mexico,1307,11
+173,houston,1222,1,oregon,1332,11
+174,houston,1222,1,north carolina state,1301,11
+175,houston,1222,1,duquesne,1182,11
+176,houston,1222,1,mcneese,1270,12
+177,houston,1222,1,james madison,1241,12
+178,houston,1222,1,uab,1412,12
+179,houston,1222,1,grand canyon,1213,12
+180,houston,1222,1,samford,1359,13
+181,houston,1222,1,vermont,1436,13
+182,houston,1222,1,yale,1463,13
+183,houston,1222,1,charleston,1158,13
+184,houston,1222,1,oakland,1324,14
+185,houston,1222,1,akron,1103,14
+186,houston,1222,1,morehead state,1287,14
+187,houston,1222,1,colgate,1159,14
+188,houston,1222,1,long beach state,1253,15
+189,houston,1222,1,south dakota state,1355,15
+190,houston,1222,1,saint peter's,1389,15
+191,houston,1222,1,western kentucky,1443,15
+192,houston,1222,1,grambling state,1212,16
+193,houston,1222,1,stetson,1391,16
+194,houston,1222,1,howard,1224,16
+195,houston,1222,1,longwood,1255,16
+196,houston,1222,1,montana state,1286,16
+197,houston,1222,1,wagner,1447,16
+198,purdue,1345,1,arizona,1112,2
+199,purdue,1345,1,iowa state,1235,2
+200,purdue,1345,1,tennessee,1397,2
+201,purdue,1345,1,marquette,1266,2
+202,purdue,1345,1,creighton,1166,3
+203,purdue,1345,1,baylor,1124,3
+204,purdue,1345,1,illinois,1228,3
+205,purdue,1345,1,kentucky,1246,3
+206,purdue,1345,1,alabama,1104,4
+207,purdue,1345,1,kansas,1242,4
+208,purdue,1345,1,auburn,1120,4
+209,purdue,1345,1,duke,1181,4
+210,purdue,1345,1,saint mary's,1388,5
+211,purdue,1345,1,gonzaga,1211,5
+212,purdue,1345,1,wisconsin,1458,5
+213,purdue,1345,1,san diego state,1361,5
+214,purdue,1345,1,texas tech,1403,6
+215,purdue,1345,1,clemson,1155,6
+216,purdue,1345,1,byu,1140,6
+217,purdue,1345,1,south carolina,1376,6
+218,purdue,1345,1,texas,1400,7
+219,purdue,1345,1,florida,1196,7
+220,purdue,1345,1,washington state,1450,7
+221,purdue,1345,1,dayton,1173,7
+222,purdue,1345,1,florida atlantic,1194,8
+223,purdue,1345,1,utah state,1429,8
+224,purdue,1345,1,mississippi state,1280,8
+225,purdue,1345,1,nebraska,1304,8
+226,purdue,1345,1,texas a&m,1401,9
+227,purdue,1345,1,northwestern,1321,9
+228,purdue,1345,1,michigan state,1277,9
+229,purdue,1345,1,tcu,1395,9
+230,purdue,1345,1,virginia,1438,10
+231,purdue,1345,1,colorado,1160,10
+232,purdue,1345,1,boise state,1129,10
+233,purdue,1345,1,drake,1179,10
+234,purdue,1345,1,nevada,1305,10
+235,purdue,1345,1,colorado state,1161,10
+236,purdue,1345,1,new mexico,1307,11
+237,purdue,1345,1,oregon,1332,11
+238,purdue,1345,1,north carolina state,1301,11
+239,purdue,1345,1,duquesne,1182,11
+240,purdue,1345,1,mcneese,1270,12
+241,purdue,1345,1,james madison,1241,12
+242,purdue,1345,1,uab,1412,12
+243,purdue,1345,1,grand canyon,1213,12
+244,purdue,1345,1,samford,1359,13
+245,purdue,1345,1,vermont,1436,13
+246,purdue,1345,1,yale,1463,13
+247,purdue,1345,1,charleston,1158,13
+248,purdue,1345,1,oakland,1324,14
+249,purdue,1345,1,akron,1103,14
+250,purdue,1345,1,morehead state,1287,14
+251,purdue,1345,1,colgate,1159,14
+252,purdue,1345,1,long beach state,1253,15
+253,purdue,1345,1,south dakota state,1355,15
+254,purdue,1345,1,saint peter's,1389,15
+255,purdue,1345,1,western kentucky,1443,15
+256,purdue,1345,1,grambling state,1212,16
+257,purdue,1345,1,stetson,1391,16
+258,purdue,1345,1,howard,1224,16
+259,purdue,1345,1,longwood,1255,16
+260,purdue,1345,1,montana state,1286,16
+261,purdue,1345,1,wagner,1447,16
+262,arizona,1112,2,iowa state,1235,2
+263,arizona,1112,2,tennessee,1397,2
+264,arizona,1112,2,marquette,1266,2
+265,arizona,1112,2,creighton,1166,3
+266,arizona,1112,2,baylor,1124,3
+267,arizona,1112,2,illinois,1228,3
+268,arizona,1112,2,kentucky,1246,3
+269,arizona,1112,2,alabama,1104,4
+270,arizona,1112,2,kansas,1242,4
+271,arizona,1112,2,auburn,1120,4
+272,arizona,1112,2,duke,1181,4
+273,arizona,1112,2,saint mary's,1388,5
+274,arizona,1112,2,gonzaga,1211,5
+275,arizona,1112,2,wisconsin,1458,5
+276,arizona,1112,2,san diego state,1361,5
+277,arizona,1112,2,texas tech,1403,6
+278,arizona,1112,2,clemson,1155,6
+279,arizona,1112,2,byu,1140,6
+280,arizona,1112,2,south carolina,1376,6
+281,arizona,1112,2,texas,1400,7
+282,arizona,1112,2,florida,1196,7
+283,arizona,1112,2,washington state,1450,7
+284,arizona,1112,2,dayton,1173,7
+285,arizona,1112,2,florida atlantic,1194,8
+286,arizona,1112,2,utah state,1429,8
+287,arizona,1112,2,mississippi state,1280,8
+288,arizona,1112,2,nebraska,1304,8
+289,arizona,1112,2,texas a&m,1401,9
+290,arizona,1112,2,northwestern,1321,9
+291,arizona,1112,2,michigan state,1277,9
+292,arizona,1112,2,tcu,1395,9
+293,arizona,1112,2,virginia,1438,10
+294,arizona,1112,2,colorado,1160,10
+295,arizona,1112,2,boise state,1129,10
+296,arizona,1112,2,drake,1179,10
+297,arizona,1112,2,nevada,1305,10
+298,arizona,1112,2,colorado state,1161,10
+299,arizona,1112,2,new mexico,1307,11
+300,arizona,1112,2,oregon,1332,11
+301,arizona,1112,2,north carolina state,1301,11
+302,arizona,1112,2,duquesne,1182,11
+303,arizona,1112,2,mcneese,1270,12
+304,arizona,1112,2,james madison,1241,12
+305,arizona,1112,2,uab,1412,12
+306,arizona,1112,2,grand canyon,1213,12
+307,arizona,1112,2,samford,1359,13
+308,arizona,1112,2,vermont,1436,13
+309,arizona,1112,2,yale,1463,13
+310,arizona,1112,2,charleston,1158,13
+311,arizona,1112,2,oakland,1324,14
+312,arizona,1112,2,akron,1103,14
+313,arizona,1112,2,morehead state,1287,14
+314,arizona,1112,2,colgate,1159,14
+315,arizona,1112,2,long beach state,1253,15
+316,arizona,1112,2,south dakota state,1355,15
+317,arizona,1112,2,saint peter's,1389,15
+318,arizona,1112,2,western kentucky,1443,15
+319,arizona,1112,2,grambling state,1212,16
+320,arizona,1112,2,stetson,1391,16
+321,arizona,1112,2,howard,1224,16
+322,arizona,1112,2,longwood,1255,16
+323,arizona,1112,2,montana state,1286,16
+324,arizona,1112,2,wagner,1447,16
+325,iowa state,1235,2,tennessee,1397,2
+326,iowa state,1235,2,marquette,1266,2
+327,iowa state,1235,2,creighton,1166,3
+328,iowa state,1235,2,baylor,1124,3
+329,iowa state,1235,2,illinois,1228,3
+330,iowa state,1235,2,kentucky,1246,3
+331,iowa state,1235,2,alabama,1104,4
+332,iowa state,1235,2,kansas,1242,4
+333,iowa state,1235,2,auburn,1120,4
+334,iowa state,1235,2,duke,1181,4
+335,iowa state,1235,2,saint mary's,1388,5
+336,iowa state,1235,2,gonzaga,1211,5
+337,iowa state,1235,2,wisconsin,1458,5
+338,iowa state,1235,2,san diego state,1361,5
+339,iowa state,1235,2,texas tech,1403,6
+340,iowa state,1235,2,clemson,1155,6
+341,iowa state,1235,2,byu,1140,6
+342,iowa state,1235,2,south carolina,1376,6
+343,iowa state,1235,2,texas,1400,7
+344,iowa state,1235,2,florida,1196,7
+345,iowa state,1235,2,washington state,1450,7
+346,iowa state,1235,2,dayton,1173,7
+347,iowa state,1235,2,florida atlantic,1194,8
+348,iowa state,1235,2,utah state,1429,8
+349,iowa state,1235,2,mississippi state,1280,8
+350,iowa state,1235,2,nebraska,1304,8
+351,iowa state,1235,2,texas a&m,1401,9
+352,iowa state,1235,2,northwestern,1321,9
+353,iowa state,1235,2,michigan state,1277,9
+354,iowa state,1235,2,tcu,1395,9
+355,iowa state,1235,2,virginia,1438,10
+356,iowa state,1235,2,colorado,1160,10
+357,iowa state,1235,2,boise state,1129,10
+358,iowa state,1235,2,drake,1179,10
+359,iowa state,1235,2,nevada,1305,10
+360,iowa state,1235,2,colorado state,1161,10
+361,iowa state,1235,2,new mexico,1307,11
+362,iowa state,1235,2,oregon,1332,11
+363,iowa state,1235,2,north carolina state,1301,11
+364,iowa state,1235,2,duquesne,1182,11
+365,iowa state,1235,2,mcneese,1270,12
+366,iowa state,1235,2,james madison,1241,12
+367,iowa state,1235,2,uab,1412,12
+368,iowa state,1235,2,grand canyon,1213,12
+369,iowa state,1235,2,samford,1359,13
+370,iowa state,1235,2,vermont,1436,13
+371,iowa state,1235,2,yale,1463,13
+372,iowa state,1235,2,charleston,1158,13
+373,iowa state,1235,2,oakland,1324,14
+374,iowa state,1235,2,akron,1103,14
+375,iowa state,1235,2,morehead state,1287,14
+376,iowa state,1235,2,colgate,1159,14
+377,iowa state,1235,2,long beach state,1253,15
+378,iowa state,1235,2,south dakota state,1355,15
+379,iowa state,1235,2,saint peter's,1389,15
+380,iowa state,1235,2,western kentucky,1443,15
+381,iowa state,1235,2,grambling state,1212,16
+382,iowa state,1235,2,stetson,1391,16
+383,iowa state,1235,2,howard,1224,16
+384,iowa state,1235,2,longwood,1255,16
+385,iowa state,1235,2,montana state,1286,16
+386,iowa state,1235,2,wagner,1447,16
+387,tennessee,1397,2,marquette,1266,2
+388,tennessee,1397,2,creighton,1166,3
+389,tennessee,1397,2,baylor,1124,3
+390,tennessee,1397,2,illinois,1228,3
+391,tennessee,1397,2,kentucky,1246,3
+392,tennessee,1397,2,alabama,1104,4
+393,tennessee,1397,2,kansas,1242,4
+394,tennessee,1397,2,auburn,1120,4
+395,tennessee,1397,2,duke,1181,4
+396,tennessee,1397,2,saint mary's,1388,5
+397,tennessee,1397,2,gonzaga,1211,5
+398,tennessee,1397,2,wisconsin,1458,5
+399,tennessee,1397,2,san diego state,1361,5
+400,tennessee,1397,2,texas tech,1403,6
+401,tennessee,1397,2,clemson,1155,6
+402,tennessee,1397,2,byu,1140,6
+403,tennessee,1397,2,south carolina,1376,6
+404,tennessee,1397,2,texas,1400,7
+405,tennessee,1397,2,florida,1196,7
+406,tennessee,1397,2,washington state,1450,7
+407,tennessee,1397,2,dayton,1173,7
+408,tennessee,1397,2,florida atlantic,1194,8
+409,tennessee,1397,2,utah state,1429,8
+410,tennessee,1397,2,mississippi state,1280,8
+411,tennessee,1397,2,nebraska,1304,8
+412,tennessee,1397,2,texas a&m,1401,9
+413,tennessee,1397,2,northwestern,1321,9
+414,tennessee,1397,2,michigan state,1277,9
+415,tennessee,1397,2,tcu,1395,9
+416,tennessee,1397,2,virginia,1438,10
+417,tennessee,1397,2,colorado,1160,10
+418,tennessee,1397,2,boise state,1129,10
+419,tennessee,1397,2,drake,1179,10
+420,tennessee,1397,2,nevada,1305,10
+421,tennessee,1397,2,colorado state,1161,10
+422,tennessee,1397,2,new mexico,1307,11
+423,tennessee,1397,2,oregon,1332,11
+424,tennessee,1397,2,north carolina state,1301,11
+425,tennessee,1397,2,duquesne,1182,11
+426,tennessee,1397,2,mcneese,1270,12
+427,tennessee,1397,2,james madison,1241,12
+428,tennessee,1397,2,uab,1412,12
+429,tennessee,1397,2,grand canyon,1213,12
+430,tennessee,1397,2,samford,1359,13
+431,tennessee,1397,2,vermont,1436,13
+432,tennessee,1397,2,yale,1463,13
+433,tennessee,1397,2,charleston,1158,13
+434,tennessee,1397,2,oakland,1324,14
+435,tennessee,1397,2,akron,1103,14
+436,tennessee,1397,2,morehead state,1287,14
+437,tennessee,1397,2,colgate,1159,14
+438,tennessee,1397,2,long beach state,1253,15
+439,tennessee,1397,2,south dakota state,1355,15
+440,tennessee,1397,2,saint peter's,1389,15
+441,tennessee,1397,2,western kentucky,1443,15
+442,tennessee,1397,2,grambling state,1212,16
+443,tennessee,1397,2,stetson,1391,16
+444,tennessee,1397,2,howard,1224,16
+445,tennessee,1397,2,longwood,1255,16
+446,tennessee,1397,2,montana state,1286,16
+447,tennessee,1397,2,wagner,1447,16
+448,marquette,1266,2,creighton,1166,3
+449,marquette,1266,2,baylor,1124,3
+450,marquette,1266,2,illinois,1228,3
+451,marquette,1266,2,kentucky,1246,3
+452,marquette,1266,2,alabama,1104,4
+453,marquette,1266,2,kansas,1242,4
+454,marquette,1266,2,auburn,1120,4
+455,marquette,1266,2,duke,1181,4
+456,marquette,1266,2,saint mary's,1388,5
+457,marquette,1266,2,gonzaga,1211,5
+458,marquette,1266,2,wisconsin,1458,5
+459,marquette,1266,2,san diego state,1361,5
+460,marquette,1266,2,texas tech,1403,6
+461,marquette,1266,2,clemson,1155,6
+462,marquette,1266,2,byu,1140,6
+463,marquette,1266,2,south carolina,1376,6
+464,marquette,1266,2,texas,1400,7
+465,marquette,1266,2,florida,1196,7
+466,marquette,1266,2,washington state,1450,7
+467,marquette,1266,2,dayton,1173,7
+468,marquette,1266,2,florida atlantic,1194,8
+469,marquette,1266,2,utah state,1429,8
+470,marquette,1266,2,mississippi state,1280,8
+471,marquette,1266,2,nebraska,1304,8
+472,marquette,1266,2,texas a&m,1401,9
+473,marquette,1266,2,northwestern,1321,9
+474,marquette,1266,2,michigan state,1277,9
+475,marquette,1266,2,tcu,1395,9
+476,marquette,1266,2,virginia,1438,10
+477,marquette,1266,2,colorado,1160,10
+478,marquette,1266,2,boise state,1129,10
+479,marquette,1266,2,drake,1179,10
+480,marquette,1266,2,nevada,1305,10
+481,marquette,1266,2,colorado state,1161,10
+482,marquette,1266,2,new mexico,1307,11
+483,marquette,1266,2,oregon,1332,11
+484,marquette,1266,2,north carolina state,1301,11
+485,marquette,1266,2,duquesne,1182,11
+486,marquette,1266,2,mcneese,1270,12
+487,marquette,1266,2,james madison,1241,12
+488,marquette,1266,2,uab,1412,12
+489,marquette,1266,2,grand canyon,1213,12
+490,marquette,1266,2,samford,1359,13
+491,marquette,1266,2,vermont,1436,13
+492,marquette,1266,2,yale,1463,13
+493,marquette,1266,2,charleston,1158,13
+494,marquette,1266,2,oakland,1324,14
+495,marquette,1266,2,akron,1103,14
+496,marquette,1266,2,morehead state,1287,14
+497,marquette,1266,2,colgate,1159,14
+498,marquette,1266,2,long beach state,1253,15
+499,marquette,1266,2,south dakota state,1355,15
+500,marquette,1266,2,saint peter's,1389,15
+501,marquette,1266,2,western kentucky,1443,15
+502,marquette,1266,2,grambling state,1212,16
+503,marquette,1266,2,stetson,1391,16
+504,marquette,1266,2,howard,1224,16
+505,marquette,1266,2,longwood,1255,16
+506,marquette,1266,2,montana state,1286,16
+507,marquette,1266,2,wagner,1447,16
+508,creighton,1166,3,baylor,1124,3
+509,creighton,1166,3,illinois,1228,3
+510,creighton,1166,3,kentucky,1246,3
+511,creighton,1166,3,alabama,1104,4
+512,creighton,1166,3,kansas,1242,4
+513,creighton,1166,3,auburn,1120,4
+514,creighton,1166,3,duke,1181,4
+515,creighton,1166,3,saint mary's,1388,5
+516,creighton,1166,3,gonzaga,1211,5
+517,creighton,1166,3,wisconsin,1458,5
+518,creighton,1166,3,san diego state,1361,5
+519,creighton,1166,3,texas tech,1403,6
+520,creighton,1166,3,clemson,1155,6
+521,creighton,1166,3,byu,1140,6
+522,creighton,1166,3,south carolina,1376,6
+523,creighton,1166,3,texas,1400,7
+524,creighton,1166,3,florida,1196,7
+525,creighton,1166,3,washington state,1450,7
+526,creighton,1166,3,dayton,1173,7
+527,creighton,1166,3,florida atlantic,1194,8
+528,creighton,1166,3,utah state,1429,8
+529,creighton,1166,3,mississippi state,1280,8
+530,creighton,1166,3,nebraska,1304,8
+531,creighton,1166,3,texas a&m,1401,9
+532,creighton,1166,3,northwestern,1321,9
+533,creighton,1166,3,michigan state,1277,9
+534,creighton,1166,3,tcu,1395,9
+535,creighton,1166,3,virginia,1438,10
+536,creighton,1166,3,colorado,1160,10
+537,creighton,1166,3,boise state,1129,10
+538,creighton,1166,3,drake,1179,10
+539,creighton,1166,3,nevada,1305,10
+540,creighton,1166,3,colorado state,1161,10
+541,creighton,1166,3,new mexico,1307,11
+542,creighton,1166,3,oregon,1332,11
+543,creighton,1166,3,north carolina state,1301,11
+544,creighton,1166,3,duquesne,1182,11
+545,creighton,1166,3,mcneese,1270,12
+546,creighton,1166,3,james madison,1241,12
+547,creighton,1166,3,uab,1412,12
+548,creighton,1166,3,grand canyon,1213,12
+549,creighton,1166,3,samford,1359,13
+550,creighton,1166,3,vermont,1436,13
+551,creighton,1166,3,yale,1463,13
+552,creighton,1166,3,charleston,1158,13
+553,creighton,1166,3,oakland,1324,14
+554,creighton,1166,3,akron,1103,14
+555,creighton,1166,3,morehead state,1287,14
+556,creighton,1166,3,colgate,1159,14
+557,creighton,1166,3,long beach state,1253,15
+558,creighton,1166,3,south dakota state,1355,15
+559,creighton,1166,3,saint peter's,1389,15
+560,creighton,1166,3,western kentucky,1443,15
+561,creighton,1166,3,grambling state,1212,16
+562,creighton,1166,3,stetson,1391,16
+563,creighton,1166,3,howard,1224,16
+564,creighton,1166,3,longwood,1255,16
+565,creighton,1166,3,montana state,1286,16
+566,creighton,1166,3,wagner,1447,16
+567,baylor,1124,3,illinois,1228,3
+568,baylor,1124,3,kentucky,1246,3
+569,baylor,1124,3,alabama,1104,4
+570,baylor,1124,3,kansas,1242,4
+571,baylor,1124,3,auburn,1120,4
+572,baylor,1124,3,duke,1181,4
+573,baylor,1124,3,saint mary's,1388,5
+574,baylor,1124,3,gonzaga,1211,5
+575,baylor,1124,3,wisconsin,1458,5
+576,baylor,1124,3,san diego state,1361,5
+577,baylor,1124,3,texas tech,1403,6
+578,baylor,1124,3,clemson,1155,6
+579,baylor,1124,3,byu,1140,6
+580,baylor,1124,3,south carolina,1376,6
+581,baylor,1124,3,texas,1400,7
+582,baylor,1124,3,florida,1196,7
+583,baylor,1124,3,washington state,1450,7
+584,baylor,1124,3,dayton,1173,7
+585,baylor,1124,3,florida atlantic,1194,8
+586,baylor,1124,3,utah state,1429,8
+587,baylor,1124,3,mississippi state,1280,8
+588,baylor,1124,3,nebraska,1304,8
+589,baylor,1124,3,texas a&m,1401,9
+590,baylor,1124,3,northwestern,1321,9
+591,baylor,1124,3,michigan state,1277,9
+592,baylor,1124,3,tcu,1395,9
+593,baylor,1124,3,virginia,1438,10
+594,baylor,1124,3,colorado,1160,10
+595,baylor,1124,3,boise state,1129,10
+596,baylor,1124,3,drake,1179,10
+597,baylor,1124,3,nevada,1305,10
+598,baylor,1124,3,colorado state,1161,10
+599,baylor,1124,3,new mexico,1307,11
+600,baylor,1124,3,oregon,1332,11
+601,baylor,1124,3,north carolina state,1301,11
+602,baylor,1124,3,duquesne,1182,11
+603,baylor,1124,3,mcneese,1270,12
+604,baylor,1124,3,james madison,1241,12
+605,baylor,1124,3,uab,1412,12
+606,baylor,1124,3,grand canyon,1213,12
+607,baylor,1124,3,samford,1359,13
+608,baylor,1124,3,vermont,1436,13
+609,baylor,1124,3,yale,1463,13
+610,baylor,1124,3,charleston,1158,13
+611,baylor,1124,3,oakland,1324,14
+612,baylor,1124,3,akron,1103,14
+613,baylor,1124,3,morehead state,1287,14
+614,baylor,1124,3,colgate,1159,14
+615,baylor,1124,3,long beach state,1253,15
+616,baylor,1124,3,south dakota state,1355,15
+617,baylor,1124,3,saint peter's,1389,15
+618,baylor,1124,3,western kentucky,1443,15
+619,baylor,1124,3,grambling state,1212,16
+620,baylor,1124,3,stetson,1391,16
+621,baylor,1124,3,howard,1224,16
+622,baylor,1124,3,longwood,1255,16
+623,baylor,1124,3,montana state,1286,16
+624,baylor,1124,3,wagner,1447,16
+625,illinois,1228,3,kentucky,1246,3
+626,illinois,1228,3,alabama,1104,4
+627,illinois,1228,3,kansas,1242,4
+628,illinois,1228,3,auburn,1120,4
+629,illinois,1228,3,duke,1181,4
+630,illinois,1228,3,saint mary's,1388,5
+631,illinois,1228,3,gonzaga,1211,5
+632,illinois,1228,3,wisconsin,1458,5
+633,illinois,1228,3,san diego state,1361,5
+634,illinois,1228,3,texas tech,1403,6
+635,illinois,1228,3,clemson,1155,6
+636,illinois,1228,3,byu,1140,6
+637,illinois,1228,3,south carolina,1376,6
+638,illinois,1228,3,texas,1400,7
+639,illinois,1228,3,florida,1196,7
+640,illinois,1228,3,washington state,1450,7
+641,illinois,1228,3,dayton,1173,7
+642,illinois,1228,3,florida atlantic,1194,8
+643,illinois,1228,3,utah state,1429,8
+644,illinois,1228,3,mississippi state,1280,8
+645,illinois,1228,3,nebraska,1304,8
+646,illinois,1228,3,texas a&m,1401,9
+647,illinois,1228,3,northwestern,1321,9
+648,illinois,1228,3,michigan state,1277,9
+649,illinois,1228,3,tcu,1395,9
+650,illinois,1228,3,virginia,1438,10
+651,illinois,1228,3,colorado,1160,10
+652,illinois,1228,3,boise state,1129,10
+653,illinois,1228,3,drake,1179,10
+654,illinois,1228,3,nevada,1305,10
+655,illinois,1228,3,colorado state,1161,10
+656,illinois,1228,3,new mexico,1307,11
+657,illinois,1228,3,oregon,1332,11
+658,illinois,1228,3,north carolina state,1301,11
+659,illinois,1228,3,duquesne,1182,11
+660,illinois,1228,3,mcneese,1270,12
+661,illinois,1228,3,james madison,1241,12
+662,illinois,1228,3,uab,1412,12
+663,illinois,1228,3,grand canyon,1213,12
+664,illinois,1228,3,samford,1359,13
+665,illinois,1228,3,vermont,1436,13
+666,illinois,1228,3,yale,1463,13
+667,illinois,1228,3,charleston,1158,13
+668,illinois,1228,3,oakland,1324,14
+669,illinois,1228,3,akron,1103,14
+670,illinois,1228,3,morehead state,1287,14
+671,illinois,1228,3,colgate,1159,14
+672,illinois,1228,3,long beach state,1253,15
+673,illinois,1228,3,south dakota state,1355,15
+674,illinois,1228,3,saint peter's,1389,15
+675,illinois,1228,3,western kentucky,1443,15
+676,illinois,1228,3,grambling state,1212,16
+677,illinois,1228,3,stetson,1391,16
+678,illinois,1228,3,howard,1224,16
+679,illinois,1228,3,longwood,1255,16
+680,illinois,1228,3,montana state,1286,16
+681,illinois,1228,3,wagner,1447,16
+682,kentucky,1246,3,alabama,1104,4
+683,kentucky,1246,3,kansas,1242,4
+684,kentucky,1246,3,auburn,1120,4
+685,kentucky,1246,3,duke,1181,4
+686,kentucky,1246,3,saint mary's,1388,5
+687,kentucky,1246,3,gonzaga,1211,5
+688,kentucky,1246,3,wisconsin,1458,5
+689,kentucky,1246,3,san diego state,1361,5
+690,kentucky,1246,3,texas tech,1403,6
+691,kentucky,1246,3,clemson,1155,6
+692,kentucky,1246,3,byu,1140,6
+693,kentucky,1246,3,south carolina,1376,6
+694,kentucky,1246,3,texas,1400,7
+695,kentucky,1246,3,florida,1196,7
+696,kentucky,1246,3,washington state,1450,7
+697,kentucky,1246,3,dayton,1173,7
+698,kentucky,1246,3,florida atlantic,1194,8
+699,kentucky,1246,3,utah state,1429,8
+700,kentucky,1246,3,mississippi state,1280,8
+701,kentucky,1246,3,nebraska,1304,8
+702,kentucky,1246,3,texas a&m,1401,9
+703,kentucky,1246,3,northwestern,1321,9
+704,kentucky,1246,3,michigan state,1277,9
+705,kentucky,1246,3,tcu,1395,9
+706,kentucky,1246,3,virginia,1438,10
+707,kentucky,1246,3,colorado,1160,10
+708,kentucky,1246,3,boise state,1129,10
+709,kentucky,1246,3,drake,1179,10
+710,kentucky,1246,3,nevada,1305,10
+711,kentucky,1246,3,colorado state,1161,10
+712,kentucky,1246,3,new mexico,1307,11
+713,kentucky,1246,3,oregon,1332,11
+714,kentucky,1246,3,north carolina state,1301,11
+715,kentucky,1246,3,duquesne,1182,11
+716,kentucky,1246,3,mcneese,1270,12
+717,kentucky,1246,3,james madison,1241,12
+718,kentucky,1246,3,uab,1412,12
+719,kentucky,1246,3,grand canyon,1213,12
+720,kentucky,1246,3,samford,1359,13
+721,kentucky,1246,3,vermont,1436,13
+722,kentucky,1246,3,yale,1463,13
+723,kentucky,1246,3,charleston,1158,13
+724,kentucky,1246,3,oakland,1324,14
+725,kentucky,1246,3,akron,1103,14
+726,kentucky,1246,3,morehead state,1287,14
+727,kentucky,1246,3,colgate,1159,14
+728,kentucky,1246,3,long beach state,1253,15
+729,kentucky,1246,3,south dakota state,1355,15
+730,kentucky,1246,3,saint peter's,1389,15
+731,kentucky,1246,3,western kentucky,1443,15
+732,kentucky,1246,3,grambling state,1212,16
+733,kentucky,1246,3,stetson,1391,16
+734,kentucky,1246,3,howard,1224,16
+735,kentucky,1246,3,longwood,1255,16
+736,kentucky,1246,3,montana state,1286,16
+737,kentucky,1246,3,wagner,1447,16
+738,alabama,1104,4,kansas,1242,4
+739,alabama,1104,4,auburn,1120,4
+740,alabama,1104,4,duke,1181,4
+741,alabama,1104,4,saint mary's,1388,5
+742,alabama,1104,4,gonzaga,1211,5
+743,alabama,1104,4,wisconsin,1458,5
+744,alabama,1104,4,san diego state,1361,5
+745,alabama,1104,4,texas tech,1403,6
+746,alabama,1104,4,clemson,1155,6
+747,alabama,1104,4,byu,1140,6
+748,alabama,1104,4,south carolina,1376,6
+749,alabama,1104,4,texas,1400,7
+750,alabama,1104,4,florida,1196,7
+751,alabama,1104,4,washington state,1450,7
+752,alabama,1104,4,dayton,1173,7
+753,alabama,1104,4,florida atlantic,1194,8
+754,alabama,1104,4,utah state,1429,8
+755,alabama,1104,4,mississippi state,1280,8
+756,alabama,1104,4,nebraska,1304,8
+757,alabama,1104,4,texas a&m,1401,9
+758,alabama,1104,4,northwestern,1321,9
+759,alabama,1104,4,michigan state,1277,9
+760,alabama,1104,4,tcu,1395,9
+761,alabama,1104,4,virginia,1438,10
+762,alabama,1104,4,colorado,1160,10
+763,alabama,1104,4,boise state,1129,10
+764,alabama,1104,4,drake,1179,10
+765,alabama,1104,4,nevada,1305,10
+766,alabama,1104,4,colorado state,1161,10
+767,alabama,1104,4,new mexico,1307,11
+768,alabama,1104,4,oregon,1332,11
+769,alabama,1104,4,north carolina state,1301,11
+770,alabama,1104,4,duquesne,1182,11
+771,alabama,1104,4,mcneese,1270,12
+772,alabama,1104,4,james madison,1241,12
+773,alabama,1104,4,uab,1412,12
+774,alabama,1104,4,grand canyon,1213,12
+775,alabama,1104,4,samford,1359,13
+776,alabama,1104,4,vermont,1436,13
+777,alabama,1104,4,yale,1463,13
+778,alabama,1104,4,charleston,1158,13
+779,alabama,1104,4,oakland,1324,14
+780,alabama,1104,4,akron,1103,14
+781,alabama,1104,4,morehead state,1287,14
+782,alabama,1104,4,colgate,1159,14
+783,alabama,1104,4,long beach state,1253,15
+784,alabama,1104,4,south dakota state,1355,15
+785,alabama,1104,4,saint peter's,1389,15
+786,alabama,1104,4,western kentucky,1443,15
+787,alabama,1104,4,grambling state,1212,16
+788,alabama,1104,4,stetson,1391,16
+789,alabama,1104,4,howard,1224,16
+790,alabama,1104,4,longwood,1255,16
+791,alabama,1104,4,montana state,1286,16
+792,alabama,1104,4,wagner,1447,16
+793,kansas,1242,4,auburn,1120,4
+794,kansas,1242,4,duke,1181,4
+795,kansas,1242,4,saint mary's,1388,5
+796,kansas,1242,4,gonzaga,1211,5
+797,kansas,1242,4,wisconsin,1458,5
+798,kansas,1242,4,san diego state,1361,5
+799,kansas,1242,4,texas tech,1403,6
+800,kansas,1242,4,clemson,1155,6
+801,kansas,1242,4,byu,1140,6
+802,kansas,1242,4,south carolina,1376,6
+803,kansas,1242,4,texas,1400,7
+804,kansas,1242,4,florida,1196,7
+805,kansas,1242,4,washington state,1450,7
+806,kansas,1242,4,dayton,1173,7
+807,kansas,1242,4,florida atlantic,1194,8
+808,kansas,1242,4,utah state,1429,8
+809,kansas,1242,4,mississippi state,1280,8
+810,kansas,1242,4,nebraska,1304,8
+811,kansas,1242,4,texas a&m,1401,9
+812,kansas,1242,4,northwestern,1321,9
+813,kansas,1242,4,michigan state,1277,9
+814,kansas,1242,4,tcu,1395,9
+815,kansas,1242,4,virginia,1438,10
+816,kansas,1242,4,colorado,1160,10
+817,kansas,1242,4,boise state,1129,10
+818,kansas,1242,4,drake,1179,10
+819,kansas,1242,4,nevada,1305,10
+820,kansas,1242,4,colorado state,1161,10
+821,kansas,1242,4,new mexico,1307,11
+822,kansas,1242,4,oregon,1332,11
+823,kansas,1242,4,north carolina state,1301,11
+824,kansas,1242,4,duquesne,1182,11
+825,kansas,1242,4,mcneese,1270,12
+826,kansas,1242,4,james madison,1241,12
+827,kansas,1242,4,uab,1412,12
+828,kansas,1242,4,grand canyon,1213,12
+829,kansas,1242,4,samford,1359,13
+830,kansas,1242,4,vermont,1436,13
+831,kansas,1242,4,yale,1463,13
+832,kansas,1242,4,charleston,1158,13
+833,kansas,1242,4,oakland,1324,14
+834,kansas,1242,4,akron,1103,14
+835,kansas,1242,4,morehead state,1287,14
+836,kansas,1242,4,colgate,1159,14
+837,kansas,1242,4,long beach state,1253,15
+838,kansas,1242,4,south dakota state,1355,15
+839,kansas,1242,4,saint peter's,1389,15
+840,kansas,1242,4,western kentucky,1443,15
+841,kansas,1242,4,grambling state,1212,16
+842,kansas,1242,4,stetson,1391,16
+843,kansas,1242,4,howard,1224,16
+844,kansas,1242,4,longwood,1255,16
+845,kansas,1242,4,montana state,1286,16
+846,kansas,1242,4,wagner,1447,16
+847,auburn,1120,4,duke,1181,4
+848,auburn,1120,4,saint mary's,1388,5
+849,auburn,1120,4,gonzaga,1211,5
+850,auburn,1120,4,wisconsin,1458,5
+851,auburn,1120,4,san diego state,1361,5
+852,auburn,1120,4,texas tech,1403,6
+853,auburn,1120,4,clemson,1155,6
+854,auburn,1120,4,byu,1140,6
+855,auburn,1120,4,south carolina,1376,6
+856,auburn,1120,4,texas,1400,7
+857,auburn,1120,4,florida,1196,7
+858,auburn,1120,4,washington state,1450,7
+859,auburn,1120,4,dayton,1173,7
+860,auburn,1120,4,florida atlantic,1194,8
+861,auburn,1120,4,utah state,1429,8
+862,auburn,1120,4,mississippi state,1280,8
+863,auburn,1120,4,nebraska,1304,8
+864,auburn,1120,4,texas a&m,1401,9
+865,auburn,1120,4,northwestern,1321,9
+866,auburn,1120,4,michigan state,1277,9
+867,auburn,1120,4,tcu,1395,9
+868,auburn,1120,4,virginia,1438,10
+869,auburn,1120,4,colorado,1160,10
+870,auburn,1120,4,boise state,1129,10
+871,auburn,1120,4,drake,1179,10
+872,auburn,1120,4,nevada,1305,10
+873,auburn,1120,4,colorado state,1161,10
+874,auburn,1120,4,new mexico,1307,11
+875,auburn,1120,4,oregon,1332,11
+876,auburn,1120,4,north carolina state,1301,11
+877,auburn,1120,4,duquesne,1182,11
+878,auburn,1120,4,mcneese,1270,12
+879,auburn,1120,4,james madison,1241,12
+880,auburn,1120,4,uab,1412,12
+881,auburn,1120,4,grand canyon,1213,12
+882,auburn,1120,4,samford,1359,13
+883,auburn,1120,4,vermont,1436,13
+884,auburn,1120,4,yale,1463,13
+885,auburn,1120,4,charleston,1158,13
+886,auburn,1120,4,oakland,1324,14
+887,auburn,1120,4,akron,1103,14
+888,auburn,1120,4,morehead state,1287,14
+889,auburn,1120,4,colgate,1159,14
+890,auburn,1120,4,long beach state,1253,15
+891,auburn,1120,4,south dakota state,1355,15
+892,auburn,1120,4,saint peter's,1389,15
+893,auburn,1120,4,western kentucky,1443,15
+894,auburn,1120,4,grambling state,1212,16
+895,auburn,1120,4,stetson,1391,16
+896,auburn,1120,4,howard,1224,16
+897,auburn,1120,4,longwood,1255,16
+898,auburn,1120,4,montana state,1286,16
+899,auburn,1120,4,wagner,1447,16
+900,duke,1181,4,saint mary's,1388,5
+901,duke,1181,4,gonzaga,1211,5
+902,duke,1181,4,wisconsin,1458,5
+903,duke,1181,4,san diego state,1361,5
+904,duke,1181,4,texas tech,1403,6
+905,duke,1181,4,clemson,1155,6
+906,duke,1181,4,byu,1140,6
+907,duke,1181,4,south carolina,1376,6
+908,duke,1181,4,texas,1400,7
+909,duke,1181,4,florida,1196,7
+910,duke,1181,4,washington state,1450,7
+911,duke,1181,4,dayton,1173,7
+912,duke,1181,4,florida atlantic,1194,8
+913,duke,1181,4,utah state,1429,8
+914,duke,1181,4,mississippi state,1280,8
+915,duke,1181,4,nebraska,1304,8
+916,duke,1181,4,texas a&m,1401,9
+917,duke,1181,4,northwestern,1321,9
+918,duke,1181,4,michigan state,1277,9
+919,duke,1181,4,tcu,1395,9
+920,duke,1181,4,virginia,1438,10
+921,duke,1181,4,colorado,1160,10
+922,duke,1181,4,boise state,1129,10
+923,duke,1181,4,drake,1179,10
+924,duke,1181,4,nevada,1305,10
+925,duke,1181,4,colorado state,1161,10
+926,duke,1181,4,new mexico,1307,11
+927,duke,1181,4,oregon,1332,11
+928,duke,1181,4,north carolina state,1301,11
+929,duke,1181,4,duquesne,1182,11
+930,duke,1181,4,mcneese,1270,12
+931,duke,1181,4,james madison,1241,12
+932,duke,1181,4,uab,1412,12
+933,duke,1181,4,grand canyon,1213,12
+934,duke,1181,4,samford,1359,13
+935,duke,1181,4,vermont,1436,13
+936,duke,1181,4,yale,1463,13
+937,duke,1181,4,charleston,1158,13
+938,duke,1181,4,oakland,1324,14
+939,duke,1181,4,akron,1103,14
+940,duke,1181,4,morehead state,1287,14
+941,duke,1181,4,colgate,1159,14
+942,duke,1181,4,long beach state,1253,15
+943,duke,1181,4,south dakota state,1355,15
+944,duke,1181,4,saint peter's,1389,15
+945,duke,1181,4,western kentucky,1443,15
+946,duke,1181,4,grambling state,1212,16
+947,duke,1181,4,stetson,1391,16
+948,duke,1181,4,howard,1224,16
+949,duke,1181,4,longwood,1255,16
+950,duke,1181,4,montana state,1286,16
+951,duke,1181,4,wagner,1447,16
+952,saint mary's,1388,5,gonzaga,1211,5
+953,saint mary's,1388,5,wisconsin,1458,5
+954,saint mary's,1388,5,san diego state,1361,5
+955,saint mary's,1388,5,texas tech,1403,6
+956,saint mary's,1388,5,clemson,1155,6
+957,saint mary's,1388,5,byu,1140,6
+958,saint mary's,1388,5,south carolina,1376,6
+959,saint mary's,1388,5,texas,1400,7
+960,saint mary's,1388,5,florida,1196,7
+961,saint mary's,1388,5,washington state,1450,7
+962,saint mary's,1388,5,dayton,1173,7
+963,saint mary's,1388,5,florida atlantic,1194,8
+964,saint mary's,1388,5,utah state,1429,8
+965,saint mary's,1388,5,mississippi state,1280,8
+966,saint mary's,1388,5,nebraska,1304,8
+967,saint mary's,1388,5,texas a&m,1401,9
+968,saint mary's,1388,5,northwestern,1321,9
+969,saint mary's,1388,5,michigan state,1277,9
+970,saint mary's,1388,5,tcu,1395,9
+971,saint mary's,1388,5,virginia,1438,10
+972,saint mary's,1388,5,colorado,1160,10
+973,saint mary's,1388,5,boise state,1129,10
+974,saint mary's,1388,5,drake,1179,10
+975,saint mary's,1388,5,nevada,1305,10
+976,saint mary's,1388,5,colorado state,1161,10
+977,saint mary's,1388,5,new mexico,1307,11
+978,saint mary's,1388,5,oregon,1332,11
+979,saint mary's,1388,5,north carolina state,1301,11
+980,saint mary's,1388,5,duquesne,1182,11
+981,saint mary's,1388,5,mcneese,1270,12
+982,saint mary's,1388,5,james madison,1241,12
+983,saint mary's,1388,5,uab,1412,12
+984,saint mary's,1388,5,grand canyon,1213,12
+985,saint mary's,1388,5,samford,1359,13
+986,saint mary's,1388,5,vermont,1436,13
+987,saint mary's,1388,5,yale,1463,13
+988,saint mary's,1388,5,charleston,1158,13
+989,saint mary's,1388,5,oakland,1324,14
+990,saint mary's,1388,5,akron,1103,14
+991,saint mary's,1388,5,morehead state,1287,14
+992,saint mary's,1388,5,colgate,1159,14
+993,saint mary's,1388,5,long beach state,1253,15
+994,saint mary's,1388,5,south dakota state,1355,15
+995,saint mary's,1388,5,saint peter's,1389,15
+996,saint mary's,1388,5,western kentucky,1443,15
+997,saint mary's,1388,5,grambling state,1212,16
+998,saint mary's,1388,5,stetson,1391,16
+999,saint mary's,1388,5,howard,1224,16
+1000,saint mary's,1388,5,longwood,1255,16
+1001,saint mary's,1388,5,montana state,1286,16
+1002,saint mary's,1388,5,wagner,1447,16
+1003,gonzaga,1211,5,wisconsin,1458,5
+1004,gonzaga,1211,5,san diego state,1361,5
+1005,gonzaga,1211,5,texas tech,1403,6
+1006,gonzaga,1211,5,clemson,1155,6
+1007,gonzaga,1211,5,byu,1140,6
+1008,gonzaga,1211,5,south carolina,1376,6
+1009,gonzaga,1211,5,texas,1400,7
+1010,gonzaga,1211,5,florida,1196,7
+1011,gonzaga,1211,5,washington state,1450,7
+1012,gonzaga,1211,5,dayton,1173,7
+1013,gonzaga,1211,5,florida atlantic,1194,8
+1014,gonzaga,1211,5,utah state,1429,8
+1015,gonzaga,1211,5,mississippi state,1280,8
+1016,gonzaga,1211,5,nebraska,1304,8
+1017,gonzaga,1211,5,texas a&m,1401,9
+1018,gonzaga,1211,5,northwestern,1321,9
+1019,gonzaga,1211,5,michigan state,1277,9
+1020,gonzaga,1211,5,tcu,1395,9
+1021,gonzaga,1211,5,virginia,1438,10
+1022,gonzaga,1211,5,colorado,1160,10
+1023,gonzaga,1211,5,boise state,1129,10
+1024,gonzaga,1211,5,drake,1179,10
+1025,gonzaga,1211,5,nevada,1305,10
+1026,gonzaga,1211,5,colorado state,1161,10
+1027,gonzaga,1211,5,new mexico,1307,11
+1028,gonzaga,1211,5,oregon,1332,11
+1029,gonzaga,1211,5,north carolina state,1301,11
+1030,gonzaga,1211,5,duquesne,1182,11
+1031,gonzaga,1211,5,mcneese,1270,12
+1032,gonzaga,1211,5,james madison,1241,12
+1033,gonzaga,1211,5,uab,1412,12
+1034,gonzaga,1211,5,grand canyon,1213,12
+1035,gonzaga,1211,5,samford,1359,13
+1036,gonzaga,1211,5,vermont,1436,13
+1037,gonzaga,1211,5,yale,1463,13
+1038,gonzaga,1211,5,charleston,1158,13
+1039,gonzaga,1211,5,oakland,1324,14
+1040,gonzaga,1211,5,akron,1103,14
+1041,gonzaga,1211,5,morehead state,1287,14
+1042,gonzaga,1211,5,colgate,1159,14
+1043,gonzaga,1211,5,long beach state,1253,15
+1044,gonzaga,1211,5,south dakota state,1355,15
+1045,gonzaga,1211,5,saint peter's,1389,15
+1046,gonzaga,1211,5,western kentucky,1443,15
+1047,gonzaga,1211,5,grambling state,1212,16
+1048,gonzaga,1211,5,stetson,1391,16
+1049,gonzaga,1211,5,howard,1224,16
+1050,gonzaga,1211,5,longwood,1255,16
+1051,gonzaga,1211,5,montana state,1286,16
+1052,gonzaga,1211,5,wagner,1447,16
+1053,wisconsin,1458,5,san diego state,1361,5
+1054,wisconsin,1458,5,texas tech,1403,6
+1055,wisconsin,1458,5,clemson,1155,6
+1056,wisconsin,1458,5,byu,1140,6
+1057,wisconsin,1458,5,south carolina,1376,6
+1058,wisconsin,1458,5,texas,1400,7
+1059,wisconsin,1458,5,florida,1196,7
+1060,wisconsin,1458,5,washington state,1450,7
+1061,wisconsin,1458,5,dayton,1173,7
+1062,wisconsin,1458,5,florida atlantic,1194,8
+1063,wisconsin,1458,5,utah state,1429,8
+1064,wisconsin,1458,5,mississippi state,1280,8
+1065,wisconsin,1458,5,nebraska,1304,8
+1066,wisconsin,1458,5,texas a&m,1401,9
+1067,wisconsin,1458,5,northwestern,1321,9
+1068,wisconsin,1458,5,michigan state,1277,9
+1069,wisconsin,1458,5,tcu,1395,9
+1070,wisconsin,1458,5,virginia,1438,10
+1071,wisconsin,1458,5,colorado,1160,10
+1072,wisconsin,1458,5,boise state,1129,10
+1073,wisconsin,1458,5,drake,1179,10
+1074,wisconsin,1458,5,nevada,1305,10
+1075,wisconsin,1458,5,colorado state,1161,10
+1076,wisconsin,1458,5,new mexico,1307,11
+1077,wisconsin,1458,5,oregon,1332,11
+1078,wisconsin,1458,5,north carolina state,1301,11
+1079,wisconsin,1458,5,duquesne,1182,11
+1080,wisconsin,1458,5,mcneese,1270,12
+1081,wisconsin,1458,5,james madison,1241,12
+1082,wisconsin,1458,5,uab,1412,12
+1083,wisconsin,1458,5,grand canyon,1213,12
+1084,wisconsin,1458,5,samford,1359,13
+1085,wisconsin,1458,5,vermont,1436,13
+1086,wisconsin,1458,5,yale,1463,13
+1087,wisconsin,1458,5,charleston,1158,13
+1088,wisconsin,1458,5,oakland,1324,14
+1089,wisconsin,1458,5,akron,1103,14
+1090,wisconsin,1458,5,morehead state,1287,14
+1091,wisconsin,1458,5,colgate,1159,14
+1092,wisconsin,1458,5,long beach state,1253,15
+1093,wisconsin,1458,5,south dakota state,1355,15
+1094,wisconsin,1458,5,saint peter's,1389,15
+1095,wisconsin,1458,5,western kentucky,1443,15
+1096,wisconsin,1458,5,grambling state,1212,16
+1097,wisconsin,1458,5,stetson,1391,16
+1098,wisconsin,1458,5,howard,1224,16
+1099,wisconsin,1458,5,longwood,1255,16
+1100,wisconsin,1458,5,montana state,1286,16
+1101,wisconsin,1458,5,wagner,1447,16
+1102,san diego state,1361,5,texas tech,1403,6
+1103,san diego state,1361,5,clemson,1155,6
+1104,san diego state,1361,5,byu,1140,6
+1105,san diego state,1361,5,south carolina,1376,6
+1106,san diego state,1361,5,texas,1400,7
+1107,san diego state,1361,5,florida,1196,7
+1108,san diego state,1361,5,washington state,1450,7
+1109,san diego state,1361,5,dayton,1173,7
+1110,san diego state,1361,5,florida atlantic,1194,8
+1111,san diego state,1361,5,utah state,1429,8
+1112,san diego state,1361,5,mississippi state,1280,8
+1113,san diego state,1361,5,nebraska,1304,8
+1114,san diego state,1361,5,texas a&m,1401,9
+1115,san diego state,1361,5,northwestern,1321,9
+1116,san diego state,1361,5,michigan state,1277,9
+1117,san diego state,1361,5,tcu,1395,9
+1118,san diego state,1361,5,virginia,1438,10
+1119,san diego state,1361,5,colorado,1160,10
+1120,san diego state,1361,5,boise state,1129,10
+1121,san diego state,1361,5,drake,1179,10
+1122,san diego state,1361,5,nevada,1305,10
+1123,san diego state,1361,5,colorado state,1161,10
+1124,san diego state,1361,5,new mexico,1307,11
+1125,san diego state,1361,5,oregon,1332,11
+1126,san diego state,1361,5,north carolina state,1301,11
+1127,san diego state,1361,5,duquesne,1182,11
+1128,san diego state,1361,5,mcneese,1270,12
+1129,san diego state,1361,5,james madison,1241,12
+1130,san diego state,1361,5,uab,1412,12
+1131,san diego state,1361,5,grand canyon,1213,12
+1132,san diego state,1361,5,samford,1359,13
+1133,san diego state,1361,5,vermont,1436,13
+1134,san diego state,1361,5,yale,1463,13
+1135,san diego state,1361,5,charleston,1158,13
+1136,san diego state,1361,5,oakland,1324,14
+1137,san diego state,1361,5,akron,1103,14
+1138,san diego state,1361,5,morehead state,1287,14
+1139,san diego state,1361,5,colgate,1159,14
+1140,san diego state,1361,5,long beach state,1253,15
+1141,san diego state,1361,5,south dakota state,1355,15
+1142,san diego state,1361,5,saint peter's,1389,15
+1143,san diego state,1361,5,western kentucky,1443,15
+1144,san diego state,1361,5,grambling state,1212,16
+1145,san diego state,1361,5,stetson,1391,16
+1146,san diego state,1361,5,howard,1224,16
+1147,san diego state,1361,5,longwood,1255,16
+1148,san diego state,1361,5,montana state,1286,16
+1149,san diego state,1361,5,wagner,1447,16
+1150,texas tech,1403,6,clemson,1155,6
+1151,texas tech,1403,6,byu,1140,6
+1152,texas tech,1403,6,south carolina,1376,6
+1153,texas tech,1403,6,texas,1400,7
+1154,texas tech,1403,6,florida,1196,7
+1155,texas tech,1403,6,washington state,1450,7
+1156,texas tech,1403,6,dayton,1173,7
+1157,texas tech,1403,6,florida atlantic,1194,8
+1158,texas tech,1403,6,utah state,1429,8
+1159,texas tech,1403,6,mississippi state,1280,8
+1160,texas tech,1403,6,nebraska,1304,8
+1161,texas tech,1403,6,texas a&m,1401,9
+1162,texas tech,1403,6,northwestern,1321,9
+1163,texas tech,1403,6,michigan state,1277,9
+1164,texas tech,1403,6,tcu,1395,9
+1165,texas tech,1403,6,virginia,1438,10
+1166,texas tech,1403,6,colorado,1160,10
+1167,texas tech,1403,6,boise state,1129,10
+1168,texas tech,1403,6,drake,1179,10
+1169,texas tech,1403,6,nevada,1305,10
+1170,texas tech,1403,6,colorado state,1161,10
+1171,texas tech,1403,6,new mexico,1307,11
+1172,texas tech,1403,6,oregon,1332,11
+1173,texas tech,1403,6,north carolina state,1301,11
+1174,texas tech,1403,6,duquesne,1182,11
+1175,texas tech,1403,6,mcneese,1270,12
+1176,texas tech,1403,6,james madison,1241,12
+1177,texas tech,1403,6,uab,1412,12
+1178,texas tech,1403,6,grand canyon,1213,12
+1179,texas tech,1403,6,samford,1359,13
+1180,texas tech,1403,6,vermont,1436,13
+1181,texas tech,1403,6,yale,1463,13
+1182,texas tech,1403,6,charleston,1158,13
+1183,texas tech,1403,6,oakland,1324,14
+1184,texas tech,1403,6,akron,1103,14
+1185,texas tech,1403,6,morehead state,1287,14
+1186,texas tech,1403,6,colgate,1159,14
+1187,texas tech,1403,6,long beach state,1253,15
+1188,texas tech,1403,6,south dakota state,1355,15
+1189,texas tech,1403,6,saint peter's,1389,15
+1190,texas tech,1403,6,western kentucky,1443,15
+1191,texas tech,1403,6,grambling state,1212,16
+1192,texas tech,1403,6,stetson,1391,16
+1193,texas tech,1403,6,howard,1224,16
+1194,texas tech,1403,6,longwood,1255,16
+1195,texas tech,1403,6,montana state,1286,16
+1196,texas tech,1403,6,wagner,1447,16
+1197,clemson,1155,6,byu,1140,6
+1198,clemson,1155,6,south carolina,1376,6
+1199,clemson,1155,6,texas,1400,7
+1200,clemson,1155,6,florida,1196,7
+1201,clemson,1155,6,washington state,1450,7
+1202,clemson,1155,6,dayton,1173,7
+1203,clemson,1155,6,florida atlantic,1194,8
+1204,clemson,1155,6,utah state,1429,8
+1205,clemson,1155,6,mississippi state,1280,8
+1206,clemson,1155,6,nebraska,1304,8
+1207,clemson,1155,6,texas a&m,1401,9
+1208,clemson,1155,6,northwestern,1321,9
+1209,clemson,1155,6,michigan state,1277,9
+1210,clemson,1155,6,tcu,1395,9
+1211,clemson,1155,6,virginia,1438,10
+1212,clemson,1155,6,colorado,1160,10
+1213,clemson,1155,6,boise state,1129,10
+1214,clemson,1155,6,drake,1179,10
+1215,clemson,1155,6,nevada,1305,10
+1216,clemson,1155,6,colorado state,1161,10
+1217,clemson,1155,6,new mexico,1307,11
+1218,clemson,1155,6,oregon,1332,11
+1219,clemson,1155,6,north carolina state,1301,11
+1220,clemson,1155,6,duquesne,1182,11
+1221,clemson,1155,6,mcneese,1270,12
+1222,clemson,1155,6,james madison,1241,12
+1223,clemson,1155,6,uab,1412,12
+1224,clemson,1155,6,grand canyon,1213,12
+1225,clemson,1155,6,samford,1359,13
+1226,clemson,1155,6,vermont,1436,13
+1227,clemson,1155,6,yale,1463,13
+1228,clemson,1155,6,charleston,1158,13
+1229,clemson,1155,6,oakland,1324,14
+1230,clemson,1155,6,akron,1103,14
+1231,clemson,1155,6,morehead state,1287,14
+1232,clemson,1155,6,colgate,1159,14
+1233,clemson,1155,6,long beach state,1253,15
+1234,clemson,1155,6,south dakota state,1355,15
+1235,clemson,1155,6,saint peter's,1389,15
+1236,clemson,1155,6,western kentucky,1443,15
+1237,clemson,1155,6,grambling state,1212,16
+1238,clemson,1155,6,stetson,1391,16
+1239,clemson,1155,6,howard,1224,16
+1240,clemson,1155,6,longwood,1255,16
+1241,clemson,1155,6,montana state,1286,16
+1242,clemson,1155,6,wagner,1447,16
+1243,byu,1140,6,south carolina,1376,6
+1244,byu,1140,6,texas,1400,7
+1245,byu,1140,6,florida,1196,7
+1246,byu,1140,6,washington state,1450,7
+1247,byu,1140,6,dayton,1173,7
+1248,byu,1140,6,florida atlantic,1194,8
+1249,byu,1140,6,utah state,1429,8
+1250,byu,1140,6,mississippi state,1280,8
+1251,byu,1140,6,nebraska,1304,8
+1252,byu,1140,6,texas a&m,1401,9
+1253,byu,1140,6,northwestern,1321,9
+1254,byu,1140,6,michigan state,1277,9
+1255,byu,1140,6,tcu,1395,9
+1256,byu,1140,6,virginia,1438,10
+1257,byu,1140,6,colorado,1160,10
+1258,byu,1140,6,boise state,1129,10
+1259,byu,1140,6,drake,1179,10
+1260,byu,1140,6,nevada,1305,10
+1261,byu,1140,6,colorado state,1161,10
+1262,byu,1140,6,new mexico,1307,11
+1263,byu,1140,6,oregon,1332,11
+1264,byu,1140,6,north carolina state,1301,11
+1265,byu,1140,6,duquesne,1182,11
+1266,byu,1140,6,mcneese,1270,12
+1267,byu,1140,6,james madison,1241,12
+1268,byu,1140,6,uab,1412,12
+1269,byu,1140,6,grand canyon,1213,12
+1270,byu,1140,6,samford,1359,13
+1271,byu,1140,6,vermont,1436,13
+1272,byu,1140,6,yale,1463,13
+1273,byu,1140,6,charleston,1158,13
+1274,byu,1140,6,oakland,1324,14
+1275,byu,1140,6,akron,1103,14
+1276,byu,1140,6,morehead state,1287,14
+1277,byu,1140,6,colgate,1159,14
+1278,byu,1140,6,long beach state,1253,15
+1279,byu,1140,6,south dakota state,1355,15
+1280,byu,1140,6,saint peter's,1389,15
+1281,byu,1140,6,western kentucky,1443,15
+1282,byu,1140,6,grambling state,1212,16
+1283,byu,1140,6,stetson,1391,16
+1284,byu,1140,6,howard,1224,16
+1285,byu,1140,6,longwood,1255,16
+1286,byu,1140,6,montana state,1286,16
+1287,byu,1140,6,wagner,1447,16
+1288,south carolina,1376,6,texas,1400,7
+1289,south carolina,1376,6,florida,1196,7
+1290,south carolina,1376,6,washington state,1450,7
+1291,south carolina,1376,6,dayton,1173,7
+1292,south carolina,1376,6,florida atlantic,1194,8
+1293,south carolina,1376,6,utah state,1429,8
+1294,south carolina,1376,6,mississippi state,1280,8
+1295,south carolina,1376,6,nebraska,1304,8
+1296,south carolina,1376,6,texas a&m,1401,9
+1297,south carolina,1376,6,northwestern,1321,9
+1298,south carolina,1376,6,michigan state,1277,9
+1299,south carolina,1376,6,tcu,1395,9
+1300,south carolina,1376,6,virginia,1438,10
+1301,south carolina,1376,6,colorado,1160,10
+1302,south carolina,1376,6,boise state,1129,10
+1303,south carolina,1376,6,drake,1179,10
+1304,south carolina,1376,6,nevada,1305,10
+1305,south carolina,1376,6,colorado state,1161,10
+1306,south carolina,1376,6,new mexico,1307,11
+1307,south carolina,1376,6,oregon,1332,11
+1308,south carolina,1376,6,north carolina state,1301,11
+1309,south carolina,1376,6,duquesne,1182,11
+1310,south carolina,1376,6,mcneese,1270,12
+1311,south carolina,1376,6,james madison,1241,12
+1312,south carolina,1376,6,uab,1412,12
+1313,south carolina,1376,6,grand canyon,1213,12
+1314,south carolina,1376,6,samford,1359,13
+1315,south carolina,1376,6,vermont,1436,13
+1316,south carolina,1376,6,yale,1463,13
+1317,south carolina,1376,6,charleston,1158,13
+1318,south carolina,1376,6,oakland,1324,14
+1319,south carolina,1376,6,akron,1103,14
+1320,south carolina,1376,6,morehead state,1287,14
+1321,south carolina,1376,6,colgate,1159,14
+1322,south carolina,1376,6,long beach state,1253,15
+1323,south carolina,1376,6,south dakota state,1355,15
+1324,south carolina,1376,6,saint peter's,1389,15
+1325,south carolina,1376,6,western kentucky,1443,15
+1326,south carolina,1376,6,grambling state,1212,16
+1327,south carolina,1376,6,stetson,1391,16
+1328,south carolina,1376,6,howard,1224,16
+1329,south carolina,1376,6,longwood,1255,16
+1330,south carolina,1376,6,montana state,1286,16
+1331,south carolina,1376,6,wagner,1447,16
+1332,texas,1400,7,florida,1196,7
+1333,texas,1400,7,washington state,1450,7
+1334,texas,1400,7,dayton,1173,7
+1335,texas,1400,7,florida atlantic,1194,8
+1336,texas,1400,7,utah state,1429,8
+1337,texas,1400,7,mississippi state,1280,8
+1338,texas,1400,7,nebraska,1304,8
+1339,texas,1400,7,texas a&m,1401,9
+1340,texas,1400,7,northwestern,1321,9
+1341,texas,1400,7,michigan state,1277,9
+1342,texas,1400,7,tcu,1395,9
+1343,texas,1400,7,virginia,1438,10
+1344,texas,1400,7,colorado,1160,10
+1345,texas,1400,7,boise state,1129,10
+1346,texas,1400,7,drake,1179,10
+1347,texas,1400,7,nevada,1305,10
+1348,texas,1400,7,colorado state,1161,10
+1349,texas,1400,7,new mexico,1307,11
+1350,texas,1400,7,oregon,1332,11
+1351,texas,1400,7,north carolina state,1301,11
+1352,texas,1400,7,duquesne,1182,11
+1353,texas,1400,7,mcneese,1270,12
+1354,texas,1400,7,james madison,1241,12
+1355,texas,1400,7,uab,1412,12
+1356,texas,1400,7,grand canyon,1213,12
+1357,texas,1400,7,samford,1359,13
+1358,texas,1400,7,vermont,1436,13
+1359,texas,1400,7,yale,1463,13
+1360,texas,1400,7,charleston,1158,13
+1361,texas,1400,7,oakland,1324,14
+1362,texas,1400,7,akron,1103,14
+1363,texas,1400,7,morehead state,1287,14
+1364,texas,1400,7,colgate,1159,14
+1365,texas,1400,7,long beach state,1253,15
+1366,texas,1400,7,south dakota state,1355,15
+1367,texas,1400,7,saint peter's,1389,15
+1368,texas,1400,7,western kentucky,1443,15
+1369,texas,1400,7,grambling state,1212,16
+1370,texas,1400,7,stetson,1391,16
+1371,texas,1400,7,howard,1224,16
+1372,texas,1400,7,longwood,1255,16
+1373,texas,1400,7,montana state,1286,16
+1374,texas,1400,7,wagner,1447,16
+1375,florida,1196,7,washington state,1450,7
+1376,florida,1196,7,dayton,1173,7
+1377,florida,1196,7,florida atlantic,1194,8
+1378,florida,1196,7,utah state,1429,8
+1379,florida,1196,7,mississippi state,1280,8
+1380,florida,1196,7,nebraska,1304,8
+1381,florida,1196,7,texas a&m,1401,9
+1382,florida,1196,7,northwestern,1321,9
+1383,florida,1196,7,michigan state,1277,9
+1384,florida,1196,7,tcu,1395,9
+1385,florida,1196,7,virginia,1438,10
+1386,florida,1196,7,colorado,1160,10
+1387,florida,1196,7,boise state,1129,10
+1388,florida,1196,7,drake,1179,10
+1389,florida,1196,7,nevada,1305,10
+1390,florida,1196,7,colorado state,1161,10
+1391,florida,1196,7,new mexico,1307,11
+1392,florida,1196,7,oregon,1332,11
+1393,florida,1196,7,north carolina state,1301,11
+1394,florida,1196,7,duquesne,1182,11
+1395,florida,1196,7,mcneese,1270,12
+1396,florida,1196,7,james madison,1241,12
+1397,florida,1196,7,uab,1412,12
+1398,florida,1196,7,grand canyon,1213,12
+1399,florida,1196,7,samford,1359,13
+1400,florida,1196,7,vermont,1436,13
+1401,florida,1196,7,yale,1463,13
+1402,florida,1196,7,charleston,1158,13
+1403,florida,1196,7,oakland,1324,14
+1404,florida,1196,7,akron,1103,14
+1405,florida,1196,7,morehead state,1287,14
+1406,florida,1196,7,colgate,1159,14
+1407,florida,1196,7,long beach state,1253,15
+1408,florida,1196,7,south dakota state,1355,15
+1409,florida,1196,7,saint peter's,1389,15
+1410,florida,1196,7,western kentucky,1443,15
+1411,florida,1196,7,grambling state,1212,16
+1412,florida,1196,7,stetson,1391,16
+1413,florida,1196,7,howard,1224,16
+1414,florida,1196,7,longwood,1255,16
+1415,florida,1196,7,montana state,1286,16
+1416,florida,1196,7,wagner,1447,16
+1417,washington state,1450,7,dayton,1173,7
+1418,washington state,1450,7,florida atlantic,1194,8
+1419,washington state,1450,7,utah state,1429,8
+1420,washington state,1450,7,mississippi state,1280,8
+1421,washington state,1450,7,nebraska,1304,8
+1422,washington state,1450,7,texas a&m,1401,9
+1423,washington state,1450,7,northwestern,1321,9
+1424,washington state,1450,7,michigan state,1277,9
+1425,washington state,1450,7,tcu,1395,9
+1426,washington state,1450,7,virginia,1438,10
+1427,washington state,1450,7,colorado,1160,10
+1428,washington state,1450,7,boise state,1129,10
+1429,washington state,1450,7,drake,1179,10
+1430,washington state,1450,7,nevada,1305,10
+1431,washington state,1450,7,colorado state,1161,10
+1432,washington state,1450,7,new mexico,1307,11
+1433,washington state,1450,7,oregon,1332,11
+1434,washington state,1450,7,north carolina state,1301,11
+1435,washington state,1450,7,duquesne,1182,11
+1436,washington state,1450,7,mcneese,1270,12
+1437,washington state,1450,7,james madison,1241,12
+1438,washington state,1450,7,uab,1412,12
+1439,washington state,1450,7,grand canyon,1213,12
+1440,washington state,1450,7,samford,1359,13
+1441,washington state,1450,7,vermont,1436,13
+1442,washington state,1450,7,yale,1463,13
+1443,washington state,1450,7,charleston,1158,13
+1444,washington state,1450,7,oakland,1324,14
+1445,washington state,1450,7,akron,1103,14
+1446,washington state,1450,7,morehead state,1287,14
+1447,washington state,1450,7,colgate,1159,14
+1448,washington state,1450,7,long beach state,1253,15
+1449,washington state,1450,7,south dakota state,1355,15
+1450,washington state,1450,7,saint peter's,1389,15
+1451,washington state,1450,7,western kentucky,1443,15
+1452,washington state,1450,7,grambling state,1212,16
+1453,washington state,1450,7,stetson,1391,16
+1454,washington state,1450,7,howard,1224,16
+1455,washington state,1450,7,longwood,1255,16
+1456,washington state,1450,7,montana state,1286,16
+1457,washington state,1450,7,wagner,1447,16
+1458,dayton,1173,7,florida atlantic,1194,8
+1459,dayton,1173,7,utah state,1429,8
+1460,dayton,1173,7,mississippi state,1280,8
+1461,dayton,1173,7,nebraska,1304,8
+1462,dayton,1173,7,texas a&m,1401,9
+1463,dayton,1173,7,northwestern,1321,9
+1464,dayton,1173,7,michigan state,1277,9
+1465,dayton,1173,7,tcu,1395,9
+1466,dayton,1173,7,virginia,1438,10
+1467,dayton,1173,7,colorado,1160,10
+1468,dayton,1173,7,boise state,1129,10
+1469,dayton,1173,7,drake,1179,10
+1470,dayton,1173,7,nevada,1305,10
+1471,dayton,1173,7,colorado state,1161,10
+1472,dayton,1173,7,new mexico,1307,11
+1473,dayton,1173,7,oregon,1332,11
+1474,dayton,1173,7,north carolina state,1301,11
+1475,dayton,1173,7,duquesne,1182,11
+1476,dayton,1173,7,mcneese,1270,12
+1477,dayton,1173,7,james madison,1241,12
+1478,dayton,1173,7,uab,1412,12
+1479,dayton,1173,7,grand canyon,1213,12
+1480,dayton,1173,7,samford,1359,13
+1481,dayton,1173,7,vermont,1436,13
+1482,dayton,1173,7,yale,1463,13
+1483,dayton,1173,7,charleston,1158,13
+1484,dayton,1173,7,oakland,1324,14
+1485,dayton,1173,7,akron,1103,14
+1486,dayton,1173,7,morehead state,1287,14
+1487,dayton,1173,7,colgate,1159,14
+1488,dayton,1173,7,long beach state,1253,15
+1489,dayton,1173,7,south dakota state,1355,15
+1490,dayton,1173,7,saint peter's,1389,15
+1491,dayton,1173,7,western kentucky,1443,15
+1492,dayton,1173,7,grambling state,1212,16
+1493,dayton,1173,7,stetson,1391,16
+1494,dayton,1173,7,howard,1224,16
+1495,dayton,1173,7,longwood,1255,16
+1496,dayton,1173,7,montana state,1286,16
+1497,dayton,1173,7,wagner,1447,16
+1498,florida atlantic,1194,8,utah state,1429,8
+1499,florida atlantic,1194,8,mississippi state,1280,8
+1500,florida atlantic,1194,8,nebraska,1304,8
+1501,florida atlantic,1194,8,texas a&m,1401,9
+1502,florida atlantic,1194,8,northwestern,1321,9
+1503,florida atlantic,1194,8,michigan state,1277,9
+1504,florida atlantic,1194,8,tcu,1395,9
+1505,florida atlantic,1194,8,virginia,1438,10
+1506,florida atlantic,1194,8,colorado,1160,10
+1507,florida atlantic,1194,8,boise state,1129,10
+1508,florida atlantic,1194,8,drake,1179,10
+1509,florida atlantic,1194,8,nevada,1305,10
+1510,florida atlantic,1194,8,colorado state,1161,10
+1511,florida atlantic,1194,8,new mexico,1307,11
+1512,florida atlantic,1194,8,oregon,1332,11
+1513,florida atlantic,1194,8,north carolina state,1301,11
+1514,florida atlantic,1194,8,duquesne,1182,11
+1515,florida atlantic,1194,8,mcneese,1270,12
+1516,florida atlantic,1194,8,james madison,1241,12
+1517,florida atlantic,1194,8,uab,1412,12
+1518,florida atlantic,1194,8,grand canyon,1213,12
+1519,florida atlantic,1194,8,samford,1359,13
+1520,florida atlantic,1194,8,vermont,1436,13
+1521,florida atlantic,1194,8,yale,1463,13
+1522,florida atlantic,1194,8,charleston,1158,13
+1523,florida atlantic,1194,8,oakland,1324,14
+1524,florida atlantic,1194,8,akron,1103,14
+1525,florida atlantic,1194,8,morehead state,1287,14
+1526,florida atlantic,1194,8,colgate,1159,14
+1527,florida atlantic,1194,8,long beach state,1253,15
+1528,florida atlantic,1194,8,south dakota state,1355,15
+1529,florida atlantic,1194,8,saint peter's,1389,15
+1530,florida atlantic,1194,8,western kentucky,1443,15
+1531,florida atlantic,1194,8,grambling state,1212,16
+1532,florida atlantic,1194,8,stetson,1391,16
+1533,florida atlantic,1194,8,howard,1224,16
+1534,florida atlantic,1194,8,longwood,1255,16
+1535,florida atlantic,1194,8,montana state,1286,16
+1536,florida atlantic,1194,8,wagner,1447,16
+1537,utah state,1429,8,mississippi state,1280,8
+1538,utah state,1429,8,nebraska,1304,8
+1539,utah state,1429,8,texas a&m,1401,9
+1540,utah state,1429,8,northwestern,1321,9
+1541,utah state,1429,8,michigan state,1277,9
+1542,utah state,1429,8,tcu,1395,9
+1543,utah state,1429,8,virginia,1438,10
+1544,utah state,1429,8,colorado,1160,10
+1545,utah state,1429,8,boise state,1129,10
+1546,utah state,1429,8,drake,1179,10
+1547,utah state,1429,8,nevada,1305,10
+1548,utah state,1429,8,colorado state,1161,10
+1549,utah state,1429,8,new mexico,1307,11
+1550,utah state,1429,8,oregon,1332,11
+1551,utah state,1429,8,north carolina state,1301,11
+1552,utah state,1429,8,duquesne,1182,11
+1553,utah state,1429,8,mcneese,1270,12
+1554,utah state,1429,8,james madison,1241,12
+1555,utah state,1429,8,uab,1412,12
+1556,utah state,1429,8,grand canyon,1213,12
+1557,utah state,1429,8,samford,1359,13
+1558,utah state,1429,8,vermont,1436,13
+1559,utah state,1429,8,yale,1463,13
+1560,utah state,1429,8,charleston,1158,13
+1561,utah state,1429,8,oakland,1324,14
+1562,utah state,1429,8,akron,1103,14
+1563,utah state,1429,8,morehead state,1287,14
+1564,utah state,1429,8,colgate,1159,14
+1565,utah state,1429,8,long beach state,1253,15
+1566,utah state,1429,8,south dakota state,1355,15
+1567,utah state,1429,8,saint peter's,1389,15
+1568,utah state,1429,8,western kentucky,1443,15
+1569,utah state,1429,8,grambling state,1212,16
+1570,utah state,1429,8,stetson,1391,16
+1571,utah state,1429,8,howard,1224,16
+1572,utah state,1429,8,longwood,1255,16
+1573,utah state,1429,8,montana state,1286,16
+1574,utah state,1429,8,wagner,1447,16
+1575,mississippi state,1280,8,nebraska,1304,8
+1576,mississippi state,1280,8,texas a&m,1401,9
+1577,mississippi state,1280,8,northwestern,1321,9
+1578,mississippi state,1280,8,michigan state,1277,9
+1579,mississippi state,1280,8,tcu,1395,9
+1580,mississippi state,1280,8,virginia,1438,10
+1581,mississippi state,1280,8,colorado,1160,10
+1582,mississippi state,1280,8,boise state,1129,10
+1583,mississippi state,1280,8,drake,1179,10
+1584,mississippi state,1280,8,nevada,1305,10
+1585,mississippi state,1280,8,colorado state,1161,10
+1586,mississippi state,1280,8,new mexico,1307,11
+1587,mississippi state,1280,8,oregon,1332,11
+1588,mississippi state,1280,8,north carolina state,1301,11
+1589,mississippi state,1280,8,duquesne,1182,11
+1590,mississippi state,1280,8,mcneese,1270,12
+1591,mississippi state,1280,8,james madison,1241,12
+1592,mississippi state,1280,8,uab,1412,12
+1593,mississippi state,1280,8,grand canyon,1213,12
+1594,mississippi state,1280,8,samford,1359,13
+1595,mississippi state,1280,8,vermont,1436,13
+1596,mississippi state,1280,8,yale,1463,13
+1597,mississippi state,1280,8,charleston,1158,13
+1598,mississippi state,1280,8,oakland,1324,14
+1599,mississippi state,1280,8,akron,1103,14
+1600,mississippi state,1280,8,morehead state,1287,14
+1601,mississippi state,1280,8,colgate,1159,14
+1602,mississippi state,1280,8,long beach state,1253,15
+1603,mississippi state,1280,8,south dakota state,1355,15
+1604,mississippi state,1280,8,saint peter's,1389,15
+1605,mississippi state,1280,8,western kentucky,1443,15
+1606,mississippi state,1280,8,grambling state,1212,16
+1607,mississippi state,1280,8,stetson,1391,16
+1608,mississippi state,1280,8,howard,1224,16
+1609,mississippi state,1280,8,longwood,1255,16
+1610,mississippi state,1280,8,montana state,1286,16
+1611,mississippi state,1280,8,wagner,1447,16
+1612,nebraska,1304,8,texas a&m,1401,9
+1613,nebraska,1304,8,northwestern,1321,9
+1614,nebraska,1304,8,michigan state,1277,9
+1615,nebraska,1304,8,tcu,1395,9
+1616,nebraska,1304,8,virginia,1438,10
+1617,nebraska,1304,8,colorado,1160,10
+1618,nebraska,1304,8,boise state,1129,10
+1619,nebraska,1304,8,drake,1179,10
+1620,nebraska,1304,8,nevada,1305,10
+1621,nebraska,1304,8,colorado state,1161,10
+1622,nebraska,1304,8,new mexico,1307,11
+1623,nebraska,1304,8,oregon,1332,11
+1624,nebraska,1304,8,north carolina state,1301,11
+1625,nebraska,1304,8,duquesne,1182,11
+1626,nebraska,1304,8,mcneese,1270,12
+1627,nebraska,1304,8,james madison,1241,12
+1628,nebraska,1304,8,uab,1412,12
+1629,nebraska,1304,8,grand canyon,1213,12
+1630,nebraska,1304,8,samford,1359,13
+1631,nebraska,1304,8,vermont,1436,13
+1632,nebraska,1304,8,yale,1463,13
+1633,nebraska,1304,8,charleston,1158,13
+1634,nebraska,1304,8,oakland,1324,14
+1635,nebraska,1304,8,akron,1103,14
+1636,nebraska,1304,8,morehead state,1287,14
+1637,nebraska,1304,8,colgate,1159,14
+1638,nebraska,1304,8,long beach state,1253,15
+1639,nebraska,1304,8,south dakota state,1355,15
+1640,nebraska,1304,8,saint peter's,1389,15
+1641,nebraska,1304,8,western kentucky,1443,15
+1642,nebraska,1304,8,grambling state,1212,16
+1643,nebraska,1304,8,stetson,1391,16
+1644,nebraska,1304,8,howard,1224,16
+1645,nebraska,1304,8,longwood,1255,16
+1646,nebraska,1304,8,montana state,1286,16
+1647,nebraska,1304,8,wagner,1447,16
+1648,texas a&m,1401,9,northwestern,1321,9
+1649,texas a&m,1401,9,michigan state,1277,9
+1650,texas a&m,1401,9,tcu,1395,9
+1651,texas a&m,1401,9,virginia,1438,10
+1652,texas a&m,1401,9,colorado,1160,10
+1653,texas a&m,1401,9,boise state,1129,10
+1654,texas a&m,1401,9,drake,1179,10
+1655,texas a&m,1401,9,nevada,1305,10
+1656,texas a&m,1401,9,colorado state,1161,10
+1657,texas a&m,1401,9,new mexico,1307,11
+1658,texas a&m,1401,9,oregon,1332,11
+1659,texas a&m,1401,9,north carolina state,1301,11
+1660,texas a&m,1401,9,duquesne,1182,11
+1661,texas a&m,1401,9,mcneese,1270,12
+1662,texas a&m,1401,9,james madison,1241,12
+1663,texas a&m,1401,9,uab,1412,12
+1664,texas a&m,1401,9,grand canyon,1213,12
+1665,texas a&m,1401,9,samford,1359,13
+1666,texas a&m,1401,9,vermont,1436,13
+1667,texas a&m,1401,9,yale,1463,13
+1668,texas a&m,1401,9,charleston,1158,13
+1669,texas a&m,1401,9,oakland,1324,14
+1670,texas a&m,1401,9,akron,1103,14
+1671,texas a&m,1401,9,morehead state,1287,14
+1672,texas a&m,1401,9,colgate,1159,14
+1673,texas a&m,1401,9,long beach state,1253,15
+1674,texas a&m,1401,9,south dakota state,1355,15
+1675,texas a&m,1401,9,saint peter's,1389,15
+1676,texas a&m,1401,9,western kentucky,1443,15
+1677,texas a&m,1401,9,grambling state,1212,16
+1678,texas a&m,1401,9,stetson,1391,16
+1679,texas a&m,1401,9,howard,1224,16
+1680,texas a&m,1401,9,longwood,1255,16
+1681,texas a&m,1401,9,montana state,1286,16
+1682,texas a&m,1401,9,wagner,1447,16
+1683,northwestern,1321,9,michigan state,1277,9
+1684,northwestern,1321,9,tcu,1395,9
+1685,northwestern,1321,9,virginia,1438,10
+1686,northwestern,1321,9,colorado,1160,10
+1687,northwestern,1321,9,boise state,1129,10
+1688,northwestern,1321,9,drake,1179,10
+1689,northwestern,1321,9,nevada,1305,10
+1690,northwestern,1321,9,colorado state,1161,10
+1691,northwestern,1321,9,new mexico,1307,11
+1692,northwestern,1321,9,oregon,1332,11
+1693,northwestern,1321,9,north carolina state,1301,11
+1694,northwestern,1321,9,duquesne,1182,11
+1695,northwestern,1321,9,mcneese,1270,12
+1696,northwestern,1321,9,james madison,1241,12
+1697,northwestern,1321,9,uab,1412,12
+1698,northwestern,1321,9,grand canyon,1213,12
+1699,northwestern,1321,9,samford,1359,13
+1700,northwestern,1321,9,vermont,1436,13
+1701,northwestern,1321,9,yale,1463,13
+1702,northwestern,1321,9,charleston,1158,13
+1703,northwestern,1321,9,oakland,1324,14
+1704,northwestern,1321,9,akron,1103,14
+1705,northwestern,1321,9,morehead state,1287,14
+1706,northwestern,1321,9,colgate,1159,14
+1707,northwestern,1321,9,long beach state,1253,15
+1708,northwestern,1321,9,south dakota state,1355,15
+1709,northwestern,1321,9,saint peter's,1389,15
+1710,northwestern,1321,9,western kentucky,1443,15
+1711,northwestern,1321,9,grambling state,1212,16
+1712,northwestern,1321,9,stetson,1391,16
+1713,northwestern,1321,9,howard,1224,16
+1714,northwestern,1321,9,longwood,1255,16
+1715,northwestern,1321,9,montana state,1286,16
+1716,northwestern,1321,9,wagner,1447,16
+1717,michigan state,1277,9,tcu,1395,9
+1718,michigan state,1277,9,virginia,1438,10
+1719,michigan state,1277,9,colorado,1160,10
+1720,michigan state,1277,9,boise state,1129,10
+1721,michigan state,1277,9,drake,1179,10
+1722,michigan state,1277,9,nevada,1305,10
+1723,michigan state,1277,9,colorado state,1161,10
+1724,michigan state,1277,9,new mexico,1307,11
+1725,michigan state,1277,9,oregon,1332,11
+1726,michigan state,1277,9,north carolina state,1301,11
+1727,michigan state,1277,9,duquesne,1182,11
+1728,michigan state,1277,9,mcneese,1270,12
+1729,michigan state,1277,9,james madison,1241,12
+1730,michigan state,1277,9,uab,1412,12
+1731,michigan state,1277,9,grand canyon,1213,12
+1732,michigan state,1277,9,samford,1359,13
+1733,michigan state,1277,9,vermont,1436,13
+1734,michigan state,1277,9,yale,1463,13
+1735,michigan state,1277,9,charleston,1158,13
+1736,michigan state,1277,9,oakland,1324,14
+1737,michigan state,1277,9,akron,1103,14
+1738,michigan state,1277,9,morehead state,1287,14
+1739,michigan state,1277,9,colgate,1159,14
+1740,michigan state,1277,9,long beach state,1253,15
+1741,michigan state,1277,9,south dakota state,1355,15
+1742,michigan state,1277,9,saint peter's,1389,15
+1743,michigan state,1277,9,western kentucky,1443,15
+1744,michigan state,1277,9,grambling state,1212,16
+1745,michigan state,1277,9,stetson,1391,16
+1746,michigan state,1277,9,howard,1224,16
+1747,michigan state,1277,9,longwood,1255,16
+1748,michigan state,1277,9,montana state,1286,16
+1749,michigan state,1277,9,wagner,1447,16
+1750,tcu,1395,9,virginia,1438,10
+1751,tcu,1395,9,colorado,1160,10
+1752,tcu,1395,9,boise state,1129,10
+1753,tcu,1395,9,drake,1179,10
+1754,tcu,1395,9,nevada,1305,10
+1755,tcu,1395,9,colorado state,1161,10
+1756,tcu,1395,9,new mexico,1307,11
+1757,tcu,1395,9,oregon,1332,11
+1758,tcu,1395,9,north carolina state,1301,11
+1759,tcu,1395,9,duquesne,1182,11
+1760,tcu,1395,9,mcneese,1270,12
+1761,tcu,1395,9,james madison,1241,12
+1762,tcu,1395,9,uab,1412,12
+1763,tcu,1395,9,grand canyon,1213,12
+1764,tcu,1395,9,samford,1359,13
+1765,tcu,1395,9,vermont,1436,13
+1766,tcu,1395,9,yale,1463,13
+1767,tcu,1395,9,charleston,1158,13
+1768,tcu,1395,9,oakland,1324,14
+1769,tcu,1395,9,akron,1103,14
+1770,tcu,1395,9,morehead state,1287,14
+1771,tcu,1395,9,colgate,1159,14
+1772,tcu,1395,9,long beach state,1253,15
+1773,tcu,1395,9,south dakota state,1355,15
+1774,tcu,1395,9,saint peter's,1389,15
+1775,tcu,1395,9,western kentucky,1443,15
+1776,tcu,1395,9,grambling state,1212,16
+1777,tcu,1395,9,stetson,1391,16
+1778,tcu,1395,9,howard,1224,16
+1779,tcu,1395,9,longwood,1255,16
+1780,tcu,1395,9,montana state,1286,16
+1781,tcu,1395,9,wagner,1447,16
+1782,virginia,1438,10,colorado,1160,10
+1783,virginia,1438,10,boise state,1129,10
+1784,virginia,1438,10,drake,1179,10
+1785,virginia,1438,10,nevada,1305,10
+1786,virginia,1438,10,colorado state,1161,10
+1787,virginia,1438,10,new mexico,1307,11
+1788,virginia,1438,10,oregon,1332,11
+1789,virginia,1438,10,north carolina state,1301,11
+1790,virginia,1438,10,duquesne,1182,11
+1791,virginia,1438,10,mcneese,1270,12
+1792,virginia,1438,10,james madison,1241,12
+1793,virginia,1438,10,uab,1412,12
+1794,virginia,1438,10,grand canyon,1213,12
+1795,virginia,1438,10,samford,1359,13
+1796,virginia,1438,10,vermont,1436,13
+1797,virginia,1438,10,yale,1463,13
+1798,virginia,1438,10,charleston,1158,13
+1799,virginia,1438,10,oakland,1324,14
+1800,virginia,1438,10,akron,1103,14
+1801,virginia,1438,10,morehead state,1287,14
+1802,virginia,1438,10,colgate,1159,14
+1803,virginia,1438,10,long beach state,1253,15
+1804,virginia,1438,10,south dakota state,1355,15
+1805,virginia,1438,10,saint peter's,1389,15
+1806,virginia,1438,10,western kentucky,1443,15
+1807,virginia,1438,10,grambling state,1212,16
+1808,virginia,1438,10,stetson,1391,16
+1809,virginia,1438,10,howard,1224,16
+1810,virginia,1438,10,longwood,1255,16
+1811,virginia,1438,10,montana state,1286,16
+1812,virginia,1438,10,wagner,1447,16
+1813,colorado,1160,10,boise state,1129,10
+1814,colorado,1160,10,drake,1179,10
+1815,colorado,1160,10,nevada,1305,10
+1816,colorado,1160,10,colorado state,1161,10
+1817,colorado,1160,10,new mexico,1307,11
+1818,colorado,1160,10,oregon,1332,11
+1819,colorado,1160,10,north carolina state,1301,11
+1820,colorado,1160,10,duquesne,1182,11
+1821,colorado,1160,10,mcneese,1270,12
+1822,colorado,1160,10,james madison,1241,12
+1823,colorado,1160,10,uab,1412,12
+1824,colorado,1160,10,grand canyon,1213,12
+1825,colorado,1160,10,samford,1359,13
+1826,colorado,1160,10,vermont,1436,13
+1827,colorado,1160,10,yale,1463,13
+1828,colorado,1160,10,charleston,1158,13
+1829,colorado,1160,10,oakland,1324,14
+1830,colorado,1160,10,akron,1103,14
+1831,colorado,1160,10,morehead state,1287,14
+1832,colorado,1160,10,colgate,1159,14
+1833,colorado,1160,10,long beach state,1253,15
+1834,colorado,1160,10,south dakota state,1355,15
+1835,colorado,1160,10,saint peter's,1389,15
+1836,colorado,1160,10,western kentucky,1443,15
+1837,colorado,1160,10,grambling state,1212,16
+1838,colorado,1160,10,stetson,1391,16
+1839,colorado,1160,10,howard,1224,16
+1840,colorado,1160,10,longwood,1255,16
+1841,colorado,1160,10,montana state,1286,16
+1842,colorado,1160,10,wagner,1447,16
+1843,boise state,1129,10,drake,1179,10
+1844,boise state,1129,10,nevada,1305,10
+1845,boise state,1129,10,colorado state,1161,10
+1846,boise state,1129,10,new mexico,1307,11
+1847,boise state,1129,10,oregon,1332,11
+1848,boise state,1129,10,north carolina state,1301,11
+1849,boise state,1129,10,duquesne,1182,11
+1850,boise state,1129,10,mcneese,1270,12
+1851,boise state,1129,10,james madison,1241,12
+1852,boise state,1129,10,uab,1412,12
+1853,boise state,1129,10,grand canyon,1213,12
+1854,boise state,1129,10,samford,1359,13
+1855,boise state,1129,10,vermont,1436,13
+1856,boise state,1129,10,yale,1463,13
+1857,boise state,1129,10,charleston,1158,13
+1858,boise state,1129,10,oakland,1324,14
+1859,boise state,1129,10,akron,1103,14
+1860,boise state,1129,10,morehead state,1287,14
+1861,boise state,1129,10,colgate,1159,14
+1862,boise state,1129,10,long beach state,1253,15
+1863,boise state,1129,10,south dakota state,1355,15
+1864,boise state,1129,10,saint peter's,1389,15
+1865,boise state,1129,10,western kentucky,1443,15
+1866,boise state,1129,10,grambling state,1212,16
+1867,boise state,1129,10,stetson,1391,16
+1868,boise state,1129,10,howard,1224,16
+1869,boise state,1129,10,longwood,1255,16
+1870,boise state,1129,10,montana state,1286,16
+1871,boise state,1129,10,wagner,1447,16
+1872,drake,1179,10,nevada,1305,10
+1873,drake,1179,10,colorado state,1161,10
+1874,drake,1179,10,new mexico,1307,11
+1875,drake,1179,10,oregon,1332,11
+1876,drake,1179,10,north carolina state,1301,11
+1877,drake,1179,10,duquesne,1182,11
+1878,drake,1179,10,mcneese,1270,12
+1879,drake,1179,10,james madison,1241,12
+1880,drake,1179,10,uab,1412,12
+1881,drake,1179,10,grand canyon,1213,12
+1882,drake,1179,10,samford,1359,13
+1883,drake,1179,10,vermont,1436,13
+1884,drake,1179,10,yale,1463,13
+1885,drake,1179,10,charleston,1158,13
+1886,drake,1179,10,oakland,1324,14
+1887,drake,1179,10,akron,1103,14
+1888,drake,1179,10,morehead state,1287,14
+1889,drake,1179,10,colgate,1159,14
+1890,drake,1179,10,long beach state,1253,15
+1891,drake,1179,10,south dakota state,1355,15
+1892,drake,1179,10,saint peter's,1389,15
+1893,drake,1179,10,western kentucky,1443,15
+1894,drake,1179,10,grambling state,1212,16
+1895,drake,1179,10,stetson,1391,16
+1896,drake,1179,10,howard,1224,16
+1897,drake,1179,10,longwood,1255,16
+1898,drake,1179,10,montana state,1286,16
+1899,drake,1179,10,wagner,1447,16
+1900,nevada,1305,10,colorado state,1161,10
+1901,nevada,1305,10,new mexico,1307,11
+1902,nevada,1305,10,oregon,1332,11
+1903,nevada,1305,10,north carolina state,1301,11
+1904,nevada,1305,10,duquesne,1182,11
+1905,nevada,1305,10,mcneese,1270,12
+1906,nevada,1305,10,james madison,1241,12
+1907,nevada,1305,10,uab,1412,12
+1908,nevada,1305,10,grand canyon,1213,12
+1909,nevada,1305,10,samford,1359,13
+1910,nevada,1305,10,vermont,1436,13
+1911,nevada,1305,10,yale,1463,13
+1912,nevada,1305,10,charleston,1158,13
+1913,nevada,1305,10,oakland,1324,14
+1914,nevada,1305,10,akron,1103,14
+1915,nevada,1305,10,morehead state,1287,14
+1916,nevada,1305,10,colgate,1159,14
+1917,nevada,1305,10,long beach state,1253,15
+1918,nevada,1305,10,south dakota state,1355,15
+1919,nevada,1305,10,saint peter's,1389,15
+1920,nevada,1305,10,western kentucky,1443,15
+1921,nevada,1305,10,grambling state,1212,16
+1922,nevada,1305,10,stetson,1391,16
+1923,nevada,1305,10,howard,1224,16
+1924,nevada,1305,10,longwood,1255,16
+1925,nevada,1305,10,montana state,1286,16
+1926,nevada,1305,10,wagner,1447,16
+1927,colorado state,1161,10,new mexico,1307,11
+1928,colorado state,1161,10,oregon,1332,11
+1929,colorado state,1161,10,north carolina state,1301,11
+1930,colorado state,1161,10,duquesne,1182,11
+1931,colorado state,1161,10,mcneese,1270,12
+1932,colorado state,1161,10,james madison,1241,12
+1933,colorado state,1161,10,uab,1412,12
+1934,colorado state,1161,10,grand canyon,1213,12
+1935,colorado state,1161,10,samford,1359,13
+1936,colorado state,1161,10,vermont,1436,13
+1937,colorado state,1161,10,yale,1463,13
+1938,colorado state,1161,10,charleston,1158,13
+1939,colorado state,1161,10,oakland,1324,14
+1940,colorado state,1161,10,akron,1103,14
+1941,colorado state,1161,10,morehead state,1287,14
+1942,colorado state,1161,10,colgate,1159,14
+1943,colorado state,1161,10,long beach state,1253,15
+1944,colorado state,1161,10,south dakota state,1355,15
+1945,colorado state,1161,10,saint peter's,1389,15
+1946,colorado state,1161,10,western kentucky,1443,15
+1947,colorado state,1161,10,grambling state,1212,16
+1948,colorado state,1161,10,stetson,1391,16
+1949,colorado state,1161,10,howard,1224,16
+1950,colorado state,1161,10,longwood,1255,16
+1951,colorado state,1161,10,montana state,1286,16
+1952,colorado state,1161,10,wagner,1447,16
+1953,new mexico,1307,11,oregon,1332,11
+1954,new mexico,1307,11,north carolina state,1301,11
+1955,new mexico,1307,11,duquesne,1182,11
+1956,new mexico,1307,11,mcneese,1270,12
+1957,new mexico,1307,11,james madison,1241,12
+1958,new mexico,1307,11,uab,1412,12
+1959,new mexico,1307,11,grand canyon,1213,12
+1960,new mexico,1307,11,samford,1359,13
+1961,new mexico,1307,11,vermont,1436,13
+1962,new mexico,1307,11,yale,1463,13
+1963,new mexico,1307,11,charleston,1158,13
+1964,new mexico,1307,11,oakland,1324,14
+1965,new mexico,1307,11,akron,1103,14
+1966,new mexico,1307,11,morehead state,1287,14
+1967,new mexico,1307,11,colgate,1159,14
+1968,new mexico,1307,11,long beach state,1253,15
+1969,new mexico,1307,11,south dakota state,1355,15
+1970,new mexico,1307,11,saint peter's,1389,15
+1971,new mexico,1307,11,western kentucky,1443,15
+1972,new mexico,1307,11,grambling state,1212,16
+1973,new mexico,1307,11,stetson,1391,16
+1974,new mexico,1307,11,howard,1224,16
+1975,new mexico,1307,11,longwood,1255,16
+1976,new mexico,1307,11,montana state,1286,16
+1977,new mexico,1307,11,wagner,1447,16
+1978,oregon,1332,11,north carolina state,1301,11
+1979,oregon,1332,11,duquesne,1182,11
+1980,oregon,1332,11,mcneese,1270,12
+1981,oregon,1332,11,james madison,1241,12
+1982,oregon,1332,11,uab,1412,12
+1983,oregon,1332,11,grand canyon,1213,12
+1984,oregon,1332,11,samford,1359,13
+1985,oregon,1332,11,vermont,1436,13
+1986,oregon,1332,11,yale,1463,13
+1987,oregon,1332,11,charleston,1158,13
+1988,oregon,1332,11,oakland,1324,14
+1989,oregon,1332,11,akron,1103,14
+1990,oregon,1332,11,morehead state,1287,14
+1991,oregon,1332,11,colgate,1159,14
+1992,oregon,1332,11,long beach state,1253,15
+1993,oregon,1332,11,south dakota state,1355,15
+1994,oregon,1332,11,saint peter's,1389,15
+1995,oregon,1332,11,western kentucky,1443,15
+1996,oregon,1332,11,grambling state,1212,16
+1997,oregon,1332,11,stetson,1391,16
+1998,oregon,1332,11,howard,1224,16
+1999,oregon,1332,11,longwood,1255,16
+2000,oregon,1332,11,montana state,1286,16
+2001,oregon,1332,11,wagner,1447,16
+2002,north carolina state,1301,11,duquesne,1182,11
+2003,north carolina state,1301,11,mcneese,1270,12
+2004,north carolina state,1301,11,james madison,1241,12
+2005,north carolina state,1301,11,uab,1412,12
+2006,north carolina state,1301,11,grand canyon,1213,12
+2007,north carolina state,1301,11,samford,1359,13
+2008,north carolina state,1301,11,vermont,1436,13
+2009,north carolina state,1301,11,yale,1463,13
+2010,north carolina state,1301,11,charleston,1158,13
+2011,north carolina state,1301,11,oakland,1324,14
+2012,north carolina state,1301,11,akron,1103,14
+2013,north carolina state,1301,11,morehead state,1287,14
+2014,north carolina state,1301,11,colgate,1159,14
+2015,north carolina state,1301,11,long beach state,1253,15
+2016,north carolina state,1301,11,south dakota state,1355,15
+2017,north carolina state,1301,11,saint peter's,1389,15
+2018,north carolina state,1301,11,western kentucky,1443,15
+2019,north carolina state,1301,11,grambling state,1212,16
+2020,north carolina state,1301,11,stetson,1391,16
+2021,north carolina state,1301,11,howard,1224,16
+2022,north carolina state,1301,11,longwood,1255,16
+2023,north carolina state,1301,11,montana state,1286,16
+2024,north carolina state,1301,11,wagner,1447,16
+2025,duquesne,1182,11,mcneese,1270,12
+2026,duquesne,1182,11,james madison,1241,12
+2027,duquesne,1182,11,uab,1412,12
+2028,duquesne,1182,11,grand canyon,1213,12
+2029,duquesne,1182,11,samford,1359,13
+2030,duquesne,1182,11,vermont,1436,13
+2031,duquesne,1182,11,yale,1463,13
+2032,duquesne,1182,11,charleston,1158,13
+2033,duquesne,1182,11,oakland,1324,14
+2034,duquesne,1182,11,akron,1103,14
+2035,duquesne,1182,11,morehead state,1287,14
+2036,duquesne,1182,11,colgate,1159,14
+2037,duquesne,1182,11,long beach state,1253,15
+2038,duquesne,1182,11,south dakota state,1355,15
+2039,duquesne,1182,11,saint peter's,1389,15
+2040,duquesne,1182,11,western kentucky,1443,15
+2041,duquesne,1182,11,grambling state,1212,16
+2042,duquesne,1182,11,stetson,1391,16
+2043,duquesne,1182,11,howard,1224,16
+2044,duquesne,1182,11,longwood,1255,16
+2045,duquesne,1182,11,montana state,1286,16
+2046,duquesne,1182,11,wagner,1447,16
+2047,mcneese,1270,12,james madison,1241,12
+2048,mcneese,1270,12,uab,1412,12
+2049,mcneese,1270,12,grand canyon,1213,12
+2050,mcneese,1270,12,samford,1359,13
+2051,mcneese,1270,12,vermont,1436,13
+2052,mcneese,1270,12,yale,1463,13
+2053,mcneese,1270,12,charleston,1158,13
+2054,mcneese,1270,12,oakland,1324,14
+2055,mcneese,1270,12,akron,1103,14
+2056,mcneese,1270,12,morehead state,1287,14
+2057,mcneese,1270,12,colgate,1159,14
+2058,mcneese,1270,12,long beach state,1253,15
+2059,mcneese,1270,12,south dakota state,1355,15
+2060,mcneese,1270,12,saint peter's,1389,15
+2061,mcneese,1270,12,western kentucky,1443,15
+2062,mcneese,1270,12,grambling state,1212,16
+2063,mcneese,1270,12,stetson,1391,16
+2064,mcneese,1270,12,howard,1224,16
+2065,mcneese,1270,12,longwood,1255,16
+2066,mcneese,1270,12,montana state,1286,16
+2067,mcneese,1270,12,wagner,1447,16
+2068,james madison,1241,12,uab,1412,12
+2069,james madison,1241,12,grand canyon,1213,12
+2070,james madison,1241,12,samford,1359,13
+2071,james madison,1241,12,vermont,1436,13
+2072,james madison,1241,12,yale,1463,13
+2073,james madison,1241,12,charleston,1158,13
+2074,james madison,1241,12,oakland,1324,14
+2075,james madison,1241,12,akron,1103,14
+2076,james madison,1241,12,morehead state,1287,14
+2077,james madison,1241,12,colgate,1159,14
+2078,james madison,1241,12,long beach state,1253,15
+2079,james madison,1241,12,south dakota state,1355,15
+2080,james madison,1241,12,saint peter's,1389,15
+2081,james madison,1241,12,western kentucky,1443,15
+2082,james madison,1241,12,grambling state,1212,16
+2083,james madison,1241,12,stetson,1391,16
+2084,james madison,1241,12,howard,1224,16
+2085,james madison,1241,12,longwood,1255,16
+2086,james madison,1241,12,montana state,1286,16
+2087,james madison,1241,12,wagner,1447,16
+2088,uab,1412,12,grand canyon,1213,12
+2089,uab,1412,12,samford,1359,13
+2090,uab,1412,12,vermont,1436,13
+2091,uab,1412,12,yale,1463,13
+2092,uab,1412,12,charleston,1158,13
+2093,uab,1412,12,oakland,1324,14
+2094,uab,1412,12,akron,1103,14
+2095,uab,1412,12,morehead state,1287,14
+2096,uab,1412,12,colgate,1159,14
+2097,uab,1412,12,long beach state,1253,15
+2098,uab,1412,12,south dakota state,1355,15
+2099,uab,1412,12,saint peter's,1389,15
+2100,uab,1412,12,western kentucky,1443,15
+2101,uab,1412,12,grambling state,1212,16
+2102,uab,1412,12,stetson,1391,16
+2103,uab,1412,12,howard,1224,16
+2104,uab,1412,12,longwood,1255,16
+2105,uab,1412,12,montana state,1286,16
+2106,uab,1412,12,wagner,1447,16
+2107,grand canyon,1213,12,samford,1359,13
+2108,grand canyon,1213,12,vermont,1436,13
+2109,grand canyon,1213,12,yale,1463,13
+2110,grand canyon,1213,12,charleston,1158,13
+2111,grand canyon,1213,12,oakland,1324,14
+2112,grand canyon,1213,12,akron,1103,14
+2113,grand canyon,1213,12,morehead state,1287,14
+2114,grand canyon,1213,12,colgate,1159,14
+2115,grand canyon,1213,12,long beach state,1253,15
+2116,grand canyon,1213,12,south dakota state,1355,15
+2117,grand canyon,1213,12,saint peter's,1389,15
+2118,grand canyon,1213,12,western kentucky,1443,15
+2119,grand canyon,1213,12,grambling state,1212,16
+2120,grand canyon,1213,12,stetson,1391,16
+2121,grand canyon,1213,12,howard,1224,16
+2122,grand canyon,1213,12,longwood,1255,16
+2123,grand canyon,1213,12,montana state,1286,16
+2124,grand canyon,1213,12,wagner,1447,16
+2125,samford,1359,13,vermont,1436,13
+2126,samford,1359,13,yale,1463,13
+2127,samford,1359,13,charleston,1158,13
+2128,samford,1359,13,oakland,1324,14
+2129,samford,1359,13,akron,1103,14
+2130,samford,1359,13,morehead state,1287,14
+2131,samford,1359,13,colgate,1159,14
+2132,samford,1359,13,long beach state,1253,15
+2133,samford,1359,13,south dakota state,1355,15
+2134,samford,1359,13,saint peter's,1389,15
+2135,samford,1359,13,western kentucky,1443,15
+2136,samford,1359,13,grambling state,1212,16
+2137,samford,1359,13,stetson,1391,16
+2138,samford,1359,13,howard,1224,16
+2139,samford,1359,13,longwood,1255,16
+2140,samford,1359,13,montana state,1286,16
+2141,samford,1359,13,wagner,1447,16
+2142,vermont,1436,13,yale,1463,13
+2143,vermont,1436,13,charleston,1158,13
+2144,vermont,1436,13,oakland,1324,14
+2145,vermont,1436,13,akron,1103,14
+2146,vermont,1436,13,morehead state,1287,14
+2147,vermont,1436,13,colgate,1159,14
+2148,vermont,1436,13,long beach state,1253,15
+2149,vermont,1436,13,south dakota state,1355,15
+2150,vermont,1436,13,saint peter's,1389,15
+2151,vermont,1436,13,western kentucky,1443,15
+2152,vermont,1436,13,grambling state,1212,16
+2153,vermont,1436,13,stetson,1391,16
+2154,vermont,1436,13,howard,1224,16
+2155,vermont,1436,13,longwood,1255,16
+2156,vermont,1436,13,montana state,1286,16
+2157,vermont,1436,13,wagner,1447,16
+2158,yale,1463,13,charleston,1158,13
+2159,yale,1463,13,oakland,1324,14
+2160,yale,1463,13,akron,1103,14
+2161,yale,1463,13,morehead state,1287,14
+2162,yale,1463,13,colgate,1159,14
+2163,yale,1463,13,long beach state,1253,15
+2164,yale,1463,13,south dakota state,1355,15
+2165,yale,1463,13,saint peter's,1389,15
+2166,yale,1463,13,western kentucky,1443,15
+2167,yale,1463,13,grambling state,1212,16
+2168,yale,1463,13,stetson,1391,16
+2169,yale,1463,13,howard,1224,16
+2170,yale,1463,13,longwood,1255,16
+2171,yale,1463,13,montana state,1286,16
+2172,yale,1463,13,wagner,1447,16
+2173,charleston,1158,13,oakland,1324,14
+2174,charleston,1158,13,akron,1103,14
+2175,charleston,1158,13,morehead state,1287,14
+2176,charleston,1158,13,colgate,1159,14
+2177,charleston,1158,13,long beach state,1253,15
+2178,charleston,1158,13,south dakota state,1355,15
+2179,charleston,1158,13,saint peter's,1389,15
+2180,charleston,1158,13,western kentucky,1443,15
+2181,charleston,1158,13,grambling state,1212,16
+2182,charleston,1158,13,stetson,1391,16
+2183,charleston,1158,13,howard,1224,16
+2184,charleston,1158,13,longwood,1255,16
+2185,charleston,1158,13,montana state,1286,16
+2186,charleston,1158,13,wagner,1447,16
+2187,oakland,1324,14,akron,1103,14
+2188,oakland,1324,14,morehead state,1287,14
+2189,oakland,1324,14,colgate,1159,14
+2190,oakland,1324,14,long beach state,1253,15
+2191,oakland,1324,14,south dakota state,1355,15
+2192,oakland,1324,14,saint peter's,1389,15
+2193,oakland,1324,14,western kentucky,1443,15
+2194,oakland,1324,14,grambling state,1212,16
+2195,oakland,1324,14,stetson,1391,16
+2196,oakland,1324,14,howard,1224,16
+2197,oakland,1324,14,longwood,1255,16
+2198,oakland,1324,14,montana state,1286,16
+2199,oakland,1324,14,wagner,1447,16
+2200,akron,1103,14,morehead state,1287,14
+2201,akron,1103,14,colgate,1159,14
+2202,akron,1103,14,long beach state,1253,15
+2203,akron,1103,14,south dakota state,1355,15
+2204,akron,1103,14,saint peter's,1389,15
+2205,akron,1103,14,western kentucky,1443,15
+2206,akron,1103,14,grambling state,1212,16
+2207,akron,1103,14,stetson,1391,16
+2208,akron,1103,14,howard,1224,16
+2209,akron,1103,14,longwood,1255,16
+2210,akron,1103,14,montana state,1286,16
+2211,akron,1103,14,wagner,1447,16
+2212,morehead state,1287,14,colgate,1159,14
+2213,morehead state,1287,14,long beach state,1253,15
+2214,morehead state,1287,14,south dakota state,1355,15
+2215,morehead state,1287,14,saint peter's,1389,15
+2216,morehead state,1287,14,western kentucky,1443,15
+2217,morehead state,1287,14,grambling state,1212,16
+2218,morehead state,1287,14,stetson,1391,16
+2219,morehead state,1287,14,howard,1224,16
+2220,morehead state,1287,14,longwood,1255,16
+2221,morehead state,1287,14,montana state,1286,16
+2222,morehead state,1287,14,wagner,1447,16
+2223,colgate,1159,14,long beach state,1253,15
+2224,colgate,1159,14,south dakota state,1355,15
+2225,colgate,1159,14,saint peter's,1389,15
+2226,colgate,1159,14,western kentucky,1443,15
+2227,colgate,1159,14,grambling state,1212,16
+2228,colgate,1159,14,stetson,1391,16
+2229,colgate,1159,14,howard,1224,16
+2230,colgate,1159,14,longwood,1255,16
+2231,colgate,1159,14,montana state,1286,16
+2232,colgate,1159,14,wagner,1447,16
+2233,long beach state,1253,15,south dakota state,1355,15
+2234,long beach state,1253,15,saint peter's,1389,15
+2235,long beach state,1253,15,western kentucky,1443,15
+2236,long beach state,1253,15,grambling state,1212,16
+2237,long beach state,1253,15,stetson,1391,16
+2238,long beach state,1253,15,howard,1224,16
+2239,long beach state,1253,15,longwood,1255,16
+2240,long beach state,1253,15,montana state,1286,16
+2241,long beach state,1253,15,wagner,1447,16
+2242,south dakota state,1355,15,saint peter's,1389,15
+2243,south dakota state,1355,15,western kentucky,1443,15
+2244,south dakota state,1355,15,grambling state,1212,16
+2245,south dakota state,1355,15,stetson,1391,16
+2246,south dakota state,1355,15,howard,1224,16
+2247,south dakota state,1355,15,longwood,1255,16
+2248,south dakota state,1355,15,montana state,1286,16
+2249,south dakota state,1355,15,wagner,1447,16
+2250,saint peter's,1389,15,western kentucky,1443,15
+2251,saint peter's,1389,15,grambling state,1212,16
+2252,saint peter's,1389,15,stetson,1391,16
+2253,saint peter's,1389,15,howard,1224,16
+2254,saint peter's,1389,15,longwood,1255,16
+2255,saint peter's,1389,15,montana state,1286,16
+2256,saint peter's,1389,15,wagner,1447,16
+2257,western kentucky,1443,15,grambling state,1212,16
+2258,western kentucky,1443,15,stetson,1391,16
+2259,western kentucky,1443,15,howard,1224,16
+2260,western kentucky,1443,15,longwood,1255,16
+2261,western kentucky,1443,15,montana state,1286,16
+2262,western kentucky,1443,15,wagner,1447,16
+2263,grambling state,1212,16,stetson,1391,16
+2264,grambling state,1212,16,howard,1224,16
+2265,grambling state,1212,16,longwood,1255,16
+2266,grambling state,1212,16,montana state,1286,16
+2267,grambling state,1212,16,wagner,1447,16
+2268,stetson,1391,16,howard,1224,16
+2269,stetson,1391,16,longwood,1255,16
+2270,stetson,1391,16,montana state,1286,16
+2271,stetson,1391,16,wagner,1447,16
+2272,howard,1224,16,longwood,1255,16
+2273,howard,1224,16,montana state,1286,16
+2274,howard,1224,16,wagner,1447,16
+2275,longwood,1255,16,montana state,1286,16
+2276,longwood,1255,16,wagner,1447,16
+2277,montana state,1286,16,wagner,1447,16

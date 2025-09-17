@@ -1,15 +1,31 @@
+---
+layout: compress
+---
+
+{% include base_path %}
+
 <!doctype html>
-<html lang="en">
-<head>
-  {% include head.html %}
-</head>
-<body>
-  <header>{% include header.html %}</header>
-  <nav aria-label="Primary">{% include nav.html %}</nav>
-  <main id="content" role="main">
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body>
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
     {{ content }}
-  </main>
-  <footer>{% include footer.html %}</footer>
-  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
-</body>
+
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
+    </div>
+
+    {% include scripts.html %}
+
+  </body>
 </html>
