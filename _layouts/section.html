@@ -1,0 +1,46 @@
+---
+layout: default
+---
+
+{% comment %}
+Derive the section key from the folder (e.g., "/meetings/") unless
+overridden with `section:` in the page front matter.
+{% endcomment %}
+{% assign section_key = page.section | default: page.url | remove_first: '/' | split: '/' | first %}
+
+<h1>{{ page.title | default: section_key | capitalize }}</h1>
+
+{%- comment -%}
+Posts: anything in _posts with `categories` that includes section_key.
+Tip: putting posts under `_posts/meetings/` auto-assigns the "meetings" category.
+{%- endcomment -%}
+{% assign posts_in_section = site.posts | where_exp: "post", "post.categories contains section_key" %}
+
+{% if posts_in_section == empty %}
+  <p>No posts in this section yet.</p>
+{% else %}
+  <ul class="post-list">
+  {% for post in posts_in_section %}
+    <li>
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+      — <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      {% if post.excerpt %}
+        <div class="excerpt">{{ post.excerpt | strip_html | truncate: 160 }}</div>
+      {% endif %}
+    </li>
+  {% endfor %}
+  </ul>
+{% endif %}
+
+{%- comment -%}
+Pages: any markdown pages that live beneath this folder (e.g., /meetings/foo/).
+{%- endcomment -%}
+{% assign child_pages = site.pages | where_exp: "p", "p.url != page.url and p.url contains page.url" | sort: "title" %}
+{% if child_pages and child_pages.size > 0 %}
+  <h2>Pages</h2>
+  <ul class="page-list">
+    {% for p in child_pages %}
+      <li><a href="{{ p.url | relative_url }}">{{ p.title | default: p.url }}</a></li>
+    {% endfor %}
+  </ul>
+{% endif %}
