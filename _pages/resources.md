@@ -38,6 +38,7 @@ author_profile: true
 
 - [BaseballCV](https://github.com/dylandru/BaseballCV/tree/main)
     - YOLO computer vision library for baseball
+
 ## R Packages
 
 - [nflfastR](https://www.nflfastr.com/)
@@ -79,10 +80,10 @@ author_profile: true
 - [Player tracking: wrangling, Voronoi & sonars (Michael Lopez)](https://www.kaggle.com/code/statsbymichaellopez/nfl-tracking-wrangling-voronoi-and-sonars)
 - [Modeling with Transformers (Sumersports)](https://www.kaggle.com/code/pvabish/modeling-with-transformers-by-sumersports)
 - [Using Data to Determine Blitz Strategy](https://www.kaggle.com/code/dominicborsani/using-data-to-determine-blitz-strategy/notebook)
-- [Advice from Professor Sameer Deshpande](/2024/11/07/11-07-24-meeting/)
+- [Advice from Professor Sameer Deshpande](/Meetings/2024/FA/Meeting-11-07/)
 - [Sameer Deshpande’s 2019 submission (EHCP model)](https://skdeshpande91.github.io/publications/2019-10-27-ehcp)
 
 ### Workshops
 
-- [NFL Data Visualization Workshop](workshop/2023/FA/DataVisuilization)
-- [Football Machine Learning Workshop](workshop/2024/FA/FootballML)
+- [NFL Data Visualization Workshop](/workshop/2023/FA/DataVisuilization)
+- [Football Machine Learning Workshop](/workshop/2024/FA/FootballML)
