@@ -6,6 +6,7 @@ collection: Meeting Notes
 type: "Weekly Meetings"
 venue: "Spring 2024"
 location: "Madison, Wisconsin"
+excerpt: ""
 ---
 
 Presidental Election 
