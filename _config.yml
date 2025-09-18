@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wisconsin SAC"
+  name             : "Sports Analytics Club, UW - Madison"
   avatar           : "new_logo.png"
   bio              : "Publishing analytical, data driven insights of sports today"
   location         : "University of Wisconsin - Madison"
@@ -98,7 +98,7 @@ author:
   github           : "wiscosac"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "wiso_sac"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :

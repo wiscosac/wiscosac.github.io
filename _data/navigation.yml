@@ -22,12 +22,10 @@ main:
     url: /workshops/
   
   - title: "Resources"
-    subfolderitems:
-      - page: "Data Resources"
-        url: /resources/
-      - page: "What is Sports Analytics?"
-        url: /what-is-sports-analytics/
-      - page: "Big Data Bowl Resources"
-        url: /big-data-bowl-resources/
+    url: /resources/
+  
+  - title: "What is Sports Analytics?"
+    url: /what-is-sports-analytics/
+
     
     
