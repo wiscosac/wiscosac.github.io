@@ -1,12 +1,12 @@
 ---
 title: 'Meeting 04/23/2024'
 date: 2024-04-23
-permalink: /posts/2024/04/Meeting-04-23/
+permalink: /Meeting/2024/SP/Meeting-04-23/
 collection: Meeting Notes
 type: "Weekly Meetings"
 venue: "Spring 2024"
 location: "Madison, Wisconsin"
-excerpt: ""
+excerpt: "Election and summers ideas."
 ---
 
 Presidental Election 

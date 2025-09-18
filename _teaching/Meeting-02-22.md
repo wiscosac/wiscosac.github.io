@@ -1,11 +1,12 @@
 ---
 title: 'Meeting 02/22/2024'
 date: 2024-02-22
-permalink: /posts/2024/02/Meeting-02-22/
+permalink: /Meetings/2024/SP/Meeting-02-22/
 collection: Meeting Notes
 type: "Weekly Meetings"
 venue: "Spring 2024"
 location: "Madison, Wisconsin"
+excerpt: "NCAA Mens Basketball Tournement"
 ---
 
 NCAA Mens Basketball Game Data 

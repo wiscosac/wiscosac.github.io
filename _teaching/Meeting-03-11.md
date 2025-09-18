@@ -1,11 +1,12 @@
 ---
 title: 'Meeting 03/11/2024'
 date: 2024-03-11
-permalink: /posts/2024/03/Meeting-03-11/
+permalink: /Meeting/2024/SP/Meeting-03-11/
 collection: Meeting Notes
 type: "Weekly Meetings"
 venue: "Spring 2024"
 location: "Madison, Wisconsin"
+excerpt: "Machine Learning Workshop"
 ---
 
 Machine Learning workshop
