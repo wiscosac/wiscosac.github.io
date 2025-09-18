@@ -6,9 +6,6 @@ main:
   #- title: "Talks"
   #  url: /talks/    
 
- #- title: "Member Projects"
-  #  url: /member-projects/
-
  # - title: "Calendar"
   #  url: /calender/
     
@@ -17,9 +14,10 @@ main:
 
   - title: "Leadership Team"
     url: /team/
-    
-  - title: "March Madness Data Challenge"
-    url: /march-madness/
 
-  - title: "NFL Data Visualization Workshop"
-    url: /nfl-data/
+  - title: "Projects"
+    url: /projects/
+    
+  - title: "Workshops and Challenges"
+    url: /workshops/
+    
