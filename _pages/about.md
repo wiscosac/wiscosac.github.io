@@ -12,6 +12,15 @@ redirect_from:
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<style> /*###############################################################################*/
+      body {
+        background-image: url('https://wiscosac.wordpress.com/wp-content/uploads/2024/05/aerial-camp-randall-stadium-2023-10-14ad-8465.jpg'); /* Replace 'your-image.jpg' with your image path */
+		filter: grayscale(70%);
+        background-repeat: no-repeat; /* Prevents the image from repeating */
+        background-size: cover; /* Scales the image to cover the entire background */
+        background-position: center; /* Centers the image */
+      }
+    </style>
 <meta name="robots" content="max-image-preview:large">
 	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
 	<title>wiscosac</title>
