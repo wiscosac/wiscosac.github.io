@@ -10,14 +10,23 @@ main:
   #  url: /calender/
     
   - title: "Past Meetings"
-    url: /teaching/
+    url: /meetings/
 
   - title: "Leadership Team"
     url: /team/
 
   - title: "Projects"
     url: /projects/
-    
+
   - title: "Workshops and Challenges"
     url: /workshops/
+  
+  - title: "Resources"
+    url: /resources/
+    children:
+      - title: "What is Sports Analytics?"
+        url: /what-is-sports-analytics/
+      - title: "Big Data Bowl Resources"
+        url: /big-data-bowl-resources/
+    
     
