@@ -4,6 +4,7 @@ date: 2024-03-11
 collection: talks
 type: "Spring 2024"
 permalink: /Challenge/2024/SP/MarchMadness
+excerpt: ""
 ---
 ### Hosted by Sports Analytics Club, UW-Madison 
 

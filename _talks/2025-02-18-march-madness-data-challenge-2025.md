@@ -4,6 +4,7 @@ date: 2025-02-18
 collection: talks
 type: "Spring 2025"
 permalink: /Challenge/2025/SP/MarchMadness
+excerpt: ""
 ---
 Due Date: Mar 20, 2025 8:30 AM
 

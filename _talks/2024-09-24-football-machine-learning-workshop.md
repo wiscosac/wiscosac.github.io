@@ -4,6 +4,7 @@ date: 2024-09-24
 collection: talks
 type: "Fall 2024"
 permalink: /workshop/2024/FA/FootballML
+excerpt: ""
 ---
 Watch and view the code for a workshop using machine learning to predict pass completions.
 
