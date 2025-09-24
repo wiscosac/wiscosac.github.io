@@ -125,8 +125,7 @@ h1.has-background,h2.has-background,h3.has-background,h4.has-background,h5.has-b
 
 
 
-<h2 class="wp-block-heading has-text-align-center">Sports Analytics Club</h2>
-<h2 class="wp-block-heading has-text-align-center">UW &ndash; Madison</h2>
+<h2 class="wp-block-heading has-text-align-center">Sports Analytics Club UW &ndash; Madison</h2>
 
 
 

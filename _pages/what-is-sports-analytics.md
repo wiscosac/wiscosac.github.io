@@ -3,7 +3,8 @@ title: "What is Sports Analytics?"
 permalink: /what-is-sports-analytics/
 excerpt: ""
 author_profile: true
----
+---  
+<br>
 You’re probably on this page wondering: “What is sports analytics”. Well, whatever your perception of this field of data analytics is, it only covers the surface of what those who call themselves sports analysts do on a day to day basis. 
 
 Sports analytics, in a general sense, is the process of utilizing statistics in sport to analyze past data and use this to help understand the complexities of sport as well as predict and improve future performance. This can be done on a small, in-game/match level, or on a much larger scale, being used to predict how a team or individual player might do for the entirety of their season.
