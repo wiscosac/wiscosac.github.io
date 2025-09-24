@@ -2,7 +2,7 @@
 title: "Predicting NBA MVP"
 date: 2024-06-11
 collection: publications
-permalink: /projects/MaxRotblut/NBA-MVP
+permalink: /projects/2024/06/NBA-MVP
 excerpt: 'Max Rotblut’s project using ML to predict future NBA MVP’s'
 ---
 By Max Rotblut
@@ -13,17 +13,21 @@ I did this using Machine learning, the model I created first applies a Standard 
 
 A standard scaler centers the data around 0 then makes the variance of the data 1, allowing the machine to easily understand the data is comparison to other columns. The following transformation is applied:
 
+$$x_{scaled} = X - \frac{\mu}{\sigma}$$
+
 After the data is made uniform, a linear regression is applied, this assumes there is a relationship between the data and finds the relationship using ordinary least squares linear regression. Sklearn forms the following formula:
+
+$$y = Xw + b$$
 
 Where 
 
-y = the dependant variable (Whether or not a player is MVP) 
+$y$ = the dependant variable (Whether or not a player is MVP) 
 
-X = the matrix of input features 
+$X$ = the matrix of input features 
 
-w = the vector of coefficients 
+$w$ = the vector of coefficients 
 
-b = the intercept term
+$b$ = the intercept term
 
 This formula can then be used on new data to predict the dependant variable.
 
