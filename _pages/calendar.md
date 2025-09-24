@@ -4,11 +4,6 @@ permalink: /calendar/
 excerpt: ""
 author_profile: true
 ---
-<!-- wp:cover {"url":"https://wiscosac.files.wordpress.com/2024/05/fball_mich_ad21_4079.jpg","id":134,"dimRatio":50,"customOverlayColor":"#FFF","isUserOverlayColor":true,"minHeight":351,"minHeightUnit":"px","contentPosition":"center center","isDark":false,"align":"full","style":{"color":{"duotone":["rgb(255, 255, 255)","rgb(139, 139, 139)"]}}} -->
-<div class="wp-block-cover alignfull is-light" style="min-height:351px"><img class="wp-block-cover__image-background wp-image-134" alt="" src="https://wiscosac.files.wordpress.com/2024/05/fball_mich_ad21_4079.jpg" data-object-fit="cover" /><span aria-hidden="true" class="wp-block-cover__background has-background-dim" style="background-color:#FFF"></span><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center"} -->
-<h2 class="wp-block-heading has-text-align-center">Calendar</h2>
-<!-- /wp:heading --></div></div>
-<!-- /wp:cover -->
 
 <!-- wp:paragraph -->
 <p>To add the calendar to your google calendar click this <a href="https://calendar.google.com/calendar/embed?src=e1ea9c46509928520cf0ac36372f4cfc39b2f3a66983463c1cea1d65930d33c1%40group.calendar.google.com&amp;ctz=America%2FChicago">link</a>.</p>
@@ -36,6 +31,4 @@ author_profile: true
 <figure class="wp-block-table"><table class="has-fixed-layout" style="border-style:none;border-width:0px"><tbody><tr><td><a href="https://calendar.google.com/calendar/ical/e1ea9c46509928520cf0ac36372f4cfc39b2f3a66983463c1cea1d65930d33c1%40group.calendar.google.com/public/basic.ics">https://calendar.google.com/calendar/ical/e1ea9c46509928520cf0ac36372f4cfc39b2f3a66983463c1cea1d65930d33c1%40group.calendar.google.com/public/basic.ics</a></td></tr></tbody></table></figure>
 <!-- /wp:table -->
 
-<!-- wp:jetpack/google-calendar {"url":"https://calendar.google.com/calendar/embed?src=e1ea9c46509928520cf0ac36372f4cfc39b2f3a66983463c1cea1d65930d33c1%40group.calendar.google.com\u0026amp;ctz=America%2FChicago","align":"center"} -->
-<a class="wp-block-jetpack-google-calendar aligncenter" href="https://calendar.google.com/calendar/embed?src=e1ea9c46509928520cf0ac36372f4cfc39b2f3a66983463c1cea1d65930d33c1%40group.calendar.google.com&amp;ctz=America%2FChicago">https://calendar.google.com/calendar/embed?src=e1ea9c46509928520cf0ac36372f4cfc39b2f3a66983463c1cea1d65930d33c1%40group.calendar.google.com&amp;ctz=America%2FChicago</a>
-<!-- /wp:jetpack/google-calendar -->
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FChicago&showPrint=0&mode=AGENDA&showTabs=0&showDate=0&showNav=0&showTitle=0&src=ZTFlYTljNDY1MDk5Mjg1MjBjZjBhYzM2MzcyZjRjZmMzOWIyZjNhNjY5ODM0NjNjMWNlYTFkNjU5MzBkMzNjMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23e4c441" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
