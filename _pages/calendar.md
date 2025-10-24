@@ -63,7 +63,7 @@ Use this link to add the calendar:
   <pre><code>
     https://calendar.google.com/calendar/ical/e1ea9c46509928520cf0ac36372f4cfc39b2f3a66983463c1cea1d65930d33c1%40group.calendar.google.com/public/basic.ics
   </code></pre>
-  <button class="copy-button" onclick="copyCode(this)">Copy</button>
+  <button class="copy-button" onclick="navigator.clipboard.writeText('https://calendar.google.com/calendar/ical/e1ea9c46509928520cf0ac36372f4cfc39b2f3a66983463c1cea1d65930d33c1%40group.calendar.google.com/public/basic.ics')">Copy</button>
 </div>
 
 
