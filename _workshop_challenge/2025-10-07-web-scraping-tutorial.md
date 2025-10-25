@@ -1,7 +1,7 @@
 ---
 title: "Meeting 10/07/25"
 date: 2025-10-07
-collection: talks
+collection: workshop_challenge
 type: "Fall 2025"
 permalink: /Workshop/2025/FA/WebScraping
 excerpt: ""

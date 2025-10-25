@@ -4,7 +4,7 @@
 
 - Fork this repo
     - [help](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo#forking-a-repository)
-- To contribute to this copy the file `/_drafts/project_template.md` to `/_publications/`
+- To contribute to this copy the file `/_drafts/project_template.md` to `/_projects/`
 - Rename the file to be YYYY-MM-DD-[short_few_word_description]
 - Update the header:
     - `title`
@@ -28,6 +28,6 @@ Because this repo website is from a template the following folders/categories fr
 
 > _meetings = Meetings
 > 
-> _talks = Workshops and Challenges
+> _workshop_challenge = Workshops and Challenges
 > 
 > _publicications = Projects

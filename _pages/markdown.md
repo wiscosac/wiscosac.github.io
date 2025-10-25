@@ -13,11 +13,11 @@ redirect_from:
 * Top navigation bar config: _data/navigation.yml
 * Single pages: _pages/
 * Collections of pages are .md or .html files in:
-  * _publications/
+  * _projects/
   * _portfolio/
   * _posts/
   * _meeting/
-  * _talks/
+  * _workshop_challenge/
 * Footer: _includes/footer.html
 * Static files (like PDFs): /files/
 * Profile image (can set in _config.yml): images/profile.png

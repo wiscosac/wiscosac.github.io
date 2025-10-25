@@ -1,7 +1,7 @@
 ---
 title: "Predicting NBA MVP"
 date: 2024-06-11
-collection: publications
+collection: projects
 permalink: /projects/2024/06/NBA-MVP
 excerpt: 'Max Rotblut’s project using ML to predict future NBA MVP’s'
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Article / Research Title here"
 date: 2024-06-11
-collection: publications
+collection: projects
 permalink: /projects/YYYY/MM/PROJECT
 excerpt: 'Short One sentance excerpt'
 ---
