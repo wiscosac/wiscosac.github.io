@@ -1,7 +1,7 @@
 ---
 title: "Football Machine Learning Workshop"
 date: 2024-09-24
-collection: workshop_challenge
+collection: talks
 type: "Fall 2024"
 permalink: /workshop/2024/FA/FootballML
 excerpt: ""

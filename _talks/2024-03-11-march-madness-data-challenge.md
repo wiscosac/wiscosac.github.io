@@ -1,7 +1,7 @@
 ---
 title: "March Madness Data Challenge 2024"
 date: 2024-03-11
-collection: workshop_challenge
+collection: talks
 type: "Spring 2024"
 permalink: /Challenge/2024/SP/MarchMadness
 excerpt: ""

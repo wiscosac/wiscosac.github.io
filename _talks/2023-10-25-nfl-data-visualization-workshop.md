@@ -1,7 +1,7 @@
 ---
 title: "NFL Data Visualization Workshop"
 date: 2023-10-25
-collection: workshop_challenge
+collection: talks
 type: "Fall 2023"
 permalink: /workshop/2023/FA/DataVisuilization
 excerpt: ""
