@@ -26,7 +26,7 @@
 
 Because this repo website is from a template the following folders/categories from the template corelate to our categories on the frontend.
 
-> _meetings = Meetings
+> _teachings = Meetings
 > 
 > _talks = Workshops and Challenges
 > 
