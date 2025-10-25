@@ -20,14 +20,3 @@
     - [help](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)
 
 > Only edit the single markdown file for your project
-
-
-### Folders
-
-Because this repo website is from a template the following folders/categories from the template corelate to our categories on the frontend.
-
-> _meetings = Meetings
-> 
-> _workshop_challenge = Workshops and Challenges
-> 
-> _publicications = Projects
