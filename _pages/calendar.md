@@ -4,26 +4,7 @@ permalink: /calendar/
 excerpt: ""
 author_profile: true
 ---
-<script>
 
-function copyCode(button) {
-  const codeBlock = button.previousElementSibling.querySelector('code');
-  const codeToCopy = codeBlock.innerText;
-
-  navigator.clipboard.writeText(codeToCopy)
-    .then(() => {
-      button.textContent = "Copied!";
-      setTimeout(() => {
-        button.textContent = "Copy";
-      }, 1500); // Revert button text after 1.5 seconds
-    })
-    .catch(err => {
-      console.error("Failed to copy code: ", err);
-      alert("Failed to copy code.");
-    });
-}
-
-</script>
 
 <style>
     .code-container {

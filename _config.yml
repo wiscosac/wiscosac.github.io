@@ -11,7 +11,7 @@ title                    : "Sports Analytics Club, UW - Madison"
 title_separator          : "-"
 name                     : &name ""
 description              : &description "Publishing analytical, data driven insights of sports today"
-url                      : https://wiscosac.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://wiscosac.org # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wiscosac/wiscosac.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -174,7 +174,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  meeting:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -208,10 +208,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _meeting
   - scope:
       path: ""
-      type: teaching
+      type: meeting
     values:
       layout: single
       author_profile: true
