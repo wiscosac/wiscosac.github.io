@@ -11,3 +11,6 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+
+*To submit a project for this website, view this [readme](https://github.com/wiscosac/wiscosac.github.io/blob/master/README.md).*
