@@ -4,7 +4,7 @@ date: 2025-12-17
 collection: publications
 tags: big-data-bowl
 permalink: /projects/2025/12/YAC-Separation
-excerpt: "Understanding how defensive positioning and movement affect yards after catch (YAC) on completed pass plays in the NFL"
+excerpt: "Understanding how defensive positioning and movement affect yards after catch (YAC) on completed pass plays in the NFL \n By Max Rotblut, Shekhar Shah, Sam Negus, Josh Leffel"
 ---
 
 By Max Rotblut, Shekhar Shah, Sam Negus, Josh Leffel
