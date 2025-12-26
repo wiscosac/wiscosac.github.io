@@ -13,4 +13,4 @@ author_profile: true
 {% endfor %}
 
 
-*To submit a project for this website, view this [readme](https://github.com/wiscosac/wiscosac.github.io/blob/master/README.md).*
+*To submit a project for this website, view this [readme](https://github.com/wiscosac/wiscosac.github.io/blob/master/README.md) or submit [this form](https://forms.gle/Ub6gRFT2iXrw8mfc6)*
