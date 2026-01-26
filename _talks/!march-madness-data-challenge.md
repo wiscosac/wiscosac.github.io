@@ -52,9 +52,9 @@ Scoring: There will be 2 winners in our competition:
 
 - Kaggle
 
-    - https://www.kaggle.com/competitions/march-machine-learning-mania-2025/data (This years has not been released yet)
+    - [March Madness Learning Mania 2025](https://www.kaggle.com/competitions/march-machine-learning-mania-2025/data) (This years has not been released yet)
 
-    - https://www.kaggle.com/datasets/nishaanamin/march-madness-data/data
+    - [Nishaan Amin's March Madness Dataset](https://www.kaggle.com/datasets/nishaanamin/march-madness-data/data)
 
 - [ESPN](https://www.espn.com/mens-college-basketball/team/stats/_/id/275)
 
