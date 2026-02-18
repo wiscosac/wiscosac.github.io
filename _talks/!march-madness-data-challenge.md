@@ -15,7 +15,9 @@ For this challenge, you will be expected to provide a likelihood estimate for ev
 This year, we will be hosting two bracket competitions via ESPN Bracket Challenge. You are welcome to sign up for both. 
 
 - The **UW Madison SAC Bracket Challenge - Analytics** bracket will be meant for you to directly input your results/findings from your project. Your picks for this bracket would be exactly what your CSV and results would indicate (i.e if Duke plays Wisconsin, and your CSV indicates Wisconsin has a 75% chance to win, you would select Wisconsin for that matchup).
+    - [Join link](https://fantasy.espn.com/tc/sharer?challengeId=277&from=espn&context=GROUP_INVITE&edition=espn-en&groupId=258f3dae-00e4-47f5-9b37-a35c1c7daf18&joinKey=6879f9fb-7d90-306d-affb-aca1c084ad80)
 - The **UW Madison SAC Bracket Challenge - General** bracket will be for your brackets based on your own interpretation/basketball knowledge. You don’t have to use exact findings/results from your project, but you certainly can use that to inform your decisions (i.e in the same example as above, if you think Duke will beat Wisconsin despite your model/results indicating Wisconsin has a 75% chance to win, you can still select Duke).
+    - [Join link](https://fantasy.espn.com/tc/sharer?challengeId=277&from=espn&context=GROUP_INVITE&edition=espn-en&groupId=ed6e2deb-168b-443b-8bc5-26f736c00d53&joinKey=6879f9fb-7d90-306d-affb-aca1c084ad80)
 
 We are allowing up to 1 bracket for each bracket challenge, meaning you can submit 2 brackets, total. 
 
