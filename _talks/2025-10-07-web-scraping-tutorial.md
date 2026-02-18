@@ -1,10 +1,10 @@
 ---
-title: "Meeting 10/07/25"
+title: "Web Scraping Workshop"
 date: 2025-10-07
 collection: talks
 type: "Fall 2025"
 permalink: /Workshop/2025/FA/WebScraping
-excerpt: ""
+excerpt: "Meeting 10/07/25"
 ---
 This meeting we had workshops for web scraping in R and Python. View them below.
 
