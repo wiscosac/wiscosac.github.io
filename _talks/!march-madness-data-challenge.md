@@ -40,7 +40,7 @@ Scoring: There will be 2 winners in our competition:
 |CSV File of Predictions|Three column CSV submission containing columns higher seed team, lower seed team, likelihood of higher seed winning.|
 
 
-*Check back later for the submission CSV and Form*
+*Check back later for the submission CSV and Form after selection sunday*
 
 ### Milestones
 
@@ -54,7 +54,7 @@ Scoring: There will be 2 winners in our competition:
 
 - Kaggle
 
-    - [March Madness Learning Mania 2025](https://www.kaggle.com/competitions/march-machine-learning-mania-2025/data) (This years has not been released yet)
+    - [March Madness Learning Mania 202](https://www.kaggle.com/competitions/march-machine-learning-mania-2026)
 
     - [Nishaan Amin's March Madness Dataset](https://www.kaggle.com/datasets/nishaanamin/march-madness-data/data)
 
