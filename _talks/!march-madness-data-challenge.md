@@ -54,7 +54,7 @@ Scoring: There will be 2 winners in our competition:
 
 - Kaggle
 
-    - [March Madness Learning Mania 202](https://www.kaggle.com/competitions/march-machine-learning-mania-2026)
+    - [March Madness Learning Mania 2026](https://www.kaggle.com/competitions/march-machine-learning-mania-2026)
 
     - [Nishaan Amin's March Madness Dataset](https://www.kaggle.com/datasets/nishaanamin/march-madness-data/data)
 
