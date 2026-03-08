@@ -1,0 +1,2279 @@
+T1_Spelling,T1_ID,T1_Seed,T2_Spelling,T2_ID,T2_Seed
+alabama,1104,1,purdue,1345,1
+alabama,1104,1,kansas,1242,1
+alabama,1104,1,houston,1222,1
+alabama,1104,1,texas,1400,2
+alabama,1104,1,ucla,1417,2
+alabama,1104,1,marquette,1266,2
+alabama,1104,1,arizona,1112,2
+alabama,1104,1,xavier,1462,3
+alabama,1104,1,baylor,1124,3
+alabama,1104,1,kansas state,1243,3
+alabama,1104,1,gonzaga,1211,3
+alabama,1104,1,indiana,1231,4
+alabama,1104,1,uconn,1163,4
+alabama,1104,1,tennessee,1397,4
+alabama,1104,1,virginia,1438,4
+alabama,1104,1,miami (fl),1274,5
+alabama,1104,1,duke,1181,5
+alabama,1104,1,san diego state,1361,5
+alabama,1104,1,saint mary's,1388,5
+alabama,1104,1,tcu,1395,6
+alabama,1104,1,kentucky,1246,6
+alabama,1104,1,iowa state,1235,6
+alabama,1104,1,creighton,1166,6
+alabama,1104,1,northwestern,1321,7
+alabama,1104,1,michigan state,1277,7
+alabama,1104,1,texas a&m,1401,7
+alabama,1104,1,missouri,1281,7
+alabama,1104,1,arkansas,1116,8
+alabama,1104,1,iowa,1234,8
+alabama,1104,1,memphis,1272,8
+alabama,1104,1,maryland,1268,8
+alabama,1104,1,west virginia,1452,9
+alabama,1104,1,auburn,1120,9
+alabama,1104,1,illinois,1228,9
+alabama,1104,1,florida atlantic,1194,9
+alabama,1104,1,utah state,1429,10
+alabama,1104,1,usc,1425,10
+alabama,1104,1,penn state,1336,10
+alabama,1104,1,boise state,1129,10
+alabama,1104,1,mississippi state,1280,11
+alabama,1104,1,pittsburgh,1338,11
+alabama,1104,1,nevada,1305,11
+alabama,1104,1,arizona state,1113,11
+alabama,1104,1,providence,1344,11
+alabama,1104,1,north carolina state,1301,11
+alabama,1104,1,charleston,1158,12
+alabama,1104,1,oral roberts,1331,12
+alabama,1104,1,vcu,1433,12
+alabama,1104,1,drake,1179,12
+alabama,1104,1,louisiana,1418,13
+alabama,1104,1,kent state,1245,13
+alabama,1104,1,iona,1233,13
+alabama,1104,1,furman,1202,13
+alabama,1104,1,grand canyon,1213,14
+alabama,1104,1,uc santa barbara,1364,14
+alabama,1104,1,kennesaw state,1244,14
+alabama,1104,1,montana state,1286,14
+alabama,1104,1,colgate,1159,15
+alabama,1104,1,unc asheville,1421,15
+alabama,1104,1,princeton,1343,15
+alabama,1104,1,vermont,1436,15
+alabama,1104,1,fairleigh dickinson,1192,16
+alabama,1104,1,texas southern,1411,16
+alabama,1104,1,southeast missouri state,1369,16
+alabama,1104,1,a&m-corpus christi,1394,16
+alabama,1104,1,northern kentucky,1297,16
+alabama,1104,1,howard,1224,16
+purdue,1345,1,kansas,1242,1
+purdue,1345,1,houston,1222,1
+purdue,1345,1,texas,1400,2
+purdue,1345,1,ucla,1417,2
+purdue,1345,1,marquette,1266,2
+purdue,1345,1,arizona,1112,2
+purdue,1345,1,xavier,1462,3
+purdue,1345,1,baylor,1124,3
+purdue,1345,1,kansas state,1243,3
+purdue,1345,1,gonzaga,1211,3
+purdue,1345,1,indiana,1231,4
+purdue,1345,1,uconn,1163,4
+purdue,1345,1,tennessee,1397,4
+purdue,1345,1,virginia,1438,4
+purdue,1345,1,miami (fl),1274,5
+purdue,1345,1,duke,1181,5
+purdue,1345,1,san diego state,1361,5
+purdue,1345,1,saint mary's,1388,5
+purdue,1345,1,tcu,1395,6
+purdue,1345,1,kentucky,1246,6
+purdue,1345,1,iowa state,1235,6
+purdue,1345,1,creighton,1166,6
+purdue,1345,1,northwestern,1321,7
+purdue,1345,1,michigan state,1277,7
+purdue,1345,1,texas a&m,1401,7
+purdue,1345,1,missouri,1281,7
+purdue,1345,1,arkansas,1116,8
+purdue,1345,1,iowa,1234,8
+purdue,1345,1,memphis,1272,8
+purdue,1345,1,maryland,1268,8
+purdue,1345,1,west virginia,1452,9
+purdue,1345,1,auburn,1120,9
+purdue,1345,1,illinois,1228,9
+purdue,1345,1,florida atlantic,1194,9
+purdue,1345,1,utah state,1429,10
+purdue,1345,1,usc,1425,10
+purdue,1345,1,penn state,1336,10
+purdue,1345,1,boise state,1129,10
+purdue,1345,1,mississippi state,1280,11
+purdue,1345,1,pittsburgh,1338,11
+purdue,1345,1,nevada,1305,11
+purdue,1345,1,arizona state,1113,11
+purdue,1345,1,providence,1344,11
+purdue,1345,1,north carolina state,1301,11
+purdue,1345,1,charleston,1158,12
+purdue,1345,1,oral roberts,1331,12
+purdue,1345,1,vcu,1433,12
+purdue,1345,1,drake,1179,12
+purdue,1345,1,louisiana,1418,13
+purdue,1345,1,kent state,1245,13
+purdue,1345,1,iona,1233,13
+purdue,1345,1,furman,1202,13
+purdue,1345,1,grand canyon,1213,14
+purdue,1345,1,uc santa barbara,1364,14
+purdue,1345,1,kennesaw state,1244,14
+purdue,1345,1,montana state,1286,14
+purdue,1345,1,colgate,1159,15
+purdue,1345,1,unc asheville,1421,15
+purdue,1345,1,princeton,1343,15
+purdue,1345,1,vermont,1436,15
+purdue,1345,1,fairleigh dickinson,1192,16
+purdue,1345,1,texas southern,1411,16
+purdue,1345,1,southeast missouri state,1369,16
+purdue,1345,1,a&m-corpus christi,1394,16
+purdue,1345,1,northern kentucky,1297,16
+purdue,1345,1,howard,1224,16
+kansas,1242,1,houston,1222,1
+kansas,1242,1,texas,1400,2
+kansas,1242,1,ucla,1417,2
+kansas,1242,1,marquette,1266,2
+kansas,1242,1,arizona,1112,2
+kansas,1242,1,xavier,1462,3
+kansas,1242,1,baylor,1124,3
+kansas,1242,1,kansas state,1243,3
+kansas,1242,1,gonzaga,1211,3
+kansas,1242,1,indiana,1231,4
+kansas,1242,1,uconn,1163,4
+kansas,1242,1,tennessee,1397,4
+kansas,1242,1,virginia,1438,4
+kansas,1242,1,miami (fl),1274,5
+kansas,1242,1,duke,1181,5
+kansas,1242,1,san diego state,1361,5
+kansas,1242,1,saint mary's,1388,5
+kansas,1242,1,tcu,1395,6
+kansas,1242,1,kentucky,1246,6
+kansas,1242,1,iowa state,1235,6
+kansas,1242,1,creighton,1166,6
+kansas,1242,1,northwestern,1321,7
+kansas,1242,1,michigan state,1277,7
+kansas,1242,1,texas a&m,1401,7
+kansas,1242,1,missouri,1281,7
+kansas,1242,1,arkansas,1116,8
+kansas,1242,1,iowa,1234,8
+kansas,1242,1,memphis,1272,8
+kansas,1242,1,maryland,1268,8
+kansas,1242,1,west virginia,1452,9
+kansas,1242,1,auburn,1120,9
+kansas,1242,1,illinois,1228,9
+kansas,1242,1,florida atlantic,1194,9
+kansas,1242,1,utah state,1429,10
+kansas,1242,1,usc,1425,10
+kansas,1242,1,penn state,1336,10
+kansas,1242,1,boise state,1129,10
+kansas,1242,1,mississippi state,1280,11
+kansas,1242,1,pittsburgh,1338,11
+kansas,1242,1,nevada,1305,11
+kansas,1242,1,arizona state,1113,11
+kansas,1242,1,providence,1344,11
+kansas,1242,1,north carolina state,1301,11
+kansas,1242,1,charleston,1158,12
+kansas,1242,1,oral roberts,1331,12
+kansas,1242,1,vcu,1433,12
+kansas,1242,1,drake,1179,12
+kansas,1242,1,louisiana,1418,13
+kansas,1242,1,kent state,1245,13
+kansas,1242,1,iona,1233,13
+kansas,1242,1,furman,1202,13
+kansas,1242,1,grand canyon,1213,14
+kansas,1242,1,uc santa barbara,1364,14
+kansas,1242,1,kennesaw state,1244,14
+kansas,1242,1,montana state,1286,14
+kansas,1242,1,colgate,1159,15
+kansas,1242,1,unc asheville,1421,15
+kansas,1242,1,princeton,1343,15
+kansas,1242,1,vermont,1436,15
+kansas,1242,1,fairleigh dickinson,1192,16
+kansas,1242,1,texas southern,1411,16
+kansas,1242,1,southeast missouri state,1369,16
+kansas,1242,1,a&m-corpus christi,1394,16
+kansas,1242,1,northern kentucky,1297,16
+kansas,1242,1,howard,1224,16
+houston,1222,1,texas,1400,2
+houston,1222,1,ucla,1417,2
+houston,1222,1,marquette,1266,2
+houston,1222,1,arizona,1112,2
+houston,1222,1,xavier,1462,3
+houston,1222,1,baylor,1124,3
+houston,1222,1,kansas state,1243,3
+houston,1222,1,gonzaga,1211,3
+houston,1222,1,indiana,1231,4
+houston,1222,1,uconn,1163,4
+houston,1222,1,tennessee,1397,4
+houston,1222,1,virginia,1438,4
+houston,1222,1,miami (fl),1274,5
+houston,1222,1,duke,1181,5
+houston,1222,1,san diego state,1361,5
+houston,1222,1,saint mary's,1388,5
+houston,1222,1,tcu,1395,6
+houston,1222,1,kentucky,1246,6
+houston,1222,1,iowa state,1235,6
+houston,1222,1,creighton,1166,6
+houston,1222,1,northwestern,1321,7
+houston,1222,1,michigan state,1277,7
+houston,1222,1,texas a&m,1401,7
+houston,1222,1,missouri,1281,7
+houston,1222,1,arkansas,1116,8
+houston,1222,1,iowa,1234,8
+houston,1222,1,memphis,1272,8
+houston,1222,1,maryland,1268,8
+houston,1222,1,west virginia,1452,9
+houston,1222,1,auburn,1120,9
+houston,1222,1,illinois,1228,9
+houston,1222,1,florida atlantic,1194,9
+houston,1222,1,utah state,1429,10
+houston,1222,1,usc,1425,10
+houston,1222,1,penn state,1336,10
+houston,1222,1,boise state,1129,10
+houston,1222,1,mississippi state,1280,11
+houston,1222,1,pittsburgh,1338,11
+houston,1222,1,nevada,1305,11
+houston,1222,1,arizona state,1113,11
+houston,1222,1,providence,1344,11
+houston,1222,1,north carolina state,1301,11
+houston,1222,1,charleston,1158,12
+houston,1222,1,oral roberts,1331,12
+houston,1222,1,vcu,1433,12
+houston,1222,1,drake,1179,12
+houston,1222,1,louisiana,1418,13
+houston,1222,1,kent state,1245,13
+houston,1222,1,iona,1233,13
+houston,1222,1,furman,1202,13
+houston,1222,1,grand canyon,1213,14
+houston,1222,1,uc santa barbara,1364,14
+houston,1222,1,kennesaw state,1244,14
+houston,1222,1,montana state,1286,14
+houston,1222,1,colgate,1159,15
+houston,1222,1,unc asheville,1421,15
+houston,1222,1,princeton,1343,15
+houston,1222,1,vermont,1436,15
+houston,1222,1,fairleigh dickinson,1192,16
+houston,1222,1,texas southern,1411,16
+houston,1222,1,southeast missouri state,1369,16
+houston,1222,1,a&m-corpus christi,1394,16
+houston,1222,1,northern kentucky,1297,16
+houston,1222,1,howard,1224,16
+texas,1400,2,ucla,1417,2
+texas,1400,2,marquette,1266,2
+texas,1400,2,arizona,1112,2
+texas,1400,2,xavier,1462,3
+texas,1400,2,baylor,1124,3
+texas,1400,2,kansas state,1243,3
+texas,1400,2,gonzaga,1211,3
+texas,1400,2,indiana,1231,4
+texas,1400,2,uconn,1163,4
+texas,1400,2,tennessee,1397,4
+texas,1400,2,virginia,1438,4
+texas,1400,2,miami (fl),1274,5
+texas,1400,2,duke,1181,5
+texas,1400,2,san diego state,1361,5
+texas,1400,2,saint mary's,1388,5
+texas,1400,2,tcu,1395,6
+texas,1400,2,kentucky,1246,6
+texas,1400,2,iowa state,1235,6
+texas,1400,2,creighton,1166,6
+texas,1400,2,northwestern,1321,7
+texas,1400,2,michigan state,1277,7
+texas,1400,2,texas a&m,1401,7
+texas,1400,2,missouri,1281,7
+texas,1400,2,arkansas,1116,8
+texas,1400,2,iowa,1234,8
+texas,1400,2,memphis,1272,8
+texas,1400,2,maryland,1268,8
+texas,1400,2,west virginia,1452,9
+texas,1400,2,auburn,1120,9
+texas,1400,2,illinois,1228,9
+texas,1400,2,florida atlantic,1194,9
+texas,1400,2,utah state,1429,10
+texas,1400,2,usc,1425,10
+texas,1400,2,penn state,1336,10
+texas,1400,2,boise state,1129,10
+texas,1400,2,mississippi state,1280,11
+texas,1400,2,pittsburgh,1338,11
+texas,1400,2,nevada,1305,11
+texas,1400,2,arizona state,1113,11
+texas,1400,2,providence,1344,11
+texas,1400,2,north carolina state,1301,11
+texas,1400,2,charleston,1158,12
+texas,1400,2,oral roberts,1331,12
+texas,1400,2,vcu,1433,12
+texas,1400,2,drake,1179,12
+texas,1400,2,louisiana,1418,13
+texas,1400,2,kent state,1245,13
+texas,1400,2,iona,1233,13
+texas,1400,2,furman,1202,13
+texas,1400,2,grand canyon,1213,14
+texas,1400,2,uc santa barbara,1364,14
+texas,1400,2,kennesaw state,1244,14
+texas,1400,2,montana state,1286,14
+texas,1400,2,colgate,1159,15
+texas,1400,2,unc asheville,1421,15
+texas,1400,2,princeton,1343,15
+texas,1400,2,vermont,1436,15
+texas,1400,2,fairleigh dickinson,1192,16
+texas,1400,2,texas southern,1411,16
+texas,1400,2,southeast missouri state,1369,16
+texas,1400,2,a&m-corpus christi,1394,16
+texas,1400,2,northern kentucky,1297,16
+texas,1400,2,howard,1224,16
+ucla,1417,2,marquette,1266,2
+ucla,1417,2,arizona,1112,2
+ucla,1417,2,xavier,1462,3
+ucla,1417,2,baylor,1124,3
+ucla,1417,2,kansas state,1243,3
+ucla,1417,2,gonzaga,1211,3
+ucla,1417,2,indiana,1231,4
+ucla,1417,2,uconn,1163,4
+ucla,1417,2,tennessee,1397,4
+ucla,1417,2,virginia,1438,4
+ucla,1417,2,miami (fl),1274,5
+ucla,1417,2,duke,1181,5
+ucla,1417,2,san diego state,1361,5
+ucla,1417,2,saint mary's,1388,5
+ucla,1417,2,tcu,1395,6
+ucla,1417,2,kentucky,1246,6
+ucla,1417,2,iowa state,1235,6
+ucla,1417,2,creighton,1166,6
+ucla,1417,2,northwestern,1321,7
+ucla,1417,2,michigan state,1277,7
+ucla,1417,2,texas a&m,1401,7
+ucla,1417,2,missouri,1281,7
+ucla,1417,2,arkansas,1116,8
+ucla,1417,2,iowa,1234,8
+ucla,1417,2,memphis,1272,8
+ucla,1417,2,maryland,1268,8
+ucla,1417,2,west virginia,1452,9
+ucla,1417,2,auburn,1120,9
+ucla,1417,2,illinois,1228,9
+ucla,1417,2,florida atlantic,1194,9
+ucla,1417,2,utah state,1429,10
+ucla,1417,2,usc,1425,10
+ucla,1417,2,penn state,1336,10
+ucla,1417,2,boise state,1129,10
+ucla,1417,2,mississippi state,1280,11
+ucla,1417,2,pittsburgh,1338,11
+ucla,1417,2,nevada,1305,11
+ucla,1417,2,arizona state,1113,11
+ucla,1417,2,providence,1344,11
+ucla,1417,2,north carolina state,1301,11
+ucla,1417,2,charleston,1158,12
+ucla,1417,2,oral roberts,1331,12
+ucla,1417,2,vcu,1433,12
+ucla,1417,2,drake,1179,12
+ucla,1417,2,louisiana,1418,13
+ucla,1417,2,kent state,1245,13
+ucla,1417,2,iona,1233,13
+ucla,1417,2,furman,1202,13
+ucla,1417,2,grand canyon,1213,14
+ucla,1417,2,uc santa barbara,1364,14
+ucla,1417,2,kennesaw state,1244,14
+ucla,1417,2,montana state,1286,14
+ucla,1417,2,colgate,1159,15
+ucla,1417,2,unc asheville,1421,15
+ucla,1417,2,princeton,1343,15
+ucla,1417,2,vermont,1436,15
+ucla,1417,2,fairleigh dickinson,1192,16
+ucla,1417,2,texas southern,1411,16
+ucla,1417,2,southeast missouri state,1369,16
+ucla,1417,2,a&m-corpus christi,1394,16
+ucla,1417,2,northern kentucky,1297,16
+ucla,1417,2,howard,1224,16
+marquette,1266,2,arizona,1112,2
+marquette,1266,2,xavier,1462,3
+marquette,1266,2,baylor,1124,3
+marquette,1266,2,kansas state,1243,3
+marquette,1266,2,gonzaga,1211,3
+marquette,1266,2,indiana,1231,4
+marquette,1266,2,uconn,1163,4
+marquette,1266,2,tennessee,1397,4
+marquette,1266,2,virginia,1438,4
+marquette,1266,2,miami (fl),1274,5
+marquette,1266,2,duke,1181,5
+marquette,1266,2,san diego state,1361,5
+marquette,1266,2,saint mary's,1388,5
+marquette,1266,2,tcu,1395,6
+marquette,1266,2,kentucky,1246,6
+marquette,1266,2,iowa state,1235,6
+marquette,1266,2,creighton,1166,6
+marquette,1266,2,northwestern,1321,7
+marquette,1266,2,michigan state,1277,7
+marquette,1266,2,texas a&m,1401,7
+marquette,1266,2,missouri,1281,7
+marquette,1266,2,arkansas,1116,8
+marquette,1266,2,iowa,1234,8
+marquette,1266,2,memphis,1272,8
+marquette,1266,2,maryland,1268,8
+marquette,1266,2,west virginia,1452,9
+marquette,1266,2,auburn,1120,9
+marquette,1266,2,illinois,1228,9
+marquette,1266,2,florida atlantic,1194,9
+marquette,1266,2,utah state,1429,10
+marquette,1266,2,usc,1425,10
+marquette,1266,2,penn state,1336,10
+marquette,1266,2,boise state,1129,10
+marquette,1266,2,mississippi state,1280,11
+marquette,1266,2,pittsburgh,1338,11
+marquette,1266,2,nevada,1305,11
+marquette,1266,2,arizona state,1113,11
+marquette,1266,2,providence,1344,11
+marquette,1266,2,north carolina state,1301,11
+marquette,1266,2,charleston,1158,12
+marquette,1266,2,oral roberts,1331,12
+marquette,1266,2,vcu,1433,12
+marquette,1266,2,drake,1179,12
+marquette,1266,2,louisiana,1418,13
+marquette,1266,2,kent state,1245,13
+marquette,1266,2,iona,1233,13
+marquette,1266,2,furman,1202,13
+marquette,1266,2,grand canyon,1213,14
+marquette,1266,2,uc santa barbara,1364,14
+marquette,1266,2,kennesaw state,1244,14
+marquette,1266,2,montana state,1286,14
+marquette,1266,2,colgate,1159,15
+marquette,1266,2,unc asheville,1421,15
+marquette,1266,2,princeton,1343,15
+marquette,1266,2,vermont,1436,15
+marquette,1266,2,fairleigh dickinson,1192,16
+marquette,1266,2,texas southern,1411,16
+marquette,1266,2,southeast missouri state,1369,16
+marquette,1266,2,a&m-corpus christi,1394,16
+marquette,1266,2,northern kentucky,1297,16
+marquette,1266,2,howard,1224,16
+arizona,1112,2,xavier,1462,3
+arizona,1112,2,baylor,1124,3
+arizona,1112,2,kansas state,1243,3
+arizona,1112,2,gonzaga,1211,3
+arizona,1112,2,indiana,1231,4
+arizona,1112,2,uconn,1163,4
+arizona,1112,2,tennessee,1397,4
+arizona,1112,2,virginia,1438,4
+arizona,1112,2,miami (fl),1274,5
+arizona,1112,2,duke,1181,5
+arizona,1112,2,san diego state,1361,5
+arizona,1112,2,saint mary's,1388,5
+arizona,1112,2,tcu,1395,6
+arizona,1112,2,kentucky,1246,6
+arizona,1112,2,iowa state,1235,6
+arizona,1112,2,creighton,1166,6
+arizona,1112,2,northwestern,1321,7
+arizona,1112,2,michigan state,1277,7
+arizona,1112,2,texas a&m,1401,7
+arizona,1112,2,missouri,1281,7
+arizona,1112,2,arkansas,1116,8
+arizona,1112,2,iowa,1234,8
+arizona,1112,2,memphis,1272,8
+arizona,1112,2,maryland,1268,8
+arizona,1112,2,west virginia,1452,9
+arizona,1112,2,auburn,1120,9
+arizona,1112,2,illinois,1228,9
+arizona,1112,2,florida atlantic,1194,9
+arizona,1112,2,utah state,1429,10
+arizona,1112,2,usc,1425,10
+arizona,1112,2,penn state,1336,10
+arizona,1112,2,boise state,1129,10
+arizona,1112,2,mississippi state,1280,11
+arizona,1112,2,pittsburgh,1338,11
+arizona,1112,2,nevada,1305,11
+arizona,1112,2,arizona state,1113,11
+arizona,1112,2,providence,1344,11
+arizona,1112,2,north carolina state,1301,11
+arizona,1112,2,charleston,1158,12
+arizona,1112,2,oral roberts,1331,12
+arizona,1112,2,vcu,1433,12
+arizona,1112,2,drake,1179,12
+arizona,1112,2,louisiana,1418,13
+arizona,1112,2,kent state,1245,13
+arizona,1112,2,iona,1233,13
+arizona,1112,2,furman,1202,13
+arizona,1112,2,grand canyon,1213,14
+arizona,1112,2,uc santa barbara,1364,14
+arizona,1112,2,kennesaw state,1244,14
+arizona,1112,2,montana state,1286,14
+arizona,1112,2,colgate,1159,15
+arizona,1112,2,unc asheville,1421,15
+arizona,1112,2,princeton,1343,15
+arizona,1112,2,vermont,1436,15
+arizona,1112,2,fairleigh dickinson,1192,16
+arizona,1112,2,texas southern,1411,16
+arizona,1112,2,southeast missouri state,1369,16
+arizona,1112,2,a&m-corpus christi,1394,16
+arizona,1112,2,northern kentucky,1297,16
+arizona,1112,2,howard,1224,16
+xavier,1462,3,baylor,1124,3
+xavier,1462,3,kansas state,1243,3
+xavier,1462,3,gonzaga,1211,3
+xavier,1462,3,indiana,1231,4
+xavier,1462,3,uconn,1163,4
+xavier,1462,3,tennessee,1397,4
+xavier,1462,3,virginia,1438,4
+xavier,1462,3,miami (fl),1274,5
+xavier,1462,3,duke,1181,5
+xavier,1462,3,san diego state,1361,5
+xavier,1462,3,saint mary's,1388,5
+xavier,1462,3,tcu,1395,6
+xavier,1462,3,kentucky,1246,6
+xavier,1462,3,iowa state,1235,6
+xavier,1462,3,creighton,1166,6
+xavier,1462,3,northwestern,1321,7
+xavier,1462,3,michigan state,1277,7
+xavier,1462,3,texas a&m,1401,7
+xavier,1462,3,missouri,1281,7
+xavier,1462,3,arkansas,1116,8
+xavier,1462,3,iowa,1234,8
+xavier,1462,3,memphis,1272,8
+xavier,1462,3,maryland,1268,8
+xavier,1462,3,west virginia,1452,9
+xavier,1462,3,auburn,1120,9
+xavier,1462,3,illinois,1228,9
+xavier,1462,3,florida atlantic,1194,9
+xavier,1462,3,utah state,1429,10
+xavier,1462,3,usc,1425,10
+xavier,1462,3,penn state,1336,10
+xavier,1462,3,boise state,1129,10
+xavier,1462,3,mississippi state,1280,11
+xavier,1462,3,pittsburgh,1338,11
+xavier,1462,3,nevada,1305,11
+xavier,1462,3,arizona state,1113,11
+xavier,1462,3,providence,1344,11
+xavier,1462,3,north carolina state,1301,11
+xavier,1462,3,charleston,1158,12
+xavier,1462,3,oral roberts,1331,12
+xavier,1462,3,vcu,1433,12
+xavier,1462,3,drake,1179,12
+xavier,1462,3,louisiana,1418,13
+xavier,1462,3,kent state,1245,13
+xavier,1462,3,iona,1233,13
+xavier,1462,3,furman,1202,13
+xavier,1462,3,grand canyon,1213,14
+xavier,1462,3,uc santa barbara,1364,14
+xavier,1462,3,kennesaw state,1244,14
+xavier,1462,3,montana state,1286,14
+xavier,1462,3,colgate,1159,15
+xavier,1462,3,unc asheville,1421,15
+xavier,1462,3,princeton,1343,15
+xavier,1462,3,vermont,1436,15
+xavier,1462,3,fairleigh dickinson,1192,16
+xavier,1462,3,texas southern,1411,16
+xavier,1462,3,southeast missouri state,1369,16
+xavier,1462,3,a&m-corpus christi,1394,16
+xavier,1462,3,northern kentucky,1297,16
+xavier,1462,3,howard,1224,16
+baylor,1124,3,kansas state,1243,3
+baylor,1124,3,gonzaga,1211,3
+baylor,1124,3,indiana,1231,4
+baylor,1124,3,uconn,1163,4
+baylor,1124,3,tennessee,1397,4
+baylor,1124,3,virginia,1438,4
+baylor,1124,3,miami (fl),1274,5
+baylor,1124,3,duke,1181,5
+baylor,1124,3,san diego state,1361,5
+baylor,1124,3,saint mary's,1388,5
+baylor,1124,3,tcu,1395,6
+baylor,1124,3,kentucky,1246,6
+baylor,1124,3,iowa state,1235,6
+baylor,1124,3,creighton,1166,6
+baylor,1124,3,northwestern,1321,7
+baylor,1124,3,michigan state,1277,7
+baylor,1124,3,texas a&m,1401,7
+baylor,1124,3,missouri,1281,7
+baylor,1124,3,arkansas,1116,8
+baylor,1124,3,iowa,1234,8
+baylor,1124,3,memphis,1272,8
+baylor,1124,3,maryland,1268,8
+baylor,1124,3,west virginia,1452,9
+baylor,1124,3,auburn,1120,9
+baylor,1124,3,illinois,1228,9
+baylor,1124,3,florida atlantic,1194,9
+baylor,1124,3,utah state,1429,10
+baylor,1124,3,usc,1425,10
+baylor,1124,3,penn state,1336,10
+baylor,1124,3,boise state,1129,10
+baylor,1124,3,mississippi state,1280,11
+baylor,1124,3,pittsburgh,1338,11
+baylor,1124,3,nevada,1305,11
+baylor,1124,3,arizona state,1113,11
+baylor,1124,3,providence,1344,11
+baylor,1124,3,north carolina state,1301,11
+baylor,1124,3,charleston,1158,12
+baylor,1124,3,oral roberts,1331,12
+baylor,1124,3,vcu,1433,12
+baylor,1124,3,drake,1179,12
+baylor,1124,3,louisiana,1418,13
+baylor,1124,3,kent state,1245,13
+baylor,1124,3,iona,1233,13
+baylor,1124,3,furman,1202,13
+baylor,1124,3,grand canyon,1213,14
+baylor,1124,3,uc santa barbara,1364,14
+baylor,1124,3,kennesaw state,1244,14
+baylor,1124,3,montana state,1286,14
+baylor,1124,3,colgate,1159,15
+baylor,1124,3,unc asheville,1421,15
+baylor,1124,3,princeton,1343,15
+baylor,1124,3,vermont,1436,15
+baylor,1124,3,fairleigh dickinson,1192,16
+baylor,1124,3,texas southern,1411,16
+baylor,1124,3,southeast missouri state,1369,16
+baylor,1124,3,a&m-corpus christi,1394,16
+baylor,1124,3,northern kentucky,1297,16
+baylor,1124,3,howard,1224,16
+kansas state,1243,3,gonzaga,1211,3
+kansas state,1243,3,indiana,1231,4
+kansas state,1243,3,uconn,1163,4
+kansas state,1243,3,tennessee,1397,4
+kansas state,1243,3,virginia,1438,4
+kansas state,1243,3,miami (fl),1274,5
+kansas state,1243,3,duke,1181,5
+kansas state,1243,3,san diego state,1361,5
+kansas state,1243,3,saint mary's,1388,5
+kansas state,1243,3,tcu,1395,6
+kansas state,1243,3,kentucky,1246,6
+kansas state,1243,3,iowa state,1235,6
+kansas state,1243,3,creighton,1166,6
+kansas state,1243,3,northwestern,1321,7
+kansas state,1243,3,michigan state,1277,7
+kansas state,1243,3,texas a&m,1401,7
+kansas state,1243,3,missouri,1281,7
+kansas state,1243,3,arkansas,1116,8
+kansas state,1243,3,iowa,1234,8
+kansas state,1243,3,memphis,1272,8
+kansas state,1243,3,maryland,1268,8
+kansas state,1243,3,west virginia,1452,9
+kansas state,1243,3,auburn,1120,9
+kansas state,1243,3,illinois,1228,9
+kansas state,1243,3,florida atlantic,1194,9
+kansas state,1243,3,utah state,1429,10
+kansas state,1243,3,usc,1425,10
+kansas state,1243,3,penn state,1336,10
+kansas state,1243,3,boise state,1129,10
+kansas state,1243,3,mississippi state,1280,11
+kansas state,1243,3,pittsburgh,1338,11
+kansas state,1243,3,nevada,1305,11
+kansas state,1243,3,arizona state,1113,11
+kansas state,1243,3,providence,1344,11
+kansas state,1243,3,north carolina state,1301,11
+kansas state,1243,3,charleston,1158,12
+kansas state,1243,3,oral roberts,1331,12
+kansas state,1243,3,vcu,1433,12
+kansas state,1243,3,drake,1179,12
+kansas state,1243,3,louisiana,1418,13
+kansas state,1243,3,kent state,1245,13
+kansas state,1243,3,iona,1233,13
+kansas state,1243,3,furman,1202,13
+kansas state,1243,3,grand canyon,1213,14
+kansas state,1243,3,uc santa barbara,1364,14
+kansas state,1243,3,kennesaw state,1244,14
+kansas state,1243,3,montana state,1286,14
+kansas state,1243,3,colgate,1159,15
+kansas state,1243,3,unc asheville,1421,15
+kansas state,1243,3,princeton,1343,15
+kansas state,1243,3,vermont,1436,15
+kansas state,1243,3,fairleigh dickinson,1192,16
+kansas state,1243,3,texas southern,1411,16
+kansas state,1243,3,southeast missouri state,1369,16
+kansas state,1243,3,a&m-corpus christi,1394,16
+kansas state,1243,3,northern kentucky,1297,16
+kansas state,1243,3,howard,1224,16
+gonzaga,1211,3,indiana,1231,4
+gonzaga,1211,3,uconn,1163,4
+gonzaga,1211,3,tennessee,1397,4
+gonzaga,1211,3,virginia,1438,4
+gonzaga,1211,3,miami (fl),1274,5
+gonzaga,1211,3,duke,1181,5
+gonzaga,1211,3,san diego state,1361,5
+gonzaga,1211,3,saint mary's,1388,5
+gonzaga,1211,3,tcu,1395,6
+gonzaga,1211,3,kentucky,1246,6
+gonzaga,1211,3,iowa state,1235,6
+gonzaga,1211,3,creighton,1166,6
+gonzaga,1211,3,northwestern,1321,7
+gonzaga,1211,3,michigan state,1277,7
+gonzaga,1211,3,texas a&m,1401,7
+gonzaga,1211,3,missouri,1281,7
+gonzaga,1211,3,arkansas,1116,8
+gonzaga,1211,3,iowa,1234,8
+gonzaga,1211,3,memphis,1272,8
+gonzaga,1211,3,maryland,1268,8
+gonzaga,1211,3,west virginia,1452,9
+gonzaga,1211,3,auburn,1120,9
+gonzaga,1211,3,illinois,1228,9
+gonzaga,1211,3,florida atlantic,1194,9
+gonzaga,1211,3,utah state,1429,10
+gonzaga,1211,3,usc,1425,10
+gonzaga,1211,3,penn state,1336,10
+gonzaga,1211,3,boise state,1129,10
+gonzaga,1211,3,mississippi state,1280,11
+gonzaga,1211,3,pittsburgh,1338,11
+gonzaga,1211,3,nevada,1305,11
+gonzaga,1211,3,arizona state,1113,11
+gonzaga,1211,3,providence,1344,11
+gonzaga,1211,3,north carolina state,1301,11
+gonzaga,1211,3,charleston,1158,12
+gonzaga,1211,3,oral roberts,1331,12
+gonzaga,1211,3,vcu,1433,12
+gonzaga,1211,3,drake,1179,12
+gonzaga,1211,3,louisiana,1418,13
+gonzaga,1211,3,kent state,1245,13
+gonzaga,1211,3,iona,1233,13
+gonzaga,1211,3,furman,1202,13
+gonzaga,1211,3,grand canyon,1213,14
+gonzaga,1211,3,uc santa barbara,1364,14
+gonzaga,1211,3,kennesaw state,1244,14
+gonzaga,1211,3,montana state,1286,14
+gonzaga,1211,3,colgate,1159,15
+gonzaga,1211,3,unc asheville,1421,15
+gonzaga,1211,3,princeton,1343,15
+gonzaga,1211,3,vermont,1436,15
+gonzaga,1211,3,fairleigh dickinson,1192,16
+gonzaga,1211,3,texas southern,1411,16
+gonzaga,1211,3,southeast missouri state,1369,16
+gonzaga,1211,3,a&m-corpus christi,1394,16
+gonzaga,1211,3,northern kentucky,1297,16
+gonzaga,1211,3,howard,1224,16
+indiana,1231,4,uconn,1163,4
+indiana,1231,4,tennessee,1397,4
+indiana,1231,4,virginia,1438,4
+indiana,1231,4,miami (fl),1274,5
+indiana,1231,4,duke,1181,5
+indiana,1231,4,san diego state,1361,5
+indiana,1231,4,saint mary's,1388,5
+indiana,1231,4,tcu,1395,6
+indiana,1231,4,kentucky,1246,6
+indiana,1231,4,iowa state,1235,6
+indiana,1231,4,creighton,1166,6
+indiana,1231,4,northwestern,1321,7
+indiana,1231,4,michigan state,1277,7
+indiana,1231,4,texas a&m,1401,7
+indiana,1231,4,missouri,1281,7
+indiana,1231,4,arkansas,1116,8
+indiana,1231,4,iowa,1234,8
+indiana,1231,4,memphis,1272,8
+indiana,1231,4,maryland,1268,8
+indiana,1231,4,west virginia,1452,9
+indiana,1231,4,auburn,1120,9
+indiana,1231,4,illinois,1228,9
+indiana,1231,4,florida atlantic,1194,9
+indiana,1231,4,utah state,1429,10
+indiana,1231,4,usc,1425,10
+indiana,1231,4,penn state,1336,10
+indiana,1231,4,boise state,1129,10
+indiana,1231,4,mississippi state,1280,11
+indiana,1231,4,pittsburgh,1338,11
+indiana,1231,4,nevada,1305,11
+indiana,1231,4,arizona state,1113,11
+indiana,1231,4,providence,1344,11
+indiana,1231,4,north carolina state,1301,11
+indiana,1231,4,charleston,1158,12
+indiana,1231,4,oral roberts,1331,12
+indiana,1231,4,vcu,1433,12
+indiana,1231,4,drake,1179,12
+indiana,1231,4,louisiana,1418,13
+indiana,1231,4,kent state,1245,13
+indiana,1231,4,iona,1233,13
+indiana,1231,4,furman,1202,13
+indiana,1231,4,grand canyon,1213,14
+indiana,1231,4,uc santa barbara,1364,14
+indiana,1231,4,kennesaw state,1244,14
+indiana,1231,4,montana state,1286,14
+indiana,1231,4,colgate,1159,15
+indiana,1231,4,unc asheville,1421,15
+indiana,1231,4,princeton,1343,15
+indiana,1231,4,vermont,1436,15
+indiana,1231,4,fairleigh dickinson,1192,16
+indiana,1231,4,texas southern,1411,16
+indiana,1231,4,southeast missouri state,1369,16
+indiana,1231,4,a&m-corpus christi,1394,16
+indiana,1231,4,northern kentucky,1297,16
+indiana,1231,4,howard,1224,16
+uconn,1163,4,tennessee,1397,4
+uconn,1163,4,virginia,1438,4
+uconn,1163,4,miami (fl),1274,5
+uconn,1163,4,duke,1181,5
+uconn,1163,4,san diego state,1361,5
+uconn,1163,4,saint mary's,1388,5
+uconn,1163,4,tcu,1395,6
+uconn,1163,4,kentucky,1246,6
+uconn,1163,4,iowa state,1235,6
+uconn,1163,4,creighton,1166,6
+uconn,1163,4,northwestern,1321,7
+uconn,1163,4,michigan state,1277,7
+uconn,1163,4,texas a&m,1401,7
+uconn,1163,4,missouri,1281,7
+uconn,1163,4,arkansas,1116,8
+uconn,1163,4,iowa,1234,8
+uconn,1163,4,memphis,1272,8
+uconn,1163,4,maryland,1268,8
+uconn,1163,4,west virginia,1452,9
+uconn,1163,4,auburn,1120,9
+uconn,1163,4,illinois,1228,9
+uconn,1163,4,florida atlantic,1194,9
+uconn,1163,4,utah state,1429,10
+uconn,1163,4,usc,1425,10
+uconn,1163,4,penn state,1336,10
+uconn,1163,4,boise state,1129,10
+uconn,1163,4,mississippi state,1280,11
+uconn,1163,4,pittsburgh,1338,11
+uconn,1163,4,nevada,1305,11
+uconn,1163,4,arizona state,1113,11
+uconn,1163,4,providence,1344,11
+uconn,1163,4,north carolina state,1301,11
+uconn,1163,4,charleston,1158,12
+uconn,1163,4,oral roberts,1331,12
+uconn,1163,4,vcu,1433,12
+uconn,1163,4,drake,1179,12
+uconn,1163,4,louisiana,1418,13
+uconn,1163,4,kent state,1245,13
+uconn,1163,4,iona,1233,13
+uconn,1163,4,furman,1202,13
+uconn,1163,4,grand canyon,1213,14
+uconn,1163,4,uc santa barbara,1364,14
+uconn,1163,4,kennesaw state,1244,14
+uconn,1163,4,montana state,1286,14
+uconn,1163,4,colgate,1159,15
+uconn,1163,4,unc asheville,1421,15
+uconn,1163,4,princeton,1343,15
+uconn,1163,4,vermont,1436,15
+uconn,1163,4,fairleigh dickinson,1192,16
+uconn,1163,4,texas southern,1411,16
+uconn,1163,4,southeast missouri state,1369,16
+uconn,1163,4,a&m-corpus christi,1394,16
+uconn,1163,4,northern kentucky,1297,16
+uconn,1163,4,howard,1224,16
+tennessee,1397,4,virginia,1438,4
+tennessee,1397,4,miami (fl),1274,5
+tennessee,1397,4,duke,1181,5
+tennessee,1397,4,san diego state,1361,5
+tennessee,1397,4,saint mary's,1388,5
+tennessee,1397,4,tcu,1395,6
+tennessee,1397,4,kentucky,1246,6
+tennessee,1397,4,iowa state,1235,6
+tennessee,1397,4,creighton,1166,6
+tennessee,1397,4,northwestern,1321,7
+tennessee,1397,4,michigan state,1277,7
+tennessee,1397,4,texas a&m,1401,7
+tennessee,1397,4,missouri,1281,7
+tennessee,1397,4,arkansas,1116,8
+tennessee,1397,4,iowa,1234,8
+tennessee,1397,4,memphis,1272,8
+tennessee,1397,4,maryland,1268,8
+tennessee,1397,4,west virginia,1452,9
+tennessee,1397,4,auburn,1120,9
+tennessee,1397,4,illinois,1228,9
+tennessee,1397,4,florida atlantic,1194,9
+tennessee,1397,4,utah state,1429,10
+tennessee,1397,4,usc,1425,10
+tennessee,1397,4,penn state,1336,10
+tennessee,1397,4,boise state,1129,10
+tennessee,1397,4,mississippi state,1280,11
+tennessee,1397,4,pittsburgh,1338,11
+tennessee,1397,4,nevada,1305,11
+tennessee,1397,4,arizona state,1113,11
+tennessee,1397,4,providence,1344,11
+tennessee,1397,4,north carolina state,1301,11
+tennessee,1397,4,charleston,1158,12
+tennessee,1397,4,oral roberts,1331,12
+tennessee,1397,4,vcu,1433,12
+tennessee,1397,4,drake,1179,12
+tennessee,1397,4,louisiana,1418,13
+tennessee,1397,4,kent state,1245,13
+tennessee,1397,4,iona,1233,13
+tennessee,1397,4,furman,1202,13
+tennessee,1397,4,grand canyon,1213,14
+tennessee,1397,4,uc santa barbara,1364,14
+tennessee,1397,4,kennesaw state,1244,14
+tennessee,1397,4,montana state,1286,14
+tennessee,1397,4,colgate,1159,15
+tennessee,1397,4,unc asheville,1421,15
+tennessee,1397,4,princeton,1343,15
+tennessee,1397,4,vermont,1436,15
+tennessee,1397,4,fairleigh dickinson,1192,16
+tennessee,1397,4,texas southern,1411,16
+tennessee,1397,4,southeast missouri state,1369,16
+tennessee,1397,4,a&m-corpus christi,1394,16
+tennessee,1397,4,northern kentucky,1297,16
+tennessee,1397,4,howard,1224,16
+virginia,1438,4,miami (fl),1274,5
+virginia,1438,4,duke,1181,5
+virginia,1438,4,san diego state,1361,5
+virginia,1438,4,saint mary's,1388,5
+virginia,1438,4,tcu,1395,6
+virginia,1438,4,kentucky,1246,6
+virginia,1438,4,iowa state,1235,6
+virginia,1438,4,creighton,1166,6
+virginia,1438,4,northwestern,1321,7
+virginia,1438,4,michigan state,1277,7
+virginia,1438,4,texas a&m,1401,7
+virginia,1438,4,missouri,1281,7
+virginia,1438,4,arkansas,1116,8
+virginia,1438,4,iowa,1234,8
+virginia,1438,4,memphis,1272,8
+virginia,1438,4,maryland,1268,8
+virginia,1438,4,west virginia,1452,9
+virginia,1438,4,auburn,1120,9
+virginia,1438,4,illinois,1228,9
+virginia,1438,4,florida atlantic,1194,9
+virginia,1438,4,utah state,1429,10
+virginia,1438,4,usc,1425,10
+virginia,1438,4,penn state,1336,10
+virginia,1438,4,boise state,1129,10
+virginia,1438,4,mississippi state,1280,11
+virginia,1438,4,pittsburgh,1338,11
+virginia,1438,4,nevada,1305,11
+virginia,1438,4,arizona state,1113,11
+virginia,1438,4,providence,1344,11
+virginia,1438,4,north carolina state,1301,11
+virginia,1438,4,charleston,1158,12
+virginia,1438,4,oral roberts,1331,12
+virginia,1438,4,vcu,1433,12
+virginia,1438,4,drake,1179,12
+virginia,1438,4,louisiana,1418,13
+virginia,1438,4,kent state,1245,13
+virginia,1438,4,iona,1233,13
+virginia,1438,4,furman,1202,13
+virginia,1438,4,grand canyon,1213,14
+virginia,1438,4,uc santa barbara,1364,14
+virginia,1438,4,kennesaw state,1244,14
+virginia,1438,4,montana state,1286,14
+virginia,1438,4,colgate,1159,15
+virginia,1438,4,unc asheville,1421,15
+virginia,1438,4,princeton,1343,15
+virginia,1438,4,vermont,1436,15
+virginia,1438,4,fairleigh dickinson,1192,16
+virginia,1438,4,texas southern,1411,16
+virginia,1438,4,southeast missouri state,1369,16
+virginia,1438,4,a&m-corpus christi,1394,16
+virginia,1438,4,northern kentucky,1297,16
+virginia,1438,4,howard,1224,16
+miami (fl),1274,5,duke,1181,5
+miami (fl),1274,5,san diego state,1361,5
+miami (fl),1274,5,saint mary's,1388,5
+miami (fl),1274,5,tcu,1395,6
+miami (fl),1274,5,kentucky,1246,6
+miami (fl),1274,5,iowa state,1235,6
+miami (fl),1274,5,creighton,1166,6
+miami (fl),1274,5,northwestern,1321,7
+miami (fl),1274,5,michigan state,1277,7
+miami (fl),1274,5,texas a&m,1401,7
+miami (fl),1274,5,missouri,1281,7
+miami (fl),1274,5,arkansas,1116,8
+miami (fl),1274,5,iowa,1234,8
+miami (fl),1274,5,memphis,1272,8
+miami (fl),1274,5,maryland,1268,8
+miami (fl),1274,5,west virginia,1452,9
+miami (fl),1274,5,auburn,1120,9
+miami (fl),1274,5,illinois,1228,9
+miami (fl),1274,5,florida atlantic,1194,9
+miami (fl),1274,5,utah state,1429,10
+miami (fl),1274,5,usc,1425,10
+miami (fl),1274,5,penn state,1336,10
+miami (fl),1274,5,boise state,1129,10
+miami (fl),1274,5,mississippi state,1280,11
+miami (fl),1274,5,pittsburgh,1338,11
+miami (fl),1274,5,nevada,1305,11
+miami (fl),1274,5,arizona state,1113,11
+miami (fl),1274,5,providence,1344,11
+miami (fl),1274,5,north carolina state,1301,11
+miami (fl),1274,5,charleston,1158,12
+miami (fl),1274,5,oral roberts,1331,12
+miami (fl),1274,5,vcu,1433,12
+miami (fl),1274,5,drake,1179,12
+miami (fl),1274,5,louisiana,1418,13
+miami (fl),1274,5,kent state,1245,13
+miami (fl),1274,5,iona,1233,13
+miami (fl),1274,5,furman,1202,13
+miami (fl),1274,5,grand canyon,1213,14
+miami (fl),1274,5,uc santa barbara,1364,14
+miami (fl),1274,5,kennesaw state,1244,14
+miami (fl),1274,5,montana state,1286,14
+miami (fl),1274,5,colgate,1159,15
+miami (fl),1274,5,unc asheville,1421,15
+miami (fl),1274,5,princeton,1343,15
+miami (fl),1274,5,vermont,1436,15
+miami (fl),1274,5,fairleigh dickinson,1192,16
+miami (fl),1274,5,texas southern,1411,16
+miami (fl),1274,5,southeast missouri state,1369,16
+miami (fl),1274,5,a&m-corpus christi,1394,16
+miami (fl),1274,5,northern kentucky,1297,16
+miami (fl),1274,5,howard,1224,16
+duke,1181,5,san diego state,1361,5
+duke,1181,5,saint mary's,1388,5
+duke,1181,5,tcu,1395,6
+duke,1181,5,kentucky,1246,6
+duke,1181,5,iowa state,1235,6
+duke,1181,5,creighton,1166,6
+duke,1181,5,northwestern,1321,7
+duke,1181,5,michigan state,1277,7
+duke,1181,5,texas a&m,1401,7
+duke,1181,5,missouri,1281,7
+duke,1181,5,arkansas,1116,8
+duke,1181,5,iowa,1234,8
+duke,1181,5,memphis,1272,8
+duke,1181,5,maryland,1268,8
+duke,1181,5,west virginia,1452,9
+duke,1181,5,auburn,1120,9
+duke,1181,5,illinois,1228,9
+duke,1181,5,florida atlantic,1194,9
+duke,1181,5,utah state,1429,10
+duke,1181,5,usc,1425,10
+duke,1181,5,penn state,1336,10
+duke,1181,5,boise state,1129,10
+duke,1181,5,mississippi state,1280,11
+duke,1181,5,pittsburgh,1338,11
+duke,1181,5,nevada,1305,11
+duke,1181,5,arizona state,1113,11
+duke,1181,5,providence,1344,11
+duke,1181,5,north carolina state,1301,11
+duke,1181,5,charleston,1158,12
+duke,1181,5,oral roberts,1331,12
+duke,1181,5,vcu,1433,12
+duke,1181,5,drake,1179,12
+duke,1181,5,louisiana,1418,13
+duke,1181,5,kent state,1245,13
+duke,1181,5,iona,1233,13
+duke,1181,5,furman,1202,13
+duke,1181,5,grand canyon,1213,14
+duke,1181,5,uc santa barbara,1364,14
+duke,1181,5,kennesaw state,1244,14
+duke,1181,5,montana state,1286,14
+duke,1181,5,colgate,1159,15
+duke,1181,5,unc asheville,1421,15
+duke,1181,5,princeton,1343,15
+duke,1181,5,vermont,1436,15
+duke,1181,5,fairleigh dickinson,1192,16
+duke,1181,5,texas southern,1411,16
+duke,1181,5,southeast missouri state,1369,16
+duke,1181,5,a&m-corpus christi,1394,16
+duke,1181,5,northern kentucky,1297,16
+duke,1181,5,howard,1224,16
+san diego state,1361,5,saint mary's,1388,5
+san diego state,1361,5,tcu,1395,6
+san diego state,1361,5,kentucky,1246,6
+san diego state,1361,5,iowa state,1235,6
+san diego state,1361,5,creighton,1166,6
+san diego state,1361,5,northwestern,1321,7
+san diego state,1361,5,michigan state,1277,7
+san diego state,1361,5,texas a&m,1401,7
+san diego state,1361,5,missouri,1281,7
+san diego state,1361,5,arkansas,1116,8
+san diego state,1361,5,iowa,1234,8
+san diego state,1361,5,memphis,1272,8
+san diego state,1361,5,maryland,1268,8
+san diego state,1361,5,west virginia,1452,9
+san diego state,1361,5,auburn,1120,9
+san diego state,1361,5,illinois,1228,9
+san diego state,1361,5,florida atlantic,1194,9
+san diego state,1361,5,utah state,1429,10
+san diego state,1361,5,usc,1425,10
+san diego state,1361,5,penn state,1336,10
+san diego state,1361,5,boise state,1129,10
+san diego state,1361,5,mississippi state,1280,11
+san diego state,1361,5,pittsburgh,1338,11
+san diego state,1361,5,nevada,1305,11
+san diego state,1361,5,arizona state,1113,11
+san diego state,1361,5,providence,1344,11
+san diego state,1361,5,north carolina state,1301,11
+san diego state,1361,5,charleston,1158,12
+san diego state,1361,5,oral roberts,1331,12
+san diego state,1361,5,vcu,1433,12
+san diego state,1361,5,drake,1179,12
+san diego state,1361,5,louisiana,1418,13
+san diego state,1361,5,kent state,1245,13
+san diego state,1361,5,iona,1233,13
+san diego state,1361,5,furman,1202,13
+san diego state,1361,5,grand canyon,1213,14
+san diego state,1361,5,uc santa barbara,1364,14
+san diego state,1361,5,kennesaw state,1244,14
+san diego state,1361,5,montana state,1286,14
+san diego state,1361,5,colgate,1159,15
+san diego state,1361,5,unc asheville,1421,15
+san diego state,1361,5,princeton,1343,15
+san diego state,1361,5,vermont,1436,15
+san diego state,1361,5,fairleigh dickinson,1192,16
+san diego state,1361,5,texas southern,1411,16
+san diego state,1361,5,southeast missouri state,1369,16
+san diego state,1361,5,a&m-corpus christi,1394,16
+san diego state,1361,5,northern kentucky,1297,16
+san diego state,1361,5,howard,1224,16
+saint mary's,1388,5,tcu,1395,6
+saint mary's,1388,5,kentucky,1246,6
+saint mary's,1388,5,iowa state,1235,6
+saint mary's,1388,5,creighton,1166,6
+saint mary's,1388,5,northwestern,1321,7
+saint mary's,1388,5,michigan state,1277,7
+saint mary's,1388,5,texas a&m,1401,7
+saint mary's,1388,5,missouri,1281,7
+saint mary's,1388,5,arkansas,1116,8
+saint mary's,1388,5,iowa,1234,8
+saint mary's,1388,5,memphis,1272,8
+saint mary's,1388,5,maryland,1268,8
+saint mary's,1388,5,west virginia,1452,9
+saint mary's,1388,5,auburn,1120,9
+saint mary's,1388,5,illinois,1228,9
+saint mary's,1388,5,florida atlantic,1194,9
+saint mary's,1388,5,utah state,1429,10
+saint mary's,1388,5,usc,1425,10
+saint mary's,1388,5,penn state,1336,10
+saint mary's,1388,5,boise state,1129,10
+saint mary's,1388,5,mississippi state,1280,11
+saint mary's,1388,5,pittsburgh,1338,11
+saint mary's,1388,5,nevada,1305,11
+saint mary's,1388,5,arizona state,1113,11
+saint mary's,1388,5,providence,1344,11
+saint mary's,1388,5,north carolina state,1301,11
+saint mary's,1388,5,charleston,1158,12
+saint mary's,1388,5,oral roberts,1331,12
+saint mary's,1388,5,vcu,1433,12
+saint mary's,1388,5,drake,1179,12
+saint mary's,1388,5,louisiana,1418,13
+saint mary's,1388,5,kent state,1245,13
+saint mary's,1388,5,iona,1233,13
+saint mary's,1388,5,furman,1202,13
+saint mary's,1388,5,grand canyon,1213,14
+saint mary's,1388,5,uc santa barbara,1364,14
+saint mary's,1388,5,kennesaw state,1244,14
+saint mary's,1388,5,montana state,1286,14
+saint mary's,1388,5,colgate,1159,15
+saint mary's,1388,5,unc asheville,1421,15
+saint mary's,1388,5,princeton,1343,15
+saint mary's,1388,5,vermont,1436,15
+saint mary's,1388,5,fairleigh dickinson,1192,16
+saint mary's,1388,5,texas southern,1411,16
+saint mary's,1388,5,southeast missouri state,1369,16
+saint mary's,1388,5,a&m-corpus christi,1394,16
+saint mary's,1388,5,northern kentucky,1297,16
+saint mary's,1388,5,howard,1224,16
+tcu,1395,6,kentucky,1246,6
+tcu,1395,6,iowa state,1235,6
+tcu,1395,6,creighton,1166,6
+tcu,1395,6,northwestern,1321,7
+tcu,1395,6,michigan state,1277,7
+tcu,1395,6,texas a&m,1401,7
+tcu,1395,6,missouri,1281,7
+tcu,1395,6,arkansas,1116,8
+tcu,1395,6,iowa,1234,8
+tcu,1395,6,memphis,1272,8
+tcu,1395,6,maryland,1268,8
+tcu,1395,6,west virginia,1452,9
+tcu,1395,6,auburn,1120,9
+tcu,1395,6,illinois,1228,9
+tcu,1395,6,florida atlantic,1194,9
+tcu,1395,6,utah state,1429,10
+tcu,1395,6,usc,1425,10
+tcu,1395,6,penn state,1336,10
+tcu,1395,6,boise state,1129,10
+tcu,1395,6,mississippi state,1280,11
+tcu,1395,6,pittsburgh,1338,11
+tcu,1395,6,nevada,1305,11
+tcu,1395,6,arizona state,1113,11
+tcu,1395,6,providence,1344,11
+tcu,1395,6,north carolina state,1301,11
+tcu,1395,6,charleston,1158,12
+tcu,1395,6,oral roberts,1331,12
+tcu,1395,6,vcu,1433,12
+tcu,1395,6,drake,1179,12
+tcu,1395,6,louisiana,1418,13
+tcu,1395,6,kent state,1245,13
+tcu,1395,6,iona,1233,13
+tcu,1395,6,furman,1202,13
+tcu,1395,6,grand canyon,1213,14
+tcu,1395,6,uc santa barbara,1364,14
+tcu,1395,6,kennesaw state,1244,14
+tcu,1395,6,montana state,1286,14
+tcu,1395,6,colgate,1159,15
+tcu,1395,6,unc asheville,1421,15
+tcu,1395,6,princeton,1343,15
+tcu,1395,6,vermont,1436,15
+tcu,1395,6,fairleigh dickinson,1192,16
+tcu,1395,6,texas southern,1411,16
+tcu,1395,6,southeast missouri state,1369,16
+tcu,1395,6,a&m-corpus christi,1394,16
+tcu,1395,6,northern kentucky,1297,16
+tcu,1395,6,howard,1224,16
+kentucky,1246,6,iowa state,1235,6
+kentucky,1246,6,creighton,1166,6
+kentucky,1246,6,northwestern,1321,7
+kentucky,1246,6,michigan state,1277,7
+kentucky,1246,6,texas a&m,1401,7
+kentucky,1246,6,missouri,1281,7
+kentucky,1246,6,arkansas,1116,8
+kentucky,1246,6,iowa,1234,8
+kentucky,1246,6,memphis,1272,8
+kentucky,1246,6,maryland,1268,8
+kentucky,1246,6,west virginia,1452,9
+kentucky,1246,6,auburn,1120,9
+kentucky,1246,6,illinois,1228,9
+kentucky,1246,6,florida atlantic,1194,9
+kentucky,1246,6,utah state,1429,10
+kentucky,1246,6,usc,1425,10
+kentucky,1246,6,penn state,1336,10
+kentucky,1246,6,boise state,1129,10
+kentucky,1246,6,mississippi state,1280,11
+kentucky,1246,6,pittsburgh,1338,11
+kentucky,1246,6,nevada,1305,11
+kentucky,1246,6,arizona state,1113,11
+kentucky,1246,6,providence,1344,11
+kentucky,1246,6,north carolina state,1301,11
+kentucky,1246,6,charleston,1158,12
+kentucky,1246,6,oral roberts,1331,12
+kentucky,1246,6,vcu,1433,12
+kentucky,1246,6,drake,1179,12
+kentucky,1246,6,louisiana,1418,13
+kentucky,1246,6,kent state,1245,13
+kentucky,1246,6,iona,1233,13
+kentucky,1246,6,furman,1202,13
+kentucky,1246,6,grand canyon,1213,14
+kentucky,1246,6,uc santa barbara,1364,14
+kentucky,1246,6,kennesaw state,1244,14
+kentucky,1246,6,montana state,1286,14
+kentucky,1246,6,colgate,1159,15
+kentucky,1246,6,unc asheville,1421,15
+kentucky,1246,6,princeton,1343,15
+kentucky,1246,6,vermont,1436,15
+kentucky,1246,6,fairleigh dickinson,1192,16
+kentucky,1246,6,texas southern,1411,16
+kentucky,1246,6,southeast missouri state,1369,16
+kentucky,1246,6,a&m-corpus christi,1394,16
+kentucky,1246,6,northern kentucky,1297,16
+kentucky,1246,6,howard,1224,16
+iowa state,1235,6,creighton,1166,6
+iowa state,1235,6,northwestern,1321,7
+iowa state,1235,6,michigan state,1277,7
+iowa state,1235,6,texas a&m,1401,7
+iowa state,1235,6,missouri,1281,7
+iowa state,1235,6,arkansas,1116,8
+iowa state,1235,6,iowa,1234,8
+iowa state,1235,6,memphis,1272,8
+iowa state,1235,6,maryland,1268,8
+iowa state,1235,6,west virginia,1452,9
+iowa state,1235,6,auburn,1120,9
+iowa state,1235,6,illinois,1228,9
+iowa state,1235,6,florida atlantic,1194,9
+iowa state,1235,6,utah state,1429,10
+iowa state,1235,6,usc,1425,10
+iowa state,1235,6,penn state,1336,10
+iowa state,1235,6,boise state,1129,10
+iowa state,1235,6,mississippi state,1280,11
+iowa state,1235,6,pittsburgh,1338,11
+iowa state,1235,6,nevada,1305,11
+iowa state,1235,6,arizona state,1113,11
+iowa state,1235,6,providence,1344,11
+iowa state,1235,6,north carolina state,1301,11
+iowa state,1235,6,charleston,1158,12
+iowa state,1235,6,oral roberts,1331,12
+iowa state,1235,6,vcu,1433,12
+iowa state,1235,6,drake,1179,12
+iowa state,1235,6,louisiana,1418,13
+iowa state,1235,6,kent state,1245,13
+iowa state,1235,6,iona,1233,13
+iowa state,1235,6,furman,1202,13
+iowa state,1235,6,grand canyon,1213,14
+iowa state,1235,6,uc santa barbara,1364,14
+iowa state,1235,6,kennesaw state,1244,14
+iowa state,1235,6,montana state,1286,14
+iowa state,1235,6,colgate,1159,15
+iowa state,1235,6,unc asheville,1421,15
+iowa state,1235,6,princeton,1343,15
+iowa state,1235,6,vermont,1436,15
+iowa state,1235,6,fairleigh dickinson,1192,16
+iowa state,1235,6,texas southern,1411,16
+iowa state,1235,6,southeast missouri state,1369,16
+iowa state,1235,6,a&m-corpus christi,1394,16
+iowa state,1235,6,northern kentucky,1297,16
+iowa state,1235,6,howard,1224,16
+creighton,1166,6,northwestern,1321,7
+creighton,1166,6,michigan state,1277,7
+creighton,1166,6,texas a&m,1401,7
+creighton,1166,6,missouri,1281,7
+creighton,1166,6,arkansas,1116,8
+creighton,1166,6,iowa,1234,8
+creighton,1166,6,memphis,1272,8
+creighton,1166,6,maryland,1268,8
+creighton,1166,6,west virginia,1452,9
+creighton,1166,6,auburn,1120,9
+creighton,1166,6,illinois,1228,9
+creighton,1166,6,florida atlantic,1194,9
+creighton,1166,6,utah state,1429,10
+creighton,1166,6,usc,1425,10
+creighton,1166,6,penn state,1336,10
+creighton,1166,6,boise state,1129,10
+creighton,1166,6,mississippi state,1280,11
+creighton,1166,6,pittsburgh,1338,11
+creighton,1166,6,nevada,1305,11
+creighton,1166,6,arizona state,1113,11
+creighton,1166,6,providence,1344,11
+creighton,1166,6,north carolina state,1301,11
+creighton,1166,6,charleston,1158,12
+creighton,1166,6,oral roberts,1331,12
+creighton,1166,6,vcu,1433,12
+creighton,1166,6,drake,1179,12
+creighton,1166,6,louisiana,1418,13
+creighton,1166,6,kent state,1245,13
+creighton,1166,6,iona,1233,13
+creighton,1166,6,furman,1202,13
+creighton,1166,6,grand canyon,1213,14
+creighton,1166,6,uc santa barbara,1364,14
+creighton,1166,6,kennesaw state,1244,14
+creighton,1166,6,montana state,1286,14
+creighton,1166,6,colgate,1159,15
+creighton,1166,6,unc asheville,1421,15
+creighton,1166,6,princeton,1343,15
+creighton,1166,6,vermont,1436,15
+creighton,1166,6,fairleigh dickinson,1192,16
+creighton,1166,6,texas southern,1411,16
+creighton,1166,6,southeast missouri state,1369,16
+creighton,1166,6,a&m-corpus christi,1394,16
+creighton,1166,6,northern kentucky,1297,16
+creighton,1166,6,howard,1224,16
+northwestern,1321,7,michigan state,1277,7
+northwestern,1321,7,texas a&m,1401,7
+northwestern,1321,7,missouri,1281,7
+northwestern,1321,7,arkansas,1116,8
+northwestern,1321,7,iowa,1234,8
+northwestern,1321,7,memphis,1272,8
+northwestern,1321,7,maryland,1268,8
+northwestern,1321,7,west virginia,1452,9
+northwestern,1321,7,auburn,1120,9
+northwestern,1321,7,illinois,1228,9
+northwestern,1321,7,florida atlantic,1194,9
+northwestern,1321,7,utah state,1429,10
+northwestern,1321,7,usc,1425,10
+northwestern,1321,7,penn state,1336,10
+northwestern,1321,7,boise state,1129,10
+northwestern,1321,7,mississippi state,1280,11
+northwestern,1321,7,pittsburgh,1338,11
+northwestern,1321,7,nevada,1305,11
+northwestern,1321,7,arizona state,1113,11
+northwestern,1321,7,providence,1344,11
+northwestern,1321,7,north carolina state,1301,11
+northwestern,1321,7,charleston,1158,12
+northwestern,1321,7,oral roberts,1331,12
+northwestern,1321,7,vcu,1433,12
+northwestern,1321,7,drake,1179,12
+northwestern,1321,7,louisiana,1418,13
+northwestern,1321,7,kent state,1245,13
+northwestern,1321,7,iona,1233,13
+northwestern,1321,7,furman,1202,13
+northwestern,1321,7,grand canyon,1213,14
+northwestern,1321,7,uc santa barbara,1364,14
+northwestern,1321,7,kennesaw state,1244,14
+northwestern,1321,7,montana state,1286,14
+northwestern,1321,7,colgate,1159,15
+northwestern,1321,7,unc asheville,1421,15
+northwestern,1321,7,princeton,1343,15
+northwestern,1321,7,vermont,1436,15
+northwestern,1321,7,fairleigh dickinson,1192,16
+northwestern,1321,7,texas southern,1411,16
+northwestern,1321,7,southeast missouri state,1369,16
+northwestern,1321,7,a&m-corpus christi,1394,16
+northwestern,1321,7,northern kentucky,1297,16
+northwestern,1321,7,howard,1224,16
+michigan state,1277,7,texas a&m,1401,7
+michigan state,1277,7,missouri,1281,7
+michigan state,1277,7,arkansas,1116,8
+michigan state,1277,7,iowa,1234,8
+michigan state,1277,7,memphis,1272,8
+michigan state,1277,7,maryland,1268,8
+michigan state,1277,7,west virginia,1452,9
+michigan state,1277,7,auburn,1120,9
+michigan state,1277,7,illinois,1228,9
+michigan state,1277,7,florida atlantic,1194,9
+michigan state,1277,7,utah state,1429,10
+michigan state,1277,7,usc,1425,10
+michigan state,1277,7,penn state,1336,10
+michigan state,1277,7,boise state,1129,10
+michigan state,1277,7,mississippi state,1280,11
+michigan state,1277,7,pittsburgh,1338,11
+michigan state,1277,7,nevada,1305,11
+michigan state,1277,7,arizona state,1113,11
+michigan state,1277,7,providence,1344,11
+michigan state,1277,7,north carolina state,1301,11
+michigan state,1277,7,charleston,1158,12
+michigan state,1277,7,oral roberts,1331,12
+michigan state,1277,7,vcu,1433,12
+michigan state,1277,7,drake,1179,12
+michigan state,1277,7,louisiana,1418,13
+michigan state,1277,7,kent state,1245,13
+michigan state,1277,7,iona,1233,13
+michigan state,1277,7,furman,1202,13
+michigan state,1277,7,grand canyon,1213,14
+michigan state,1277,7,uc santa barbara,1364,14
+michigan state,1277,7,kennesaw state,1244,14
+michigan state,1277,7,montana state,1286,14
+michigan state,1277,7,colgate,1159,15
+michigan state,1277,7,unc asheville,1421,15
+michigan state,1277,7,princeton,1343,15
+michigan state,1277,7,vermont,1436,15
+michigan state,1277,7,fairleigh dickinson,1192,16
+michigan state,1277,7,texas southern,1411,16
+michigan state,1277,7,southeast missouri state,1369,16
+michigan state,1277,7,a&m-corpus christi,1394,16
+michigan state,1277,7,northern kentucky,1297,16
+michigan state,1277,7,howard,1224,16
+texas a&m,1401,7,missouri,1281,7
+texas a&m,1401,7,arkansas,1116,8
+texas a&m,1401,7,iowa,1234,8
+texas a&m,1401,7,memphis,1272,8
+texas a&m,1401,7,maryland,1268,8
+texas a&m,1401,7,west virginia,1452,9
+texas a&m,1401,7,auburn,1120,9
+texas a&m,1401,7,illinois,1228,9
+texas a&m,1401,7,florida atlantic,1194,9
+texas a&m,1401,7,utah state,1429,10
+texas a&m,1401,7,usc,1425,10
+texas a&m,1401,7,penn state,1336,10
+texas a&m,1401,7,boise state,1129,10
+texas a&m,1401,7,mississippi state,1280,11
+texas a&m,1401,7,pittsburgh,1338,11
+texas a&m,1401,7,nevada,1305,11
+texas a&m,1401,7,arizona state,1113,11
+texas a&m,1401,7,providence,1344,11
+texas a&m,1401,7,north carolina state,1301,11
+texas a&m,1401,7,charleston,1158,12
+texas a&m,1401,7,oral roberts,1331,12
+texas a&m,1401,7,vcu,1433,12
+texas a&m,1401,7,drake,1179,12
+texas a&m,1401,7,louisiana,1418,13
+texas a&m,1401,7,kent state,1245,13
+texas a&m,1401,7,iona,1233,13
+texas a&m,1401,7,furman,1202,13
+texas a&m,1401,7,grand canyon,1213,14
+texas a&m,1401,7,uc santa barbara,1364,14
+texas a&m,1401,7,kennesaw state,1244,14
+texas a&m,1401,7,montana state,1286,14
+texas a&m,1401,7,colgate,1159,15
+texas a&m,1401,7,unc asheville,1421,15
+texas a&m,1401,7,princeton,1343,15
+texas a&m,1401,7,vermont,1436,15
+texas a&m,1401,7,fairleigh dickinson,1192,16
+texas a&m,1401,7,texas southern,1411,16
+texas a&m,1401,7,southeast missouri state,1369,16
+texas a&m,1401,7,a&m-corpus christi,1394,16
+texas a&m,1401,7,northern kentucky,1297,16
+texas a&m,1401,7,howard,1224,16
+missouri,1281,7,arkansas,1116,8
+missouri,1281,7,iowa,1234,8
+missouri,1281,7,memphis,1272,8
+missouri,1281,7,maryland,1268,8
+missouri,1281,7,west virginia,1452,9
+missouri,1281,7,auburn,1120,9
+missouri,1281,7,illinois,1228,9
+missouri,1281,7,florida atlantic,1194,9
+missouri,1281,7,utah state,1429,10
+missouri,1281,7,usc,1425,10
+missouri,1281,7,penn state,1336,10
+missouri,1281,7,boise state,1129,10
+missouri,1281,7,mississippi state,1280,11
+missouri,1281,7,pittsburgh,1338,11
+missouri,1281,7,nevada,1305,11
+missouri,1281,7,arizona state,1113,11
+missouri,1281,7,providence,1344,11
+missouri,1281,7,north carolina state,1301,11
+missouri,1281,7,charleston,1158,12
+missouri,1281,7,oral roberts,1331,12
+missouri,1281,7,vcu,1433,12
+missouri,1281,7,drake,1179,12
+missouri,1281,7,louisiana,1418,13
+missouri,1281,7,kent state,1245,13
+missouri,1281,7,iona,1233,13
+missouri,1281,7,furman,1202,13
+missouri,1281,7,grand canyon,1213,14
+missouri,1281,7,uc santa barbara,1364,14
+missouri,1281,7,kennesaw state,1244,14
+missouri,1281,7,montana state,1286,14
+missouri,1281,7,colgate,1159,15
+missouri,1281,7,unc asheville,1421,15
+missouri,1281,7,princeton,1343,15
+missouri,1281,7,vermont,1436,15
+missouri,1281,7,fairleigh dickinson,1192,16
+missouri,1281,7,texas southern,1411,16
+missouri,1281,7,southeast missouri state,1369,16
+missouri,1281,7,a&m-corpus christi,1394,16
+missouri,1281,7,northern kentucky,1297,16
+missouri,1281,7,howard,1224,16
+arkansas,1116,8,iowa,1234,8
+arkansas,1116,8,memphis,1272,8
+arkansas,1116,8,maryland,1268,8
+arkansas,1116,8,west virginia,1452,9
+arkansas,1116,8,auburn,1120,9
+arkansas,1116,8,illinois,1228,9
+arkansas,1116,8,florida atlantic,1194,9
+arkansas,1116,8,utah state,1429,10
+arkansas,1116,8,usc,1425,10
+arkansas,1116,8,penn state,1336,10
+arkansas,1116,8,boise state,1129,10
+arkansas,1116,8,mississippi state,1280,11
+arkansas,1116,8,pittsburgh,1338,11
+arkansas,1116,8,nevada,1305,11
+arkansas,1116,8,arizona state,1113,11
+arkansas,1116,8,providence,1344,11
+arkansas,1116,8,north carolina state,1301,11
+arkansas,1116,8,charleston,1158,12
+arkansas,1116,8,oral roberts,1331,12
+arkansas,1116,8,vcu,1433,12
+arkansas,1116,8,drake,1179,12
+arkansas,1116,8,louisiana,1418,13
+arkansas,1116,8,kent state,1245,13
+arkansas,1116,8,iona,1233,13
+arkansas,1116,8,furman,1202,13
+arkansas,1116,8,grand canyon,1213,14
+arkansas,1116,8,uc santa barbara,1364,14
+arkansas,1116,8,kennesaw state,1244,14
+arkansas,1116,8,montana state,1286,14
+arkansas,1116,8,colgate,1159,15
+arkansas,1116,8,unc asheville,1421,15
+arkansas,1116,8,princeton,1343,15
+arkansas,1116,8,vermont,1436,15
+arkansas,1116,8,fairleigh dickinson,1192,16
+arkansas,1116,8,texas southern,1411,16
+arkansas,1116,8,southeast missouri state,1369,16
+arkansas,1116,8,a&m-corpus christi,1394,16
+arkansas,1116,8,northern kentucky,1297,16
+arkansas,1116,8,howard,1224,16
+iowa,1234,8,memphis,1272,8
+iowa,1234,8,maryland,1268,8
+iowa,1234,8,west virginia,1452,9
+iowa,1234,8,auburn,1120,9
+iowa,1234,8,illinois,1228,9
+iowa,1234,8,florida atlantic,1194,9
+iowa,1234,8,utah state,1429,10
+iowa,1234,8,usc,1425,10
+iowa,1234,8,penn state,1336,10
+iowa,1234,8,boise state,1129,10
+iowa,1234,8,mississippi state,1280,11
+iowa,1234,8,pittsburgh,1338,11
+iowa,1234,8,nevada,1305,11
+iowa,1234,8,arizona state,1113,11
+iowa,1234,8,providence,1344,11
+iowa,1234,8,north carolina state,1301,11
+iowa,1234,8,charleston,1158,12
+iowa,1234,8,oral roberts,1331,12
+iowa,1234,8,vcu,1433,12
+iowa,1234,8,drake,1179,12
+iowa,1234,8,louisiana,1418,13
+iowa,1234,8,kent state,1245,13
+iowa,1234,8,iona,1233,13
+iowa,1234,8,furman,1202,13
+iowa,1234,8,grand canyon,1213,14
+iowa,1234,8,uc santa barbara,1364,14
+iowa,1234,8,kennesaw state,1244,14
+iowa,1234,8,montana state,1286,14
+iowa,1234,8,colgate,1159,15
+iowa,1234,8,unc asheville,1421,15
+iowa,1234,8,princeton,1343,15
+iowa,1234,8,vermont,1436,15
+iowa,1234,8,fairleigh dickinson,1192,16
+iowa,1234,8,texas southern,1411,16
+iowa,1234,8,southeast missouri state,1369,16
+iowa,1234,8,a&m-corpus christi,1394,16
+iowa,1234,8,northern kentucky,1297,16
+iowa,1234,8,howard,1224,16
+memphis,1272,8,maryland,1268,8
+memphis,1272,8,west virginia,1452,9
+memphis,1272,8,auburn,1120,9
+memphis,1272,8,illinois,1228,9
+memphis,1272,8,florida atlantic,1194,9
+memphis,1272,8,utah state,1429,10
+memphis,1272,8,usc,1425,10
+memphis,1272,8,penn state,1336,10
+memphis,1272,8,boise state,1129,10
+memphis,1272,8,mississippi state,1280,11
+memphis,1272,8,pittsburgh,1338,11
+memphis,1272,8,nevada,1305,11
+memphis,1272,8,arizona state,1113,11
+memphis,1272,8,providence,1344,11
+memphis,1272,8,north carolina state,1301,11
+memphis,1272,8,charleston,1158,12
+memphis,1272,8,oral roberts,1331,12
+memphis,1272,8,vcu,1433,12
+memphis,1272,8,drake,1179,12
+memphis,1272,8,louisiana,1418,13
+memphis,1272,8,kent state,1245,13
+memphis,1272,8,iona,1233,13
+memphis,1272,8,furman,1202,13
+memphis,1272,8,grand canyon,1213,14
+memphis,1272,8,uc santa barbara,1364,14
+memphis,1272,8,kennesaw state,1244,14
+memphis,1272,8,montana state,1286,14
+memphis,1272,8,colgate,1159,15
+memphis,1272,8,unc asheville,1421,15
+memphis,1272,8,princeton,1343,15
+memphis,1272,8,vermont,1436,15
+memphis,1272,8,fairleigh dickinson,1192,16
+memphis,1272,8,texas southern,1411,16
+memphis,1272,8,southeast missouri state,1369,16
+memphis,1272,8,a&m-corpus christi,1394,16
+memphis,1272,8,northern kentucky,1297,16
+memphis,1272,8,howard,1224,16
+maryland,1268,8,west virginia,1452,9
+maryland,1268,8,auburn,1120,9
+maryland,1268,8,illinois,1228,9
+maryland,1268,8,florida atlantic,1194,9
+maryland,1268,8,utah state,1429,10
+maryland,1268,8,usc,1425,10
+maryland,1268,8,penn state,1336,10
+maryland,1268,8,boise state,1129,10
+maryland,1268,8,mississippi state,1280,11
+maryland,1268,8,pittsburgh,1338,11
+maryland,1268,8,nevada,1305,11
+maryland,1268,8,arizona state,1113,11
+maryland,1268,8,providence,1344,11
+maryland,1268,8,north carolina state,1301,11
+maryland,1268,8,charleston,1158,12
+maryland,1268,8,oral roberts,1331,12
+maryland,1268,8,vcu,1433,12
+maryland,1268,8,drake,1179,12
+maryland,1268,8,louisiana,1418,13
+maryland,1268,8,kent state,1245,13
+maryland,1268,8,iona,1233,13
+maryland,1268,8,furman,1202,13
+maryland,1268,8,grand canyon,1213,14
+maryland,1268,8,uc santa barbara,1364,14
+maryland,1268,8,kennesaw state,1244,14
+maryland,1268,8,montana state,1286,14
+maryland,1268,8,colgate,1159,15
+maryland,1268,8,unc asheville,1421,15
+maryland,1268,8,princeton,1343,15
+maryland,1268,8,vermont,1436,15
+maryland,1268,8,fairleigh dickinson,1192,16
+maryland,1268,8,texas southern,1411,16
+maryland,1268,8,southeast missouri state,1369,16
+maryland,1268,8,a&m-corpus christi,1394,16
+maryland,1268,8,northern kentucky,1297,16
+maryland,1268,8,howard,1224,16
+west virginia,1452,9,auburn,1120,9
+west virginia,1452,9,illinois,1228,9
+west virginia,1452,9,florida atlantic,1194,9
+west virginia,1452,9,utah state,1429,10
+west virginia,1452,9,usc,1425,10
+west virginia,1452,9,penn state,1336,10
+west virginia,1452,9,boise state,1129,10
+west virginia,1452,9,mississippi state,1280,11
+west virginia,1452,9,pittsburgh,1338,11
+west virginia,1452,9,nevada,1305,11
+west virginia,1452,9,arizona state,1113,11
+west virginia,1452,9,providence,1344,11
+west virginia,1452,9,north carolina state,1301,11
+west virginia,1452,9,charleston,1158,12
+west virginia,1452,9,oral roberts,1331,12
+west virginia,1452,9,vcu,1433,12
+west virginia,1452,9,drake,1179,12
+west virginia,1452,9,louisiana,1418,13
+west virginia,1452,9,kent state,1245,13
+west virginia,1452,9,iona,1233,13
+west virginia,1452,9,furman,1202,13
+west virginia,1452,9,grand canyon,1213,14
+west virginia,1452,9,uc santa barbara,1364,14
+west virginia,1452,9,kennesaw state,1244,14
+west virginia,1452,9,montana state,1286,14
+west virginia,1452,9,colgate,1159,15
+west virginia,1452,9,unc asheville,1421,15
+west virginia,1452,9,princeton,1343,15
+west virginia,1452,9,vermont,1436,15
+west virginia,1452,9,fairleigh dickinson,1192,16
+west virginia,1452,9,texas southern,1411,16
+west virginia,1452,9,southeast missouri state,1369,16
+west virginia,1452,9,a&m-corpus christi,1394,16
+west virginia,1452,9,northern kentucky,1297,16
+west virginia,1452,9,howard,1224,16
+auburn,1120,9,illinois,1228,9
+auburn,1120,9,florida atlantic,1194,9
+auburn,1120,9,utah state,1429,10
+auburn,1120,9,usc,1425,10
+auburn,1120,9,penn state,1336,10
+auburn,1120,9,boise state,1129,10
+auburn,1120,9,mississippi state,1280,11
+auburn,1120,9,pittsburgh,1338,11
+auburn,1120,9,nevada,1305,11
+auburn,1120,9,arizona state,1113,11
+auburn,1120,9,providence,1344,11
+auburn,1120,9,north carolina state,1301,11
+auburn,1120,9,charleston,1158,12
+auburn,1120,9,oral roberts,1331,12
+auburn,1120,9,vcu,1433,12
+auburn,1120,9,drake,1179,12
+auburn,1120,9,louisiana,1418,13
+auburn,1120,9,kent state,1245,13
+auburn,1120,9,iona,1233,13
+auburn,1120,9,furman,1202,13
+auburn,1120,9,grand canyon,1213,14
+auburn,1120,9,uc santa barbara,1364,14
+auburn,1120,9,kennesaw state,1244,14
+auburn,1120,9,montana state,1286,14
+auburn,1120,9,colgate,1159,15
+auburn,1120,9,unc asheville,1421,15
+auburn,1120,9,princeton,1343,15
+auburn,1120,9,vermont,1436,15
+auburn,1120,9,fairleigh dickinson,1192,16
+auburn,1120,9,texas southern,1411,16
+auburn,1120,9,southeast missouri state,1369,16
+auburn,1120,9,a&m-corpus christi,1394,16
+auburn,1120,9,northern kentucky,1297,16
+auburn,1120,9,howard,1224,16
+illinois,1228,9,florida atlantic,1194,9
+illinois,1228,9,utah state,1429,10
+illinois,1228,9,usc,1425,10
+illinois,1228,9,penn state,1336,10
+illinois,1228,9,boise state,1129,10
+illinois,1228,9,mississippi state,1280,11
+illinois,1228,9,pittsburgh,1338,11
+illinois,1228,9,nevada,1305,11
+illinois,1228,9,arizona state,1113,11
+illinois,1228,9,providence,1344,11
+illinois,1228,9,north carolina state,1301,11
+illinois,1228,9,charleston,1158,12
+illinois,1228,9,oral roberts,1331,12
+illinois,1228,9,vcu,1433,12
+illinois,1228,9,drake,1179,12
+illinois,1228,9,louisiana,1418,13
+illinois,1228,9,kent state,1245,13
+illinois,1228,9,iona,1233,13
+illinois,1228,9,furman,1202,13
+illinois,1228,9,grand canyon,1213,14
+illinois,1228,9,uc santa barbara,1364,14
+illinois,1228,9,kennesaw state,1244,14
+illinois,1228,9,montana state,1286,14
+illinois,1228,9,colgate,1159,15
+illinois,1228,9,unc asheville,1421,15
+illinois,1228,9,princeton,1343,15
+illinois,1228,9,vermont,1436,15
+illinois,1228,9,fairleigh dickinson,1192,16
+illinois,1228,9,texas southern,1411,16
+illinois,1228,9,southeast missouri state,1369,16
+illinois,1228,9,a&m-corpus christi,1394,16
+illinois,1228,9,northern kentucky,1297,16
+illinois,1228,9,howard,1224,16
+florida atlantic,1194,9,utah state,1429,10
+florida atlantic,1194,9,usc,1425,10
+florida atlantic,1194,9,penn state,1336,10
+florida atlantic,1194,9,boise state,1129,10
+florida atlantic,1194,9,mississippi state,1280,11
+florida atlantic,1194,9,pittsburgh,1338,11
+florida atlantic,1194,9,nevada,1305,11
+florida atlantic,1194,9,arizona state,1113,11
+florida atlantic,1194,9,providence,1344,11
+florida atlantic,1194,9,north carolina state,1301,11
+florida atlantic,1194,9,charleston,1158,12
+florida atlantic,1194,9,oral roberts,1331,12
+florida atlantic,1194,9,vcu,1433,12
+florida atlantic,1194,9,drake,1179,12
+florida atlantic,1194,9,louisiana,1418,13
+florida atlantic,1194,9,kent state,1245,13
+florida atlantic,1194,9,iona,1233,13
+florida atlantic,1194,9,furman,1202,13
+florida atlantic,1194,9,grand canyon,1213,14
+florida atlantic,1194,9,uc santa barbara,1364,14
+florida atlantic,1194,9,kennesaw state,1244,14
+florida atlantic,1194,9,montana state,1286,14
+florida atlantic,1194,9,colgate,1159,15
+florida atlantic,1194,9,unc asheville,1421,15
+florida atlantic,1194,9,princeton,1343,15
+florida atlantic,1194,9,vermont,1436,15
+florida atlantic,1194,9,fairleigh dickinson,1192,16
+florida atlantic,1194,9,texas southern,1411,16
+florida atlantic,1194,9,southeast missouri state,1369,16
+florida atlantic,1194,9,a&m-corpus christi,1394,16
+florida atlantic,1194,9,northern kentucky,1297,16
+florida atlantic,1194,9,howard,1224,16
+utah state,1429,10,usc,1425,10
+utah state,1429,10,penn state,1336,10
+utah state,1429,10,boise state,1129,10
+utah state,1429,10,mississippi state,1280,11
+utah state,1429,10,pittsburgh,1338,11
+utah state,1429,10,nevada,1305,11
+utah state,1429,10,arizona state,1113,11
+utah state,1429,10,providence,1344,11
+utah state,1429,10,north carolina state,1301,11
+utah state,1429,10,charleston,1158,12
+utah state,1429,10,oral roberts,1331,12
+utah state,1429,10,vcu,1433,12
+utah state,1429,10,drake,1179,12
+utah state,1429,10,louisiana,1418,13
+utah state,1429,10,kent state,1245,13
+utah state,1429,10,iona,1233,13
+utah state,1429,10,furman,1202,13
+utah state,1429,10,grand canyon,1213,14
+utah state,1429,10,uc santa barbara,1364,14
+utah state,1429,10,kennesaw state,1244,14
+utah state,1429,10,montana state,1286,14
+utah state,1429,10,colgate,1159,15
+utah state,1429,10,unc asheville,1421,15
+utah state,1429,10,princeton,1343,15
+utah state,1429,10,vermont,1436,15
+utah state,1429,10,fairleigh dickinson,1192,16
+utah state,1429,10,texas southern,1411,16
+utah state,1429,10,southeast missouri state,1369,16
+utah state,1429,10,a&m-corpus christi,1394,16
+utah state,1429,10,northern kentucky,1297,16
+utah state,1429,10,howard,1224,16
+usc,1425,10,penn state,1336,10
+usc,1425,10,boise state,1129,10
+usc,1425,10,mississippi state,1280,11
+usc,1425,10,pittsburgh,1338,11
+usc,1425,10,nevada,1305,11
+usc,1425,10,arizona state,1113,11
+usc,1425,10,providence,1344,11
+usc,1425,10,north carolina state,1301,11
+usc,1425,10,charleston,1158,12
+usc,1425,10,oral roberts,1331,12
+usc,1425,10,vcu,1433,12
+usc,1425,10,drake,1179,12
+usc,1425,10,louisiana,1418,13
+usc,1425,10,kent state,1245,13
+usc,1425,10,iona,1233,13
+usc,1425,10,furman,1202,13
+usc,1425,10,grand canyon,1213,14
+usc,1425,10,uc santa barbara,1364,14
+usc,1425,10,kennesaw state,1244,14
+usc,1425,10,montana state,1286,14
+usc,1425,10,colgate,1159,15
+usc,1425,10,unc asheville,1421,15
+usc,1425,10,princeton,1343,15
+usc,1425,10,vermont,1436,15
+usc,1425,10,fairleigh dickinson,1192,16
+usc,1425,10,texas southern,1411,16
+usc,1425,10,southeast missouri state,1369,16
+usc,1425,10,a&m-corpus christi,1394,16
+usc,1425,10,northern kentucky,1297,16
+usc,1425,10,howard,1224,16
+penn state,1336,10,boise state,1129,10
+penn state,1336,10,mississippi state,1280,11
+penn state,1336,10,pittsburgh,1338,11
+penn state,1336,10,nevada,1305,11
+penn state,1336,10,arizona state,1113,11
+penn state,1336,10,providence,1344,11
+penn state,1336,10,north carolina state,1301,11
+penn state,1336,10,charleston,1158,12
+penn state,1336,10,oral roberts,1331,12
+penn state,1336,10,vcu,1433,12
+penn state,1336,10,drake,1179,12
+penn state,1336,10,louisiana,1418,13
+penn state,1336,10,kent state,1245,13
+penn state,1336,10,iona,1233,13
+penn state,1336,10,furman,1202,13
+penn state,1336,10,grand canyon,1213,14
+penn state,1336,10,uc santa barbara,1364,14
+penn state,1336,10,kennesaw state,1244,14
+penn state,1336,10,montana state,1286,14
+penn state,1336,10,colgate,1159,15
+penn state,1336,10,unc asheville,1421,15
+penn state,1336,10,princeton,1343,15
+penn state,1336,10,vermont,1436,15
+penn state,1336,10,fairleigh dickinson,1192,16
+penn state,1336,10,texas southern,1411,16
+penn state,1336,10,southeast missouri state,1369,16
+penn state,1336,10,a&m-corpus christi,1394,16
+penn state,1336,10,northern kentucky,1297,16
+penn state,1336,10,howard,1224,16
+boise state,1129,10,mississippi state,1280,11
+boise state,1129,10,pittsburgh,1338,11
+boise state,1129,10,nevada,1305,11
+boise state,1129,10,arizona state,1113,11
+boise state,1129,10,providence,1344,11
+boise state,1129,10,north carolina state,1301,11
+boise state,1129,10,charleston,1158,12
+boise state,1129,10,oral roberts,1331,12
+boise state,1129,10,vcu,1433,12
+boise state,1129,10,drake,1179,12
+boise state,1129,10,louisiana,1418,13
+boise state,1129,10,kent state,1245,13
+boise state,1129,10,iona,1233,13
+boise state,1129,10,furman,1202,13
+boise state,1129,10,grand canyon,1213,14
+boise state,1129,10,uc santa barbara,1364,14
+boise state,1129,10,kennesaw state,1244,14
+boise state,1129,10,montana state,1286,14
+boise state,1129,10,colgate,1159,15
+boise state,1129,10,unc asheville,1421,15
+boise state,1129,10,princeton,1343,15
+boise state,1129,10,vermont,1436,15
+boise state,1129,10,fairleigh dickinson,1192,16
+boise state,1129,10,texas southern,1411,16
+boise state,1129,10,southeast missouri state,1369,16
+boise state,1129,10,a&m-corpus christi,1394,16
+boise state,1129,10,northern kentucky,1297,16
+boise state,1129,10,howard,1224,16
+mississippi state,1280,11,pittsburgh,1338,11
+mississippi state,1280,11,nevada,1305,11
+mississippi state,1280,11,arizona state,1113,11
+mississippi state,1280,11,providence,1344,11
+mississippi state,1280,11,north carolina state,1301,11
+mississippi state,1280,11,charleston,1158,12
+mississippi state,1280,11,oral roberts,1331,12
+mississippi state,1280,11,vcu,1433,12
+mississippi state,1280,11,drake,1179,12
+mississippi state,1280,11,louisiana,1418,13
+mississippi state,1280,11,kent state,1245,13
+mississippi state,1280,11,iona,1233,13
+mississippi state,1280,11,furman,1202,13
+mississippi state,1280,11,grand canyon,1213,14
+mississippi state,1280,11,uc santa barbara,1364,14
+mississippi state,1280,11,kennesaw state,1244,14
+mississippi state,1280,11,montana state,1286,14
+mississippi state,1280,11,colgate,1159,15
+mississippi state,1280,11,unc asheville,1421,15
+mississippi state,1280,11,princeton,1343,15
+mississippi state,1280,11,vermont,1436,15
+mississippi state,1280,11,fairleigh dickinson,1192,16
+mississippi state,1280,11,texas southern,1411,16
+mississippi state,1280,11,southeast missouri state,1369,16
+mississippi state,1280,11,a&m-corpus christi,1394,16
+mississippi state,1280,11,northern kentucky,1297,16
+mississippi state,1280,11,howard,1224,16
+pittsburgh,1338,11,nevada,1305,11
+pittsburgh,1338,11,arizona state,1113,11
+pittsburgh,1338,11,providence,1344,11
+pittsburgh,1338,11,north carolina state,1301,11
+pittsburgh,1338,11,charleston,1158,12
+pittsburgh,1338,11,oral roberts,1331,12
+pittsburgh,1338,11,vcu,1433,12
+pittsburgh,1338,11,drake,1179,12
+pittsburgh,1338,11,louisiana,1418,13
+pittsburgh,1338,11,kent state,1245,13
+pittsburgh,1338,11,iona,1233,13
+pittsburgh,1338,11,furman,1202,13
+pittsburgh,1338,11,grand canyon,1213,14
+pittsburgh,1338,11,uc santa barbara,1364,14
+pittsburgh,1338,11,kennesaw state,1244,14
+pittsburgh,1338,11,montana state,1286,14
+pittsburgh,1338,11,colgate,1159,15
+pittsburgh,1338,11,unc asheville,1421,15
+pittsburgh,1338,11,princeton,1343,15
+pittsburgh,1338,11,vermont,1436,15
+pittsburgh,1338,11,fairleigh dickinson,1192,16
+pittsburgh,1338,11,texas southern,1411,16
+pittsburgh,1338,11,southeast missouri state,1369,16
+pittsburgh,1338,11,a&m-corpus christi,1394,16
+pittsburgh,1338,11,northern kentucky,1297,16
+pittsburgh,1338,11,howard,1224,16
+nevada,1305,11,arizona state,1113,11
+nevada,1305,11,providence,1344,11
+nevada,1305,11,north carolina state,1301,11
+nevada,1305,11,charleston,1158,12
+nevada,1305,11,oral roberts,1331,12
+nevada,1305,11,vcu,1433,12
+nevada,1305,11,drake,1179,12
+nevada,1305,11,louisiana,1418,13
+nevada,1305,11,kent state,1245,13
+nevada,1305,11,iona,1233,13
+nevada,1305,11,furman,1202,13
+nevada,1305,11,grand canyon,1213,14
+nevada,1305,11,uc santa barbara,1364,14
+nevada,1305,11,kennesaw state,1244,14
+nevada,1305,11,montana state,1286,14
+nevada,1305,11,colgate,1159,15
+nevada,1305,11,unc asheville,1421,15
+nevada,1305,11,princeton,1343,15
+nevada,1305,11,vermont,1436,15
+nevada,1305,11,fairleigh dickinson,1192,16
+nevada,1305,11,texas southern,1411,16
+nevada,1305,11,southeast missouri state,1369,16
+nevada,1305,11,a&m-corpus christi,1394,16
+nevada,1305,11,northern kentucky,1297,16
+nevada,1305,11,howard,1224,16
+arizona state,1113,11,providence,1344,11
+arizona state,1113,11,north carolina state,1301,11
+arizona state,1113,11,charleston,1158,12
+arizona state,1113,11,oral roberts,1331,12
+arizona state,1113,11,vcu,1433,12
+arizona state,1113,11,drake,1179,12
+arizona state,1113,11,louisiana,1418,13
+arizona state,1113,11,kent state,1245,13
+arizona state,1113,11,iona,1233,13
+arizona state,1113,11,furman,1202,13
+arizona state,1113,11,grand canyon,1213,14
+arizona state,1113,11,uc santa barbara,1364,14
+arizona state,1113,11,kennesaw state,1244,14
+arizona state,1113,11,montana state,1286,14
+arizona state,1113,11,colgate,1159,15
+arizona state,1113,11,unc asheville,1421,15
+arizona state,1113,11,princeton,1343,15
+arizona state,1113,11,vermont,1436,15
+arizona state,1113,11,fairleigh dickinson,1192,16
+arizona state,1113,11,texas southern,1411,16
+arizona state,1113,11,southeast missouri state,1369,16
+arizona state,1113,11,a&m-corpus christi,1394,16
+arizona state,1113,11,northern kentucky,1297,16
+arizona state,1113,11,howard,1224,16
+providence,1344,11,north carolina state,1301,11
+providence,1344,11,charleston,1158,12
+providence,1344,11,oral roberts,1331,12
+providence,1344,11,vcu,1433,12
+providence,1344,11,drake,1179,12
+providence,1344,11,louisiana,1418,13
+providence,1344,11,kent state,1245,13
+providence,1344,11,iona,1233,13
+providence,1344,11,furman,1202,13
+providence,1344,11,grand canyon,1213,14
+providence,1344,11,uc santa barbara,1364,14
+providence,1344,11,kennesaw state,1244,14
+providence,1344,11,montana state,1286,14
+providence,1344,11,colgate,1159,15
+providence,1344,11,unc asheville,1421,15
+providence,1344,11,princeton,1343,15
+providence,1344,11,vermont,1436,15
+providence,1344,11,fairleigh dickinson,1192,16
+providence,1344,11,texas southern,1411,16
+providence,1344,11,southeast missouri state,1369,16
+providence,1344,11,a&m-corpus christi,1394,16
+providence,1344,11,northern kentucky,1297,16
+providence,1344,11,howard,1224,16
+north carolina state,1301,11,charleston,1158,12
+north carolina state,1301,11,oral roberts,1331,12
+north carolina state,1301,11,vcu,1433,12
+north carolina state,1301,11,drake,1179,12
+north carolina state,1301,11,louisiana,1418,13
+north carolina state,1301,11,kent state,1245,13
+north carolina state,1301,11,iona,1233,13
+north carolina state,1301,11,furman,1202,13
+north carolina state,1301,11,grand canyon,1213,14
+north carolina state,1301,11,uc santa barbara,1364,14
+north carolina state,1301,11,kennesaw state,1244,14
+north carolina state,1301,11,montana state,1286,14
+north carolina state,1301,11,colgate,1159,15
+north carolina state,1301,11,unc asheville,1421,15
+north carolina state,1301,11,princeton,1343,15
+north carolina state,1301,11,vermont,1436,15
+north carolina state,1301,11,fairleigh dickinson,1192,16
+north carolina state,1301,11,texas southern,1411,16
+north carolina state,1301,11,southeast missouri state,1369,16
+north carolina state,1301,11,a&m-corpus christi,1394,16
+north carolina state,1301,11,northern kentucky,1297,16
+north carolina state,1301,11,howard,1224,16
+charleston,1158,12,oral roberts,1331,12
+charleston,1158,12,vcu,1433,12
+charleston,1158,12,drake,1179,12
+charleston,1158,12,louisiana,1418,13
+charleston,1158,12,kent state,1245,13
+charleston,1158,12,iona,1233,13
+charleston,1158,12,furman,1202,13
+charleston,1158,12,grand canyon,1213,14
+charleston,1158,12,uc santa barbara,1364,14
+charleston,1158,12,kennesaw state,1244,14
+charleston,1158,12,montana state,1286,14
+charleston,1158,12,colgate,1159,15
+charleston,1158,12,unc asheville,1421,15
+charleston,1158,12,princeton,1343,15
+charleston,1158,12,vermont,1436,15
+charleston,1158,12,fairleigh dickinson,1192,16
+charleston,1158,12,texas southern,1411,16
+charleston,1158,12,southeast missouri state,1369,16
+charleston,1158,12,a&m-corpus christi,1394,16
+charleston,1158,12,northern kentucky,1297,16
+charleston,1158,12,howard,1224,16
+oral roberts,1331,12,vcu,1433,12
+oral roberts,1331,12,drake,1179,12
+oral roberts,1331,12,louisiana,1418,13
+oral roberts,1331,12,kent state,1245,13
+oral roberts,1331,12,iona,1233,13
+oral roberts,1331,12,furman,1202,13
+oral roberts,1331,12,grand canyon,1213,14
+oral roberts,1331,12,uc santa barbara,1364,14
+oral roberts,1331,12,kennesaw state,1244,14
+oral roberts,1331,12,montana state,1286,14
+oral roberts,1331,12,colgate,1159,15
+oral roberts,1331,12,unc asheville,1421,15
+oral roberts,1331,12,princeton,1343,15
+oral roberts,1331,12,vermont,1436,15
+oral roberts,1331,12,fairleigh dickinson,1192,16
+oral roberts,1331,12,texas southern,1411,16
+oral roberts,1331,12,southeast missouri state,1369,16
+oral roberts,1331,12,a&m-corpus christi,1394,16
+oral roberts,1331,12,northern kentucky,1297,16
+oral roberts,1331,12,howard,1224,16
+vcu,1433,12,drake,1179,12
+vcu,1433,12,louisiana,1418,13
+vcu,1433,12,kent state,1245,13
+vcu,1433,12,iona,1233,13
+vcu,1433,12,furman,1202,13
+vcu,1433,12,grand canyon,1213,14
+vcu,1433,12,uc santa barbara,1364,14
+vcu,1433,12,kennesaw state,1244,14
+vcu,1433,12,montana state,1286,14
+vcu,1433,12,colgate,1159,15
+vcu,1433,12,unc asheville,1421,15
+vcu,1433,12,princeton,1343,15
+vcu,1433,12,vermont,1436,15
+vcu,1433,12,fairleigh dickinson,1192,16
+vcu,1433,12,texas southern,1411,16
+vcu,1433,12,southeast missouri state,1369,16
+vcu,1433,12,a&m-corpus christi,1394,16
+vcu,1433,12,northern kentucky,1297,16
+vcu,1433,12,howard,1224,16
+drake,1179,12,louisiana,1418,13
+drake,1179,12,kent state,1245,13
+drake,1179,12,iona,1233,13
+drake,1179,12,furman,1202,13
+drake,1179,12,grand canyon,1213,14
+drake,1179,12,uc santa barbara,1364,14
+drake,1179,12,kennesaw state,1244,14
+drake,1179,12,montana state,1286,14
+drake,1179,12,colgate,1159,15
+drake,1179,12,unc asheville,1421,15
+drake,1179,12,princeton,1343,15
+drake,1179,12,vermont,1436,15
+drake,1179,12,fairleigh dickinson,1192,16
+drake,1179,12,texas southern,1411,16
+drake,1179,12,southeast missouri state,1369,16
+drake,1179,12,a&m-corpus christi,1394,16
+drake,1179,12,northern kentucky,1297,16
+drake,1179,12,howard,1224,16
+louisiana,1418,13,kent state,1245,13
+louisiana,1418,13,iona,1233,13
+louisiana,1418,13,furman,1202,13
+louisiana,1418,13,grand canyon,1213,14
+louisiana,1418,13,uc santa barbara,1364,14
+louisiana,1418,13,kennesaw state,1244,14
+louisiana,1418,13,montana state,1286,14
+louisiana,1418,13,colgate,1159,15
+louisiana,1418,13,unc asheville,1421,15
+louisiana,1418,13,princeton,1343,15
+louisiana,1418,13,vermont,1436,15
+louisiana,1418,13,fairleigh dickinson,1192,16
+louisiana,1418,13,texas southern,1411,16
+louisiana,1418,13,southeast missouri state,1369,16
+louisiana,1418,13,a&m-corpus christi,1394,16
+louisiana,1418,13,northern kentucky,1297,16
+louisiana,1418,13,howard,1224,16
+kent state,1245,13,iona,1233,13
+kent state,1245,13,furman,1202,13
+kent state,1245,13,grand canyon,1213,14
+kent state,1245,13,uc santa barbara,1364,14
+kent state,1245,13,kennesaw state,1244,14
+kent state,1245,13,montana state,1286,14
+kent state,1245,13,colgate,1159,15
+kent state,1245,13,unc asheville,1421,15
+kent state,1245,13,princeton,1343,15
+kent state,1245,13,vermont,1436,15
+kent state,1245,13,fairleigh dickinson,1192,16
+kent state,1245,13,texas southern,1411,16
+kent state,1245,13,southeast missouri state,1369,16
+kent state,1245,13,a&m-corpus christi,1394,16
+kent state,1245,13,northern kentucky,1297,16
+kent state,1245,13,howard,1224,16
+iona,1233,13,furman,1202,13
+iona,1233,13,grand canyon,1213,14
+iona,1233,13,uc santa barbara,1364,14
+iona,1233,13,kennesaw state,1244,14
+iona,1233,13,montana state,1286,14
+iona,1233,13,colgate,1159,15
+iona,1233,13,unc asheville,1421,15
+iona,1233,13,princeton,1343,15
+iona,1233,13,vermont,1436,15
+iona,1233,13,fairleigh dickinson,1192,16
+iona,1233,13,texas southern,1411,16
+iona,1233,13,southeast missouri state,1369,16
+iona,1233,13,a&m-corpus christi,1394,16
+iona,1233,13,northern kentucky,1297,16
+iona,1233,13,howard,1224,16
+furman,1202,13,grand canyon,1213,14
+furman,1202,13,uc santa barbara,1364,14
+furman,1202,13,kennesaw state,1244,14
+furman,1202,13,montana state,1286,14
+furman,1202,13,colgate,1159,15
+furman,1202,13,unc asheville,1421,15
+furman,1202,13,princeton,1343,15
+furman,1202,13,vermont,1436,15
+furman,1202,13,fairleigh dickinson,1192,16
+furman,1202,13,texas southern,1411,16
+furman,1202,13,southeast missouri state,1369,16
+furman,1202,13,a&m-corpus christi,1394,16
+furman,1202,13,northern kentucky,1297,16
+furman,1202,13,howard,1224,16
+grand canyon,1213,14,uc santa barbara,1364,14
+grand canyon,1213,14,kennesaw state,1244,14
+grand canyon,1213,14,montana state,1286,14
+grand canyon,1213,14,colgate,1159,15
+grand canyon,1213,14,unc asheville,1421,15
+grand canyon,1213,14,princeton,1343,15
+grand canyon,1213,14,vermont,1436,15
+grand canyon,1213,14,fairleigh dickinson,1192,16
+grand canyon,1213,14,texas southern,1411,16
+grand canyon,1213,14,southeast missouri state,1369,16
+grand canyon,1213,14,a&m-corpus christi,1394,16
+grand canyon,1213,14,northern kentucky,1297,16
+grand canyon,1213,14,howard,1224,16
+uc santa barbara,1364,14,kennesaw state,1244,14
+uc santa barbara,1364,14,montana state,1286,14
+uc santa barbara,1364,14,colgate,1159,15
+uc santa barbara,1364,14,unc asheville,1421,15
+uc santa barbara,1364,14,princeton,1343,15
+uc santa barbara,1364,14,vermont,1436,15
+uc santa barbara,1364,14,fairleigh dickinson,1192,16
+uc santa barbara,1364,14,texas southern,1411,16
+uc santa barbara,1364,14,southeast missouri state,1369,16
+uc santa barbara,1364,14,a&m-corpus christi,1394,16
+uc santa barbara,1364,14,northern kentucky,1297,16
+uc santa barbara,1364,14,howard,1224,16
+kennesaw state,1244,14,montana state,1286,14
+kennesaw state,1244,14,colgate,1159,15
+kennesaw state,1244,14,unc asheville,1421,15
+kennesaw state,1244,14,princeton,1343,15
+kennesaw state,1244,14,vermont,1436,15
+kennesaw state,1244,14,fairleigh dickinson,1192,16
+kennesaw state,1244,14,texas southern,1411,16
+kennesaw state,1244,14,southeast missouri state,1369,16
+kennesaw state,1244,14,a&m-corpus christi,1394,16
+kennesaw state,1244,14,northern kentucky,1297,16
+kennesaw state,1244,14,howard,1224,16
+montana state,1286,14,colgate,1159,15
+montana state,1286,14,unc asheville,1421,15
+montana state,1286,14,princeton,1343,15
+montana state,1286,14,vermont,1436,15
+montana state,1286,14,fairleigh dickinson,1192,16
+montana state,1286,14,texas southern,1411,16
+montana state,1286,14,southeast missouri state,1369,16
+montana state,1286,14,a&m-corpus christi,1394,16
+montana state,1286,14,northern kentucky,1297,16
+montana state,1286,14,howard,1224,16
+colgate,1159,15,unc asheville,1421,15
+colgate,1159,15,princeton,1343,15
+colgate,1159,15,vermont,1436,15
+colgate,1159,15,fairleigh dickinson,1192,16
+colgate,1159,15,texas southern,1411,16
+colgate,1159,15,southeast missouri state,1369,16
+colgate,1159,15,a&m-corpus christi,1394,16
+colgate,1159,15,northern kentucky,1297,16
+colgate,1159,15,howard,1224,16
+unc asheville,1421,15,princeton,1343,15
+unc asheville,1421,15,vermont,1436,15
+unc asheville,1421,15,fairleigh dickinson,1192,16
+unc asheville,1421,15,texas southern,1411,16
+unc asheville,1421,15,southeast missouri state,1369,16
+unc asheville,1421,15,a&m-corpus christi,1394,16
+unc asheville,1421,15,northern kentucky,1297,16
+unc asheville,1421,15,howard,1224,16
+princeton,1343,15,vermont,1436,15
+princeton,1343,15,fairleigh dickinson,1192,16
+princeton,1343,15,texas southern,1411,16
+princeton,1343,15,southeast missouri state,1369,16
+princeton,1343,15,a&m-corpus christi,1394,16
+princeton,1343,15,northern kentucky,1297,16
+princeton,1343,15,howard,1224,16
+vermont,1436,15,fairleigh dickinson,1192,16
+vermont,1436,15,texas southern,1411,16
+vermont,1436,15,southeast missouri state,1369,16
+vermont,1436,15,a&m-corpus christi,1394,16
+vermont,1436,15,northern kentucky,1297,16
+vermont,1436,15,howard,1224,16
+fairleigh dickinson,1192,16,texas southern,1411,16
+fairleigh dickinson,1192,16,southeast missouri state,1369,16
+fairleigh dickinson,1192,16,a&m-corpus christi,1394,16
+fairleigh dickinson,1192,16,northern kentucky,1297,16
+fairleigh dickinson,1192,16,howard,1224,16
+texas southern,1411,16,southeast missouri state,1369,16
+texas southern,1411,16,a&m-corpus christi,1394,16
+texas southern,1411,16,northern kentucky,1297,16
+texas southern,1411,16,howard,1224,16
+southeast missouri state,1369,16,a&m-corpus christi,1394,16
+southeast missouri state,1369,16,northern kentucky,1297,16
+southeast missouri state,1369,16,howard,1224,16
+a&m-corpus christi,1394,16,northern kentucky,1297,16
+a&m-corpus christi,1394,16,howard,1224,16
+northern kentucky,1297,16,howard,1224,16
