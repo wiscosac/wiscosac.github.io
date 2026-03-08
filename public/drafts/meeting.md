@@ -1,6 +1,6 @@
 ---
 title: "Meeting MM/DD/YY"
-date: YYYY-MM-DD
+date: 2026-01-01
 permalink: /Meetings/YYYY/SM/Meeting-YY-MM/
 collection: Meeting Notes
 type: "Weekly Meetings"
