@@ -680,10 +680,10 @@ body {
   cursor: pointer;
 }
 
-.icon-bar {
+.icon-bar, .icon-close {
   width: 25px;
   height: 3px;
-  background-color: white; /* Match your theme */
+  background-color: #000000; /* Match your theme */
 }
 
 @media (max-width: 768px) {
@@ -698,7 +698,7 @@ body {
     top: 100%;
     left: 0;
     width: 100%;
-    background: #111; /* Match your header color */
+    background: white; /* Match your header color */
     flex-direction: column;
     padding: 20px;
   }

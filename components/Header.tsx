@@ -44,7 +44,7 @@ export default function Header() {
             onClick={() => setDropdownOpen(!dropdownOpen)} // Toggle for mobile
           >
             <span className="site-nav-link">Resources ▾</span>
-            {(dropdownOpen || menuOpen) && ( // Show inline on mobile
+            {(dropdownOpen ) && ( // Show inline on mobile
               <div className="dropdown-menu">
                 <Link href="/resources" className="dropdown-item">Resources</Link>
                 <Link href="/what-is-sports-analytics" className="dropdown-item">What is Sports Analytics</Link>
