@@ -669,3 +669,47 @@ body {
     max-width: 180px;
   }
 }
+
+/* Hide burger on desktop */
+.burger-menu {
+  display: none;
+  flex-direction: column;
+  gap: 5px;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.icon-bar {
+  width: 25px;
+  height: 3px;
+  background-color: white; /* Match your theme */
+}
+
+@media (max-width: 768px) {
+  .burger-menu {
+    display: flex;
+    z-index: 100;
+  }
+
+  .site-nav {
+    display: none; /* Hide by default on mobile */
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    background: #111; /* Match your header color */
+    flex-direction: column;
+    padding: 20px;
+  }
+
+  .site-nav.active {
+    display: flex; /* Show when burger is clicked */
+  }
+
+  .dropdown-menu {
+    position: static; /* Stack links on mobile instead of hovering */
+    box-shadow: none;
+    padding-left: 20px;
+  }
+}
