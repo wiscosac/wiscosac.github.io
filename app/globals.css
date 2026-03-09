@@ -87,7 +87,7 @@ body {
   position: relative;
   min-height: 100vh;
 
-  background-image: url("/images/home-bg.jpg");
+  background-image: url("/images/home-bg.webp");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -105,8 +105,8 @@ body {
   min-height: 100vh;
 
   padding-top: 120px;
-  
-  background-image: url("/images/home-bg.jpg");
+
+  background-image: url("/images/home-bg.webp");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
