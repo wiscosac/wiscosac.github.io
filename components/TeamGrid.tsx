@@ -11,6 +11,7 @@ export default function TeamGrid() {
             <Image
               src={member.image || "/images/logo.png"}
               alt={member.name}
+              
               width={145}
               height={145}
               className="team-member__img"

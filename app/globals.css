@@ -100,6 +100,19 @@ body {
   padding: -1rem 1.5rem 3rem;
   overflow: hidden;
 }
+.category-hero {
+  position: relative;
+  min-height: 100vh;
+
+  padding-top: 120px;
+  
+  background-image: url("/images/home-bg.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  background-attachment: fixed;
+}
 
 .home-overlay {
   position: absolute;
@@ -168,18 +181,7 @@ body {
 
 /* ---------- Category hero (Meetings / Projects / Workshops) ---------- */
 
-.category-hero {
-  position: relative;
-  min-height: 100vh;
 
-  padding-top: 120px;
-
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-
-  background-attachment: fixed;
-}
 
 .category-hero__overlay {
   position: absolute;

@@ -1,5 +1,6 @@
 import { ReactNode } from "react";
 import Footer from "@/components/Footer";
+import Image from "next/image";
 
 type CategoryHeroProps = {
   title: string;
@@ -15,8 +16,9 @@ export default function CategoryHero({
   return (
     <div
       className="category-hero"
-      style={{ backgroundImage: `url("${backgroundImage}")` }}
+      
     >
+      
       <div className="category-hero__overlay" />
 
       <section className="category-hero__inner content-page">
