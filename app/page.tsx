@@ -1,14 +1,18 @@
 import Footer from "@/components/Footer";
 import Link from "next/link";
 import JoinModal from "@/components/JoinModal";
+import ErrorBanner from "@/components/ErrorBanner";
 
 export default function HomePage() {
   return (
+    <div>
+      <ErrorBanner />
     <div className="home-hero">
+      
       <div className="home-overlay" />
 
       <div className="home-content">
-
+      
         <h1 className="home-title">
           Sports Analytics Club
           <br />
@@ -27,6 +31,7 @@ export default function HomePage() {
         <JoinModal />
       </div>
     <Footer/>
+    </div>
     </div>
   );
 }
