@@ -19,7 +19,7 @@ export default function Header() {
       <div className="site-header-inner">
         <Link href="/" className="site-logo">
           <img
-            src="/images/new_logo_transparent.png"
+            src="/images/new_logo_transparent-small.png"
             alt="WISCO SAC"
             className="site-logo-image"
           />
