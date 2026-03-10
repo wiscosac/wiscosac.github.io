@@ -26,7 +26,7 @@ We are allowing up to 1 bracket for each bracket challenge, meaning you can subm
 
 - You will need to submit (1) the CSV file with your likelihood of winning for each possible matchup and (2) replicable code file(s) that show the methods you used to get your predictions.
 
-Scoring: There will be 2 winners in our competition:
+**Scoring: There will be 2 winners in our competition:**
 
 - Winner 1: Highest Score using Brier Score. This is the mean squared difference between your predicted likelihood and the actual outcome of the game. Ex. if a 1-seeded Purdue loses to a 6-seeded Wisconsin in the Elite 8, and your model predicted that Purdue had a 70% chance to win, you would receive (1-0.7)^2=0.3^2 points for this matchup. These scores will be calculated for each game that is played and averaged together, regardless of whether you expected the teams to even make it to the game that they played in.
 
@@ -40,14 +40,14 @@ Scoring: There will be 2 winners in our competition:
 |CSV File of Predictions|Three column CSV submission containing columns higher seed team, lower seed team, likelihood of higher seed winning.|
 
 
-*Check back later for the submission CSV and Form after selection sunday*
+*Check back later for the submission CSV after selection sunday*
 [Submission Form](https://forms.gle/gvBS9QM1P8c9KVgX8)
 
 ### Milestones
 
 |Completion date|Project phase|Description|
 |--|--|--|
-|Mar 19, 2026 8:30 AM|Submissions due|Must submit deliverables to Google sheet by 8:30 AM to be credited for participating|
+|Mar 19, 2026 8:30 AM|Submissions due|Must submit deliverables to Google Form by 8:30 AM to be credited for participating|
 |Mar 19, 2026 10:00 AM|Tournament Games Start|March Madness 2026 tips off!|
 |Apr 6, 2026 8:00 PM|March Madness Championship|A champion of March Madness is crowned, and we tally final scores for participants|
 
