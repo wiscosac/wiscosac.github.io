@@ -21,7 +21,7 @@ export default function TeamGrid() {
 
           <div className="team-member__content">
             <h2 className="team-member__name">{member.name}</h2>
-            <p className="team-member__role">{member.role}</p>
+            <p className="team-member__role"><strong>{member.role}</strong></p>
             <p className="team-member__bio">{member.bio}</p>
 
             {member.linkedin && (
