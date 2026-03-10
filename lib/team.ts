@@ -14,17 +14,17 @@ export const team = [
     linkedin: "https://www.linkedin.com/in/max-rotblut/",
   },
   {
-    name: "Pranav Vogeti",
-    role: "Vice President of Outreach",
-    bio: "Pranav is a Senior studying Data Science and Statistics. He first got interested in sports analytics through the sport of basketball. With the club, he is excited to learn new ways to tell a story through data and also meet new fans.",
-    image: "/images/team/pranav.jpg",
-    linkedin: "https://www.linkedin.com/in/pranav-vogeti",
-  },
-  {
     name: "Joseph Corritone",
     role: "Vice President of Marketing",
     bio: "Joseph is a Junior studying Data Science and Economics. He is passionate about using data to drive decision-making in sports, with a focus on NFL, college basketball, and MLB.",
     image: "/images/team/joseph-corritone-profile.jpg",
     linkedin: "https://www.linkedin.com/in/joseph-corritone/",
   },
+  {
+    name: "Pranav Vogeti",
+    role: "Vice President of Outreach",
+    bio: "Pranav is a Senior studying Data Science and Statistics. He first got interested in sports analytics through the sport of basketball. With the club, he is excited to learn new ways to tell a story through data and also meet new fans.",
+    image: "/images/team/pranav.jpg",
+    linkedin: "https://www.linkedin.com/in/pranav-vogeti",
+  }
 ];
