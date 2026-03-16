@@ -40,8 +40,9 @@ We are allowing up to 1 bracket for each bracket challenge, meaning you can subm
 |CSV File of Predictions|Three column CSV submission containing columns higher seed team, lower seed team, likelihood of higher seed winning.|
 
 
-*Check back later for the submission CSV after selection sunday*
 [Submission Form](https://forms.gle/gvBS9QM1P8c9KVgX8)
+
+[Download Submission CSV](/files/2026_Potential_Matchups.csv)
 
 ### Milestones
 
