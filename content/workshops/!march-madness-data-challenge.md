@@ -68,9 +68,9 @@ We are allowing up to 1 bracket for each bracket challenge, meaning you can subm
 
 ### 2026 Leaderboard
 
-Best Brier Score: TBD
+Best Brier Score: Joseph
 
-Most Games Correct: TBD
+Most Games Correct: Max, Finn
 
 [Full 2026 leaderboard](https://docs.google.com/spreadsheets/d/1sRFJgvxx4c63FZUt5ZMW6lF6AmVirCb1VyBDZYuXly4/edit?usp=sharing)
 
@@ -84,12 +84,8 @@ Most Games Correct: Tom
 
 ### 2024 Leaderboard
 
-|Name:|Brier Score|Matchups Correct:|
-|--|--|--|
-|Jake|0.1547086041|97|
-|Luke|0.159260227|96|
-|Maya|0.1655846008|100|
-|Shekhar|0.1692066925|94|
-|Leo|0.2646|75|
+Best Brier Score: Jake
+
+Most Games Correct: Maya 
 
 [Full 2024 Leaderboard](https://docs.google.com/spreadsheets/d/1Q2f371ulX-dQiYylXB5pb6boc1aUJglycX-VVWV3rCs/edit#gid=0)
