@@ -9,7 +9,7 @@ export const team = [
   {
     name: "Ben Schweitzer",
     role: "Vice President",
-    bio: "Ben is a Junior at UW-Madison studying Data Science and Computer Science. He is passionate about sports analytics and is particularly interested in how predictive modeling can help inform in-game strategy. Ben especially enjoys working with data in sports such as hockey, football, and basketball at both the college and professional level.",
+    bio: "Ben is a Junior at UW-Madison studying Data Science and Computer Science. He is passionate about sports analytics and is particularly interested in how predictive modeling can help inform in-game strategy. Ben especially enjoys working with data in sports such as hockey, football, and basketball and is a lifelong Chicago sports fan.",
     image: "/images/team/ben_headshot.jpg",
     linkedin: "https://www.linkedin.com/in/bps78/",
   },
@@ -21,10 +21,10 @@ export const team = [
     linkedin: "https://www.linkedin.com/in/joseph-corritone/",
   },
   {
-    name: "Pranav Vogeti",
+    name: "Noah Saivetz",
     role: "Vice President of Outreach",
-    bio: "Pranav is a Senior studying Data Science and Statistics. He first got interested in sports analytics through the sport of basketball. With the club, he is excited to learn new ways to tell a story through data and also meet new fans.",
-    image: "/images/team/pranav.jpg",
-    linkedin: "https://www.linkedin.com/in/pranav-vogeti",
+    bio: "Noah is a data science major with a certificate in Economic analytics from New York City. He is a die hard Boston sports fan. At school, he works for the football team as a scouting intern.",
+    image: "/images/team/Noah.jpg",
+    linkedin: "https://www.linkedin.com/in/noahsaivetz/",
   }
 ];
